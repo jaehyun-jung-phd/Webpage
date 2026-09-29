@@ -1,0 +1,639 @@
+{
+  "checked_on": "2026-09-29",
+  "format": "Given name(s) Family name; published middle initials retained when expansion is unverified. Jae-Hyun Jung is canonical and rendered in bold.",
+  "pending": [
+    {
+      "id": "publication-60",
+      "title": "Analysis of depth resolution in multi-view display",
+      "authors": "J. Kim, Jisoo Hong, Jae-Hyun Jung, J.-Y. Hong, J. Moon, Byoungho Lee"
+    },
+    {
+      "id": "publication-89",
+      "title": "Stereoscopic view image generation based on the horopter",
+      "authors": "Jae-Hyun Jung, Y. Kim, Sejun Kim, Byoungho Lee"
+    },
+    {
+      "id": "publication-107",
+      "title": "Implementation of integral floating display system using concave mirror",
+      "authors": "J. Kim, Gilbae Park, Jae-Hyun Jung, Y. Kim, Sung-Wook Min, Byoungho Lee"
+    }
+  ],
+  "records": {
+    "publication-1": {
+      "source": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ToRE6MYAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ToRE6MYAAAAJ:Y9VhQm-5nPIC",
+      "method": "Existing author order; abbreviations expanded from verified recurring coauthors. Ambiguous names remain pending."
+    },
+    "publication-2": {
+      "source": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ToRE6MYAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ToRE6MYAAAAJ:kUhpeDhEZMUC",
+      "method": "Existing author order; abbreviations expanded from verified recurring coauthors. Ambiguous names remain pending."
+    },
+    "publication-3": {
+      "source": "https://www.jjunglab.com/publications",
+      "method": "Existing author order; abbreviations expanded from verified recurring coauthors. Ambiguous names remain pending."
+    },
+    "publication-4": {
+      "source": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ToRE6MYAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ToRE6MYAAAAJ:I858iXPj1OkC",
+      "method": "Existing author order; abbreviations expanded from verified recurring coauthors. Ambiguous names remain pending."
+    },
+    "publication-5": {
+      "source": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ToRE6MYAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ToRE6MYAAAAJ:U0iAMwwPxtsC",
+      "method": "Existing author order; abbreviations expanded from verified recurring coauthors. Ambiguous names remain pending."
+    },
+    "publication-6": {
+      "source": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ToRE6MYAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ToRE6MYAAAAJ:R22Rs3tN8aoC",
+      "method": "Existing author order; abbreviations expanded from verified recurring coauthors. Ambiguous names remain pending."
+    },
+    "publication-7": {
+      "source": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ToRE6MYAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ToRE6MYAAAAJ:rLGzs9wiiwIC",
+      "method": "Existing author order; abbreviations expanded from verified recurring coauthors. Ambiguous names remain pending."
+    },
+    "publication-8": {
+      "source": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ToRE6MYAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ToRE6MYAAAAJ:RMgMIBzvq-4C",
+      "method": "Google Scholar full author record."
+    },
+    "publication-9": {
+      "source": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ToRE6MYAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ToRE6MYAAAAJ:PlWzFYVEG4EC",
+      "method": "Google Scholar full author record."
+    },
+    "publication-10": {
+      "source": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ToRE6MYAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ToRE6MYAAAAJ:natZJ_-F0IUC",
+      "method": "Google Scholar full author record."
+    },
+    "publication-11": {
+      "source": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ToRE6MYAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ToRE6MYAAAAJ:7H_jS4BsgvYC",
+      "method": "Google Scholar full author record."
+    },
+    "publication-12": {
+      "source": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ToRE6MYAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ToRE6MYAAAAJ:KS-xo-ZNxMsC",
+      "method": "Google Scholar full author record."
+    },
+    "publication-13": {
+      "source": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ToRE6MYAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ToRE6MYAAAAJ:tz746QTLzJkC",
+      "method": "Google Scholar full author record."
+    },
+    "publication-14": {
+      "source": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ToRE6MYAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ToRE6MYAAAAJ:EaFouW7jFu4C",
+      "method": "Google Scholar full author record."
+    },
+    "publication-15": {
+      "source": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ToRE6MYAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ToRE6MYAAAAJ:FsLZdJ3BAzkC",
+      "method": "Google Scholar full author record."
+    },
+    "publication-16": {
+      "source": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ToRE6MYAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ToRE6MYAAAAJ:W2uZP3ddy8sC",
+      "method": "Google Scholar full author record."
+    },
+    "publication-17": {
+      "source": "https://patents.google.com/patent/US11270451B2/en",
+      "method": "Manual reconciliation with the listed source and existing author order."
+    },
+    "publication-18": {
+      "source": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ToRE6MYAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ToRE6MYAAAAJ:Vr2j17o0sqMC",
+      "method": "Google Scholar full author record."
+    },
+    "publication-19": {
+      "source": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ToRE6MYAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ToRE6MYAAAAJ:QoJ_w57xiyAC",
+      "method": "Google Scholar full author record."
+    },
+    "publication-20": {
+      "source": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ToRE6MYAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ToRE6MYAAAAJ:_tF6a-HnqWAC",
+      "method": "Google Scholar full author record."
+    },
+    "publication-21": {
+      "source": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ToRE6MYAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ToRE6MYAAAAJ:ndLnGcHYRF0C",
+      "method": "Google Scholar full author record."
+    },
+    "publication-22": {
+      "source": "https://www.jjunglab.com/publications",
+      "method": "Existing author order; abbreviations expanded from verified recurring coauthors. Ambiguous names remain pending."
+    },
+    "publication-23": {
+      "source": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ToRE6MYAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ToRE6MYAAAAJ:nPTYJWkExTIC",
+      "method": "Google Scholar full author record."
+    },
+    "publication-24": {
+      "source": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ToRE6MYAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ToRE6MYAAAAJ:lg2tdxc6qMwC",
+      "method": "Google Scholar full author record."
+    },
+    "publication-25": {
+      "source": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ToRE6MYAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ToRE6MYAAAAJ:WwIwg2wKZ0QC",
+      "method": "Google Scholar full author record."
+    },
+    "publication-26": {
+      "source": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ToRE6MYAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ToRE6MYAAAAJ:ymY9cBF3mdcC",
+      "method": "Google Scholar full author record."
+    },
+    "publication-27": {
+      "source": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ToRE6MYAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ToRE6MYAAAAJ:M0leSnx2MbUC",
+      "method": "Google Scholar full author record."
+    },
+    "publication-28": {
+      "source": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ToRE6MYAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ToRE6MYAAAAJ:nPTYJWkExTIC",
+      "method": "Google Scholar full author record."
+    },
+    "publication-29": {
+      "source": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ToRE6MYAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ToRE6MYAAAAJ:4e5Qn2KL_jwC",
+      "method": "Google Scholar full author record."
+    },
+    "publication-30": {
+      "source": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ToRE6MYAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ToRE6MYAAAAJ:qmtmRrLr0tkC",
+      "method": "Google Scholar full author record."
+    },
+    "publication-31": {
+      "source": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ToRE6MYAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ToRE6MYAAAAJ:AZju0d2GQJ0C",
+      "method": "Google Scholar full author record."
+    },
+    "publication-32": {
+      "source": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ToRE6MYAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ToRE6MYAAAAJ:sfnaS5RM6jYC",
+      "method": "Google Scholar full author record."
+    },
+    "publication-33": {
+      "source": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ToRE6MYAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ToRE6MYAAAAJ:4Yq6kJLCcecC",
+      "method": "Google Scholar full author record."
+    },
+    "publication-34": {
+      "source": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ToRE6MYAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ToRE6MYAAAAJ:m92CDrhVnKEC",
+      "method": "Google Scholar full author record."
+    },
+    "publication-35": {
+      "source": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ToRE6MYAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ToRE6MYAAAAJ:naSTrk-c4S8C",
+      "method": "Google Scholar full author record."
+    },
+    "publication-36": {
+      "source": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ToRE6MYAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ToRE6MYAAAAJ:wSy_KLzO7YEC",
+      "method": "Google Scholar full author record."
+    },
+    "publication-37": {
+      "source": "https://www.jjunglab.com/publications",
+      "method": "Existing author order; abbreviations expanded from verified recurring coauthors. Ambiguous names remain pending."
+    },
+    "publication-38": {
+      "source": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ToRE6MYAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ToRE6MYAAAAJ:BOlwja0KXvYC",
+      "method": "Google Scholar full author record."
+    },
+    "publication-39": {
+      "source": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ToRE6MYAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ToRE6MYAAAAJ:zdjWy_NXXwUC",
+      "method": "Google Scholar full author record."
+    },
+    "publication-40": {
+      "source": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ToRE6MYAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ToRE6MYAAAAJ:A8cqit5AE6sC",
+      "method": "Google Scholar full author record."
+    },
+    "publication-41": {
+      "source": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ToRE6MYAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ToRE6MYAAAAJ:3s1wT3WcHBgC",
+      "method": "Google Scholar full author record."
+    },
+    "publication-42": {
+      "source": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ToRE6MYAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ToRE6MYAAAAJ:ldfaerwXgEUC",
+      "method": "Google Scholar full author record."
+    },
+    "publication-43": {
+      "source": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ToRE6MYAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ToRE6MYAAAAJ:NaGl4SEjCO4C",
+      "method": "Google Scholar full author record."
+    },
+    "publication-44": {
+      "source": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ToRE6MYAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ToRE6MYAAAAJ:2P1L_qKh6hAC",
+      "method": "Google Scholar full author record."
+    },
+    "publication-45": {
+      "source": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ToRE6MYAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ToRE6MYAAAAJ:hFOr9nPyWt4C",
+      "method": "Google Scholar full author record."
+    },
+    "publication-46": {
+      "source": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ToRE6MYAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ToRE6MYAAAAJ:O3NaXMp0MMsC",
+      "method": "Google Scholar full author record."
+    },
+    "publication-47": {
+      "source": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ToRE6MYAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ToRE6MYAAAAJ:r0BpntZqJG4C",
+      "method": "Google Scholar full author record."
+    },
+    "publication-48": {
+      "source": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ToRE6MYAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ToRE6MYAAAAJ:MXK_kJrjxJIC",
+      "method": "Google Scholar full author record."
+    },
+    "publication-49": {
+      "source": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ToRE6MYAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ToRE6MYAAAAJ:mVmsd5A6BfQC",
+      "method": "Google Scholar full author record."
+    },
+    "publication-50": {
+      "source": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ToRE6MYAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ToRE6MYAAAAJ:yD5IFk8b50cC",
+      "method": "Google Scholar full author record."
+    },
+    "publication-51": {
+      "source": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ToRE6MYAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ToRE6MYAAAAJ:W7OEmFMy1HYC",
+      "method": "Google Scholar full author record."
+    },
+    "publication-52": {
+      "source": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ToRE6MYAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ToRE6MYAAAAJ:qxL8FJ1GzNcC",
+      "method": "Google Scholar full author record."
+    },
+    "publication-53": {
+      "source": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ToRE6MYAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ToRE6MYAAAAJ:kNdYIx-mwKoC",
+      "method": "Google Scholar full author record."
+    },
+    "publication-54": {
+      "source": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ToRE6MYAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ToRE6MYAAAAJ:KlAtU1dfN6UC",
+      "method": "Google Scholar full author record."
+    },
+    "publication-55": {
+      "source": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ToRE6MYAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ToRE6MYAAAAJ:ULOm3_A8WrAC",
+      "method": "Google Scholar full author record."
+    },
+    "publication-56": {
+      "source": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ToRE6MYAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ToRE6MYAAAAJ:L8Ckcad2t8MC",
+      "method": "Google Scholar full author record."
+    },
+    "publication-57": {
+      "source": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ToRE6MYAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ToRE6MYAAAAJ:dhFuZR0502QC",
+      "method": "Google Scholar full author record."
+    },
+    "publication-58": {
+      "source": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ToRE6MYAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ToRE6MYAAAAJ:J_g5lzvAfSwC",
+      "method": "Google Scholar full author record."
+    },
+    "publication-59": {
+      "source": "https://www.researchgate.net/publication/245433943_Analysis_and_improvement_of_the_depth_resolution_in_depth-fused_display",
+      "method": "Manual reconciliation with the listed source and existing author order."
+    },
+    "publication-60": {
+      "source": "https://www.jjunglab.com/publications",
+      "method": "Existing author order; abbreviations expanded from verified recurring coauthors. Ambiguous names remain pending.",
+      "verification_note": "No exact record in the retrieved Google Scholar profile. IMID 2012 official program links return 404; unresolved first names retained as initials."
+    },
+    "publication-61": {
+      "source": "https://scholar.google.com/citations?user=ToRE6MYAAAAJ",
+      "method": "Manual reconciliation with the listed source and existing author order."
+    },
+    "publication-62": {
+      "source": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ToRE6MYAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ToRE6MYAAAAJ:wE-fMHVdjMkC",
+      "method": "Google Scholar full author record."
+    },
+    "publication-63": {
+      "source": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ToRE6MYAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ToRE6MYAAAAJ:3fE2CSJIrl8C",
+      "method": "Google Scholar full author record."
+    },
+    "publication-64": {
+      "source": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ToRE6MYAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ToRE6MYAAAAJ:UebtZRa9Y70C",
+      "method": "Google Scholar full author record."
+    },
+    "publication-65": {
+      "source": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ToRE6MYAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ToRE6MYAAAAJ:ufrVoPGSRksC",
+      "method": "Google Scholar full author record."
+    },
+    "publication-66": {
+      "source": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ToRE6MYAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ToRE6MYAAAAJ:Wp0gIr-vW9MC",
+      "method": "Google Scholar full author record."
+    },
+    "publication-67": {
+      "source": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ToRE6MYAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=ToRE6MYAAAAJ:5nxA0vEk-isC",
+      "method": "Google Scholar full author record."
+    },
+    "publication-68": {
+      "source": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ToRE6MYAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ToRE6MYAAAAJ:roLk4NBRz8UC",
+      "method": "Google Scholar full author record."
+    },
+    "publication-69": {
+      "source": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ToRE6MYAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ToRE6MYAAAAJ:ZeXyd9-uunAC",
+      "method": "Google Scholar full author record."
+    },
+    "publication-70": {
+      "source": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ToRE6MYAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ToRE6MYAAAAJ:_FxGoFyzp5QC",
+      "method": "Google Scholar full author record."
+    },
+    "publication-71": {
+      "source": "https://imid.or.kr/2011/download/fd/IMID2011_Final_Program_Book.pdf",
+      "method": "Manual reconciliation with the listed source and existing author order."
+    },
+    "publication-72": {
+      "source": "https://doi.org/10.3807/JOSK.2012.16.1.029",
+      "method": "Manual reconciliation with the listed source and existing author order."
+    },
+    "publication-73": {
+      "source": "https://imid.or.kr/2011/download/fd/IMID2011_Final_Program_Book.pdf",
+      "method": "Manual reconciliation with the listed source and existing author order."
+    },
+    "publication-74": {
+      "source": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ToRE6MYAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ToRE6MYAAAAJ:TFP_iSt0sucC",
+      "method": "Google Scholar full author record."
+    },
+    "publication-75": {
+      "source": "https://imid.or.kr/2011/download/fd/IMID2011_Final_Program_Book.pdf",
+      "method": "Manual reconciliation with the listed source and existing author order."
+    },
+    "publication-76": {
+      "source": "https://imid.or.kr/2011/download/fd/IMID2011_Final_Program_Book.pdf",
+      "method": "Manual reconciliation with the listed source and existing author order."
+    },
+    "publication-77": {
+      "source": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ToRE6MYAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=ToRE6MYAAAAJ:Tyk-4Ss8FVUC",
+      "method": "Google Scholar full author record."
+    },
+    "publication-78": {
+      "source": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ToRE6MYAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=ToRE6MYAAAAJ:UeHWp8X0CEIC",
+      "method": "Google Scholar full author record."
+    },
+    "publication-79": {
+      "source": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ToRE6MYAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=ToRE6MYAAAAJ:IjCSPb-OGe4C",
+      "method": "Google Scholar full author record."
+    },
+    "publication-80": {
+      "source": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ToRE6MYAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=ToRE6MYAAAAJ:eQOLeE2rZwMC",
+      "method": "Google Scholar full author record."
+    },
+    "publication-81": {
+      "source": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ToRE6MYAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=ToRE6MYAAAAJ:9yKSN-GCB0IC",
+      "method": "Google Scholar full author record."
+    },
+    "publication-82": {
+      "source": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ToRE6MYAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=ToRE6MYAAAAJ:M3ejUd6NZC8C",
+      "method": "Google Scholar full author record."
+    },
+    "publication-83": {
+      "source": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ToRE6MYAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=ToRE6MYAAAAJ:YsMSGLbcyi4C",
+      "method": "Google Scholar full author record."
+    },
+    "publication-84": {
+      "source": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ToRE6MYAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=ToRE6MYAAAAJ:aqlVkmm33-oC",
+      "method": "Google Scholar full author record."
+    },
+    "publication-85": {
+      "source": "https://api.crossref.org/works?query.bibliographic=Depth+Extraction+with+Sub-Pixel+Resolution+in+Integral+Imaging+Based+on+Genetic+Algorithm&rows=1",
+      "method": "Publisher-deposited Crossref author metadata; title matched."
+    },
+    "publication-86": {
+      "source": "https://api.crossref.org/works/10.1364/DH.2010.DMC1",
+      "method": "Publisher-deposited Crossref author metadata; title matched."
+    },
+    "publication-87": {
+      "source": "https://api.crossref.org/works/10.1364/DH.2010.DTuB3",
+      "method": "Publisher-deposited Crossref author metadata; title matched."
+    },
+    "publication-88": {
+      "source": "https://www.jjunglab.com/publications",
+      "method": "Existing author order; abbreviations expanded from verified recurring coauthors. Ambiguous names remain pending."
+    },
+    "publication-89": {
+      "source": "https://www.jjunglab.com/publications",
+      "method": "Existing author order; abbreviations expanded from verified recurring coauthors. Ambiguous names remain pending.",
+      "verification_note": "Official IDW 2009 final program p. 130 lists J.-H. Jung, Y. Kim, S. Kim, B. Lee. ResearchGate author record confirms Sejun Kim, but Y. Kim profile has no identifying name; no expansion inferred.",
+      "additional_source": "https://www.idw.or.jp/IDW09FP.pdf"
+    },
+    "publication-90": {
+      "source": "https://patents.google.com/patent/KR100918670B1/ko",
+      "method": "Patent inventor list identifies 김영민 (Youngmin Kim), alongside 이병호 and 정재현."
+    },
+    "publication-91": {
+      "source": "https://patents.google.com/patent/KR100928332B1/en",
+      "method": "Manual reconciliation with the listed source and existing author order."
+    },
+    "publication-92": {
+      "source": "https://api.crossref.org/works?query.bibliographic=Object-based+integral+imaging+depth+extraction+using+segmentation&rows=1",
+      "method": "Publisher-deposited Crossref author metadata; title matched."
+    },
+    "publication-93": {
+      "source": "https://api.crossref.org/works?query.bibliographic=Three-dimensional+conversion+of+two-dimensional+movie+using+optical+flow+and+normalized+cut&rows=1",
+      "method": "Publisher-deposited Crossref author metadata; title matched."
+    },
+    "publication-94": {
+      "source": "https://api.crossref.org/works/10.1364/OE.17.017895",
+      "method": "Publisher-deposited Crossref author metadata; title matched."
+    },
+    "publication-95": {
+      "source": "https://api.crossref.org/works/10.1364/AO.48.000998",
+      "method": "Publisher-deposited Crossref author metadata; title matched."
+    },
+    "publication-96": {
+      "source": "https://api.crossref.org/works/10.1364/AO.48.002178",
+      "method": "Publisher-deposited Crossref author metadata; title matched."
+    },
+    "publication-97": {
+      "source": "https://www.researchgate.net/publication/245434737_360-degree_viewable_cylindrical_integral_imaging_system_using_electroluminescent_films",
+      "method": "Manual reconciliation with the listed source and existing author order."
+    },
+    "publication-98": {
+      "source": "https://api.crossref.org/works/10.1117/12.807565",
+      "method": "Publisher-deposited Crossref author metadata; title matched."
+    },
+    "publication-99": {
+      "source": "https://api.crossref.org/works/10.1364/DH.2009.DWB1",
+      "method": "Publisher-deposited Crossref author metadata; title matched."
+    },
+    "publication-100": {
+      "source": "https://api.crossref.org/works/10.1364/AO.47.004927",
+      "method": "Publisher-deposited Crossref author metadata; title matched."
+    },
+    "publication-101": {
+      "source": "https://api.crossref.org/works/10.1117/12.767597",
+      "method": "Publisher-deposited Crossref author metadata; title matched."
+    },
+    "publication-102": {
+      "source": "https://api.crossref.org/works?query.bibliographic=Computer-Generation+Method+for+Elemental+Image+of+Integral+Floating+Display+Using+Virtual+Integral+Imaging+System&rows=1",
+      "method": "Publisher-deposited Crossref author metadata; title matched."
+    },
+    "publication-103": {
+      "source": "https://api.crossref.org/works?query.bibliographic=Depth-Enhanced+Integral+Floating+Imaging+System+with+Variable+Image+Planes+Using+Polymer-Dispersed+Liquid-Crystal+Films&rows=1",
+      "method": "Publisher-deposited Crossref author metadata; title matched."
+    },
+    "publication-104": {
+      "source": "https://api.crossref.org/works/10.1364/FiO.2008.FThM10",
+      "method": "Publisher-deposited Crossref author metadata; title matched."
+    },
+    "publication-105": {
+      "source": "https://api.crossref.org/works/10.1364/DH.2008.DTuA2",
+      "method": "Publisher-deposited Crossref author metadata; title matched."
+    },
+    "publication-106": {
+      "source": "https://www.ctimes.com.tw/news/201108/16/IMID_TEST.pdf",
+      "method": "Manual reconciliation with the listed source and existing author order."
+    },
+    "publication-107": {
+      "source": "https://www.jjunglab.com/publications",
+      "method": "Existing author order; abbreviations expanded from verified recurring coauthors. Ambiguous names remain pending.",
+      "verification_note": "Exact title located on original lab publication page with initials only; full names for the two Kim coauthors could not be verified."
+    },
+    "publication-108": {
+      "source": "https://www.jjunglab.com/publications",
+      "method": "Existing author order; abbreviations expanded from verified recurring coauthors. Ambiguous names remain pending."
+    },
+    "publication-109": {
+      "source": "https://api.crossref.org/works/10.1364/OE.15.018253",
+      "method": "Publisher-deposited Crossref author metadata; title matched."
+    },
+    "publication-110": {
+      "source": "https://api.crossref.org/works/10.1117/12.744354",
+      "method": "Publisher-deposited Crossref author metadata; title matched."
+    },
+    "publication-111": {
+      "source": "https://api.crossref.org/works?query.bibliographic=Resolution-enhanced+three-dimensional+integral+imaging+using+double+display+devices&rows=1",
+      "method": "Publisher-deposited Crossref author metadata; title matched."
+    },
+    "publication-112": {
+      "source": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ToRE6MYAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ToRE6MYAAAAJ:WWeOtg8bX_EC",
+      "method": "Existing author order; abbreviations expanded from verified recurring coauthors. Ambiguous names remain pending."
+    },
+    "publication-113": {
+      "source": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ToRE6MYAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ToRE6MYAAAAJ:9shLKfS_uJEC",
+      "method": "Existing author order; abbreviations expanded from verified recurring coauthors. Ambiguous names remain pending."
+    },
+    "publication-114": {
+      "source": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ToRE6MYAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ToRE6MYAAAAJ:aEW5N-EHWIMC",
+      "method": "Existing author order; abbreviations expanded from verified recurring coauthors. Ambiguous names remain pending."
+    },
+    "publication-115": {
+      "source": "https://www.jjunglab.com/publications",
+      "method": "Existing author order; abbreviations expanded from verified recurring coauthors. Ambiguous names remain pending."
+    },
+    "publication-116": {
+      "source": "https://www.jjunglab.com/publications",
+      "method": "Existing author order; abbreviations expanded from verified recurring coauthors. Ambiguous names remain pending."
+    },
+    "publication-117": {
+      "source": "https://scholar.google.com/citations?user=ToRE6MYAAAAJ",
+      "method": "Manual reconciliation with the listed source and existing author order."
+    },
+    "publication-118": {
+      "source": "https://www.jjunglab.com/publications",
+      "method": "Existing author order; abbreviations expanded from verified recurring coauthors. Ambiguous names remain pending."
+    },
+    "publication-119": {
+      "source": "https://www.jjunglab.com/publications",
+      "method": "Existing author order; abbreviations expanded from verified recurring coauthors. Ambiguous names remain pending."
+    },
+    "publication-120": {
+      "source": "https://www.jjunglab.com/publications",
+      "method": "Existing author order; abbreviations expanded from verified recurring coauthors. Ambiguous names remain pending."
+    },
+    "publication-121": {
+      "source": "https://www.jjunglab.com/publications",
+      "method": "Existing author order; abbreviations expanded from verified recurring coauthors. Ambiguous names remain pending."
+    },
+    "publication-122": {
+      "source": "https://www.jjunglab.com/publications",
+      "method": "Existing author order; abbreviations expanded from verified recurring coauthors. Ambiguous names remain pending."
+    },
+    "publication-123": {
+      "source": "https://www.jjunglab.com/publications",
+      "method": "Existing author order; abbreviations expanded from verified recurring coauthors. Ambiguous names remain pending."
+    },
+    "publication-124": {
+      "source": "https://www.jjunglab.com/publications",
+      "method": "Existing author order; abbreviations expanded from verified recurring coauthors. Ambiguous names remain pending."
+    },
+    "publication-125": {
+      "source": "https://www.jjunglab.com/publications",
+      "method": "Existing author order; abbreviations expanded from verified recurring coauthors. Ambiguous names remain pending."
+    },
+    "publication-126": {
+      "source": "https://scholar.google.com/citations?user=ToRE6MYAAAAJ",
+      "method": "Manual reconciliation with the listed source and existing author order."
+    },
+    "publication-127": {
+      "source": "https://www.jjunglab.com/publications",
+      "method": "Existing author order; abbreviations expanded from verified recurring coauthors. Ambiguous names remain pending."
+    },
+    "publication-128": {
+      "source": "https://www.jjunglab.com/publications",
+      "method": "Existing author order; abbreviations expanded from verified recurring coauthors. Ambiguous names remain pending."
+    },
+    "publication-129": {
+      "source": "https://www.jjunglab.com/publications",
+      "method": "Existing author order; abbreviations expanded from verified recurring coauthors. Ambiguous names remain pending."
+    },
+    "publication-130": {
+      "source": "https://www.jjunglab.com/publications",
+      "method": "Existing author order; abbreviations expanded from verified recurring coauthors. Ambiguous names remain pending."
+    },
+    "publication-131": {
+      "source": "https://www.jjunglab.com/publications",
+      "method": "Existing author order; abbreviations expanded from verified recurring coauthors. Ambiguous names remain pending."
+    },
+    "publication-132": {
+      "source": "https://www.jjunglab.com/publications",
+      "method": "Existing author order; abbreviations expanded from verified recurring coauthors. Ambiguous names remain pending."
+    },
+    "publication-133": {
+      "source": "https://www.jjunglab.com/publications",
+      "method": "Existing author order; abbreviations expanded from verified recurring coauthors. Ambiguous names remain pending."
+    },
+    "publication-134": {
+      "source": "https://www.jjunglab.com/publications",
+      "method": "Existing author order; abbreviations expanded from verified recurring coauthors. Ambiguous names remain pending."
+    },
+    "publication-135": {
+      "source": "https://www.jjunglab.com/publications",
+      "method": "Existing author order; abbreviations expanded from verified recurring coauthors. Ambiguous names remain pending."
+    },
+    "publication-136": {
+      "source": "https://www.jjunglab.com/publications",
+      "method": "Existing author order; abbreviations expanded from verified recurring coauthors. Ambiguous names remain pending."
+    },
+    "publication-137": {
+      "source": "https://www.jjunglab.com/publications",
+      "method": "Existing author order; abbreviations expanded from verified recurring coauthors. Ambiguous names remain pending."
+    },
+    "publication-138": {
+      "source": "https://www.jjunglab.com/publications",
+      "method": "Existing author order; abbreviations expanded from verified recurring coauthors. Ambiguous names remain pending."
+    },
+    "publication-139": {
+      "source": "https://www.jjunglab.com/junglab",
+      "method": "Manual reconciliation with the listed source and existing author order."
+    },
+    "publication-140": {
+      "source": "https://www.jjunglab.com/publications",
+      "method": "Existing author order; abbreviations expanded from verified recurring coauthors. Ambiguous names remain pending."
+    },
+    "publication-141": {
+      "source": "https://doi.org/10.1167/tvst.7.5.1",
+      "method": "Manual reconciliation with the listed source and existing author order."
+    },
+    "publication-142": {
+      "source": "https://www.jjunglab.com/publications",
+      "method": "Existing author order; abbreviations expanded from verified recurring coauthors. Ambiguous names remain pending."
+    },
+    "publication-143": {
+      "source": "https://www.jjunglab.com/publications",
+      "method": "Existing author order; abbreviations expanded from verified recurring coauthors. Ambiguous names remain pending."
+    },
+    "publication-144": {
+      "source": "https://www.jjunglab.com/publications",
+      "method": "Existing author order; abbreviations expanded from verified recurring coauthors. Ambiguous names remain pending."
+    },
+    "publication-145": {
+      "source": "https://www.jjunglab.com/publications",
+      "method": "Existing author order; abbreviations expanded from verified recurring coauthors. Ambiguous names remain pending."
+    },
+    "publication-146": {
+      "source": "https://www.jjunglab.com/publications",
+      "method": "Existing author order; abbreviations expanded from verified recurring coauthors. Ambiguous names remain pending."
+    },
+    "publication-147": {
+      "source": "https://www.jjunglab.com/publications",
+      "method": "Existing author order; abbreviations expanded from verified recurring coauthors. Ambiguous names remain pending."
+    },
+    "publication-148": {
+      "source": "https://www.jjunglab.com/publications",
+      "method": "Existing author order; abbreviations expanded from verified recurring coauthors. Ambiguous names remain pending."
+    },
+    "publication-149": {
+      "source": "https://www.jjunglab.com/publications",
+      "method": "Existing author order; abbreviations expanded from verified recurring coauthors. Ambiguous names remain pending."
+    },
+    "publication-150": {
+      "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3909527/",
+      "method": "Manual reconciliation with the listed source and existing author order."
+    },
+    "publication-151": {
+      "source": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ToRE6MYAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ToRE6MYAAAAJ:lbI08cpqPnQC",
+      "method": "Existing author order; abbreviations expanded from verified recurring coauthors. Ambiguous names remain pending."
+    },
+    "publication-152": {
+      "source": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ToRE6MYAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ToRE6MYAAAAJ:Vno172sVVMwC",
+      "method": "Existing author order; abbreviations expanded from verified recurring coauthors. Ambiguous names remain pending."
+    },
+    "publication-153": {
+      "source": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ToRE6MYAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ToRE6MYAAAAJ:VRfTbSk87rEC",
+      "method": "Existing author order; abbreviations expanded from verified recurring coauthors. Ambiguous names remain pending."
+    }
+  }
+}

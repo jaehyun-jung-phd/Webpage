@@ -1,0 +1,81 @@
+[
+  {
+    "id": "vr-mobility",
+    "title": "Virtual Reality Simulation of Mobility",
+    "summary": "Immersive VR walking environments measure how people detect and avoid approaching pedestrians. Built with Unity and head-mounted displays, the simulations reproduce crowded spaces while recording natural walking behavior.",
+    "grants": [
+      "09/2020 – 08/2024, Monocular Visual Confusion for Field Expansion, NIH/NEI R01 – EY031777"
+    ],
+    "images": [
+      "assets/projects/project-1-1.gif"
+    ],
+    "links": [
+      {
+        "label": "2024 paper",
+        "url": "https://doi.org/10.1364/BOE.513758"
+      },
+      {
+        "label": "DOI",
+        "url": "https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12449/124491J/Development-of-virtual-reality-walking-collision-detection-test-on-head/10.1117/12.2647141.short"
+      }
+    ],
+    "source": "https://www.jjunglab.com/projects"
+  },
+  {
+    "id": "field-expansion",
+    "title": "Augmented Reality for Field Expansion (Vision Multiplexing)",
+    "summary": "Optical see-through devices and multiplexing prisms expand the visual field for people with field loss. This work studies how visual confusion, binocular rivalry, contrast, depth cues, and motion affect mobility.",
+    "grants": [
+      "09/2020 – 08/2024, Monocular Visual Confusion for Field Expansion, NIH/NEI R01 – EY031777",
+      "07/2018 – 12/2019, Field Expansion for Acquired Monocular Vision using Multiplexing Prism, Fight for Sight Grant #GA18003"
+    ],
+    "images": [
+      "assets/projects/project-2-1.png",
+      "assets/projects/project-2-2.png"
+    ],
+    "links": [],
+    "source": "https://www.jjunglab.com/projects"
+  },
+  {
+    "id": "binocular-vision",
+    "title": "Computational Model of Visual Perception and Binocular Vision",
+    "summary": "Computational and psychophysical studies examine how overlapping views are combined or compete in binocular vision. The goal is to understand visual perception in field-expansion devices and AR displays.",
+    "grants": [
+      "09/2020 – 08/2024, Monocular Visual Confusion for Field Expansion, NIH/NEI R01 – EY031777",
+      "09/2019 – 08/2024, Visual field expansion through innovative multi-periscopic prism design, NIH/NEI R01- EY023385 (Co-Investigator)"
+    ],
+    "images": [
+      "assets/projects/project-3-1.png"
+    ],
+    "links": [],
+    "source": "https://www.jjunglab.com/projects"
+  },
+  {
+    "id": "active-confocal",
+    "title": "Active Confocal Imaging for Visual Prostheses",
+    "summary": "Light-field imaging emphasizes objects of interest while suppressing background clutter. Active confocal imaging explores front-end processing for retinal and cortical implants and sensory substitution devices.",
+    "grants": [
+      "01/2016 – 01/2021, Active confocal imaging for visual prostheses, US Department of Defense, W81XWH-16-1-0033",
+      "02/2015-10/2015, Active confocal imaging for visual prostheses, Grant from the Promobilia Foundation, Sweden #14222"
+    ],
+    "images": [
+      "assets/projects/project-4-1.gif"
+    ],
+    "links": [],
+    "source": "https://www.jjunglab.com/projects"
+  },
+  {
+    "id": "light-field",
+    "title": "Light-Field Imaging and Computational Photography",
+    "summary": "Integral imaging uses microlens arrays to capture and reconstruct 3D scenes. The work includes real-time reconstruction, depth extraction, confocal image generation, and background suppression for object recognition.",
+    "grants": [
+      "01/2016 – 01/2021, Active confocal imaging for visual prostheses, US Department of Defense, W81XWH-16-1-0033",
+      "12/2012-12/2013, Study on effect of super multi-view condition in three-dimensional display to accommodation response and improvement of optical vision rehabilitation device, National Research Foundation of Korea, 2012R1A6A3A03038820 (PI)"
+    ],
+    "images": [
+      "assets/projects/project-5-1.gif"
+    ],
+    "links": [],
+    "source": "https://www.jjunglab.com/projects"
+  }
+]

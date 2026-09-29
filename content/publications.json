@@ -1,0 +1,2305 @@
+[
+  {
+    "year": "2026",
+    "date": "2026-09",
+    "title": "Spatial-IQ: Deconstructing Spatial Intelligence via Hierarchical Capability Tests",
+    "authors": "Patrick Rim, Tom Long, Ekta Prashnani, Ruth Rosenholtz, Ben Boudaoud, Peter Xenopoulos, Alex Wong, Joohwan Kim, Jae-Hyun Jung",
+    "venue": "NeurIPS (accepted)",
+    "type": "Publication",
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://arxiv.org/abs/2607.22864"
+      },
+      {
+        "label": "Project Page",
+        "url": "https://nvidia.github.io/Spatial-IQ/"
+      }
+    ],
+    "source": "https://research.nvidia.com/publication/2026-07_spatial-iq-deconstructing-spatial-intelligence-hierarchical-capability-tests",
+    "id": "publication-1",
+    "teaser_id": "spatial-iq",
+    "scholar_source": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ToRE6MYAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ToRE6MYAAAAJ:Y9VhQm-5nPIC",
+    "verified_on": "2026-09-29",
+    "authors_original": "Patrick Rim, Tom Long, Ekta Prashnani, Ruth Rosenholtz, Ben Boudaoud, Peter Xenopoulos, Alex Wong, Joohwan Kim, Jae-Hyun Jung",
+    "editorial_note": "Acceptance in September 2026 confirmed by Jae-Hyun Jung; displayed date reflects acceptance rather than the July preprint date."
+  },
+  {
+    "year": "2026",
+    "date": "2026-06-29",
+    "title": "Real-time 3D Visualization of Radiance Fields on Light Field Displays",
+    "authors": "Jonghyun Kim, Cheng Sun, Michael Stengel, Matthew Chan, Andrew Russell, Jae-Hyun Jung, Wil Braithwaite, David Luebke, Shalini De Mello",
+    "venue": "Proceedings of the ACM on Computer Graphics and Interactive Techniques 9(4), 1–19 · HPG 2026",
+    "type": "Publication",
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://dl.acm.org/doi/10.1145/3820023"
+      },
+      {
+        "label": "Project Page",
+        "url": "https://research.nvidia.com/labs/amri/projects/g2lf/"
+      }
+    ],
+    "source": "https://research.nvidia.com/publication/2026-07_real-time-3d-visualization-radiance-fields-light-field-displays",
+    "id": "publication-2",
+    "teaser_id": "radiance-fields",
+    "scholar_source": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ToRE6MYAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ToRE6MYAAAAJ:kUhpeDhEZMUC",
+    "verified_on": "2026-09-29",
+    "metadata_source": "https://api.crossref.org/works/10.1145/3820023",
+    "authors_original": "Jonghyun Kim, Cheng Sun, Michael Stengel, Matthew Chan, Andrew Russell, Jae-Hyun Jung, Wil Braithwaite, David Luebke, Shalini De Mello"
+  },
+  {
+    "year": "2026",
+    "date": "2026-06-22",
+    "title": "Pedestrian Collision Detection and Avoidance in Cerebral Visual Impairment During Unrestricted Walking in an Immersive Virtual Reality Environment",
+    "authors": "Jonathan K. Doyon, Madeleine Heynen, Wei Hau Lew, Alex Daejoon Hwang, Jae-Hyun Jung, Lotfi B. Merabet",
+    "venue": "Research Square preprint · PubMed Central",
+    "type": "Preprint",
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13321285/"
+      }
+    ],
+    "source": "https://research.nvidia.com/publication/2026-06_pedestrian-collision-detection-and-avoidance-cerebral-visual-impairment-during",
+    "id": "publication-3",
+    "teaser_id": "cvi-walking",
+    "authors_original": "Jonathan K. Doyon, Madeleine Heynen, Wei Hau Lew, Alex D. Hwang, Jae-Hyun Jung, Lotfi B. Merabet"
+  },
+  {
+    "year": "2025",
+    "date": "2025-10-05",
+    "title": "Pedestrian Collision Avoidance in Hemianopia during Natural Walking in Immersive Virtual Reality",
+    "authors": "Jonathan K. Doyon, Sujin Kim, Alex Daejoon Hwang, Jae-Hyun Jung",
+    "venue": "arXiv preprint",
+    "type": "Preprint",
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://arxiv.org/abs/2510.04218"
+      }
+    ],
+    "source": "https://research.nvidia.com/publication/2025-10_pedestrian-collision-avoidance-hemianopia-during-natural-walking-immersive",
+    "id": "publication-4",
+    "scholar_source": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ToRE6MYAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ToRE6MYAAAAJ:I858iXPj1OkC",
+    "verified_on": "2026-09-29",
+    "teaser_id": "hemianopia-walking",
+    "authors_original": "Jonathan K. Doyon, Sujin Kim, Alex D. Hwang, Jae-Hyun Jung"
+  },
+  {
+    "year": "2025",
+    "date": "2025-07-15",
+    "title": "Detection of artifacts in clean and corrupted video pairs is influenced by artifact type and presentation modality",
+    "authors": "Niall L. Williams, Anatolii Evdokimov, Budmonde Duinkharjav, Anjul Patney, Qi Sun, Jae-Hyun Jung, Ruth Rosenholtz",
+    "venue": "Journal of Vision 25(9), 2256 · VSS 2025",
+    "type": "Conference abstract",
+    "links": [
+      {
+        "label": "Abstract",
+        "url": "https://jov.arvojournals.org/article.aspx?articleid=2809882"
+      },
+      {
+        "label": "VSS",
+        "url": "https://www.visionsciences.org/presentation/?id=2256"
+      }
+    ],
+    "source": "https://research.nvidia.com/publication/2025-05_detection-artifacts-clean-and-corrupted-video-pairs-influenced-artifact-type",
+    "id": "publication-5",
+    "scholar_source": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ToRE6MYAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ToRE6MYAAAAJ:U0iAMwwPxtsC",
+    "verified_on": "2026-09-29",
+    "authors_original": "Niall L Williams, Anatolii Evdokimov, Budmonde Duinkharjav, Anjul Patney, Qi Sun, Jae-Hyun Jung, Ruth Rosenholtz"
+  },
+  {
+    "year": "2024",
+    "title": "Pilot study of a pedestrian collision detection test for a multisite trial of field expansion devices for hemianopia",
+    "authors": "Alex R. Bowers, Sailaja Manda, Sandhya Shekar, Alex Daejoon Hwang, Jae-Hyun Jung, Eli Peli",
+    "venue": "Optometry and Vision Science 101(6), 408–416",
+    "type": "Publication",
+    "links": [
+      {
+        "label": "DOI",
+        "url": "https://journals.lww.com/optvissci/abstract/2024/06000/pilot_study_of_a_pedestrian_collision_detection.17.aspx"
+      }
+    ],
+    "citation": "Alex R. Bowers, Sailaja Manda, Sandhya Shekar, Alex Daejoon Hwang, Jae-Hyun Jung, Eli Peli. (2024). Pilot study of a pedestrian collision detection test for a multisite trial of field expansion devices for hemianopia. Optometry and Vision Science 101(6), 408–416",
+    "id": "publication-6",
+    "date": "2024-06",
+    "scholar_source": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ToRE6MYAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ToRE6MYAAAAJ:R22Rs3tN8aoC",
+    "verified_on": "2026-09-29",
+    "authors_original": "Alex R Bowers, Sailaja Manda, Sandhya Shekar, Alex D Hwang, Jae-Hyun Jung, Eli Peli"
+  },
+  {
+    "year": "2024",
+    "title": "Binocular double vision in the presence of visual field loss",
+    "authors": "Eli Peli, Jae-Hyun Jung",
+    "venue": "Journal of Vision 24(6), 13",
+    "type": "Publication",
+    "links": [
+      {
+        "label": "DOI",
+        "url": "https://doi.org/10.1167/jov.24.6.13"
+      }
+    ],
+    "citation": "Eli Peli, Jae-Hyun Jung. (2024). Binocular double vision in the presence of visual field loss. Journal of Vision 24(6), 13",
+    "id": "publication-7",
+    "date": "2024-06-03",
+    "scholar_source": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ToRE6MYAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ToRE6MYAAAAJ:rLGzs9wiiwIC",
+    "verified_on": "2026-09-29",
+    "authors_original": "Eli Peli, Jae-Hyun Jung"
+  },
+  {
+    "year": "2024",
+    "title": "Understanding Viewpoint Changes in Peripheral Prisms for Field Expansion by Virtual Reality Simulation",
+    "authors": "Jonathan K. Doyon, Alex Daejoon Hwang, Jae-Hyun Jung",
+    "venue": "Biomed Opt Express. 2024 Mar;15(3):1393-1407",
+    "type": "Publication",
+    "links": [
+      {
+        "label": "DOI",
+        "url": "https://doi.org/10.1364/BOE.513758"
+      }
+    ],
+    "citation": "Jonathan K. Doyon, Alex Daejoon Hwang, Jae-Hyun Jung. (2024). Understanding Viewpoint Changes in Peripheral Prisms for Field Expansion by Virtual Reality Simulation. Biomed Opt Express. 2024 Mar;15(3):1393-1407",
+    "id": "publication-8",
+    "authors_original": "Doyon J, Hwang A, Jung J-H"
+  },
+  {
+    "year": "2024",
+    "title": "Egocentric Boundaries on Distinguishing Colliding and Non-Colliding Pedestrians while Walking in a Virtual Environment",
+    "authors": "Alex Daejoon Hwang, Jae-Hyun Jung, Alex R. Bowers, Eli Peli",
+    "venue": "Electron Imaging 2024 Jan;36(11):214-1-9",
+    "type": "Publication",
+    "links": [
+      {
+        "label": "DOI",
+        "url": "https://library.imaging.org/ei/articles/36/11/HVEI-214"
+      }
+    ],
+    "citation": "Alex Daejoon Hwang, Jae-Hyun Jung, Alex R. Bowers, Eli Peli. (2024). Egocentric Boundaries on Distinguishing Colliding and Non-Colliding Pedestrians while Walking in a Virtual Environment. Electron Imaging 2024 Jan;36(11):214-1-9",
+    "id": "publication-9",
+    "authors_original": "Hwang A, Jung J-H, Bowers A, Peli E"
+  },
+  {
+    "year": "2024",
+    "title": "Near eye display based on multiplexed retinal projections for robust compensation of eye pupil variance",
+    "authors": "Hyeontaek Lee, Jae-Hyun Jung, Sunghee Hong, Hee-Jin Choi",
+    "venue": "Opt Express. 2024 Jan;32(2):2631-2643",
+    "type": "Publication",
+    "links": [
+      {
+        "label": "DOI",
+        "url": "https://opg.optica.org/oe/fulltext.cfm?uri=oe-32-2-2631&id=545501"
+      }
+    ],
+    "citation": "Hyeontaek Lee, Jae-Hyun Jung, Sunghee Hong, Hee-Jin Choi. (2024). Near eye display based on multiplexed retinal projections for robust compensation of eye pupil variance. Opt Express. 2024 Jan;32(2):2631-2643",
+    "id": "publication-10",
+    "authors_original": "Lee H, Jung J-H, Hong S, Choi H-J"
+  },
+  {
+    "year": "2023",
+    "title": "The effect of visual rivalry in peripheral head-mounted displays on mobility",
+    "authors": "Shui’er Han, Sujin Kim, Jae-Hyun Jung",
+    "venue": "Sci. Rep. 2023 Nov;13:20199.",
+    "type": "Publication",
+    "links": [
+      {
+        "label": "DOI",
+        "url": "https://doi.org/10.1038/s41598-023-47427-8"
+      },
+      {
+        "label": "Press Release",
+        "url": "https://www.jjunglab.com/updates#h.5d9kmrgkl4za"
+      }
+    ],
+    "citation": "Shui’er Han, Sujin Kim, Jae-Hyun Jung. (2023). The effect of visual rivalry in peripheral head-mounted displays on mobility. Sci. Rep. 2023 Nov;13:20199.",
+    "id": "publication-11",
+    "authors_original": "Han S, Kim S, Jung J-H"
+  },
+  {
+    "year": "2023",
+    "title": "Develop then Rival: A Human Vision-Inspired Framework for Superimposed Image Decomposition",
+    "authors": "Huiyu Duan, Wei Shen, Xiongkuo Min, Yuan Tian, Jae-Hyun Jung, Xiaokang Yang, Guangtao Zhai",
+    "venue": "IEEE Trans. Multimedia. 2023 Oct;25:4267-81,",
+    "type": "Publication",
+    "links": [
+      {
+        "label": "DOI",
+        "url": "https://doi.org/10.1109/TMM.2022.3172882"
+      }
+    ],
+    "citation": "Huiyu Duan, Wei Shen, Xiongkuo Min, Yuan Tian, Jae-Hyun Jung, Xiaokang Yang, Guangtao Zhai. (2023). Develop then Rival: A Human Vision-Inspired Framework for Superimposed Image Decomposition. IEEE Trans. Multimedia. 2023 Oct;25:4267-81,",
+    "id": "publication-12",
+    "authors_original": "Duan H, Shen W, Min X, Tian Y, Jung J-H, Yang X, Zhai G"
+  },
+  {
+    "year": "2023",
+    "title": "The invisibility of scotomata I: Scotoma carving",
+    "authors": "Eli Peli, Robert Goldstein, Jae-Hyun Jung",
+    "venue": "Optom Vis Sci. 2023 Aug;100(8):515–529.",
+    "type": "Publication",
+    "links": [
+      {
+        "label": "DOI",
+        "url": "https://doi.org/10.1097/OPX.0000000000002048"
+      },
+      {
+        "label": "Press release",
+        "url": "https://www.jjunglab.com/updates#h.hmd8vheknvha"
+      }
+    ],
+    "citation": "Eli Peli, Robert Goldstein, Jae-Hyun Jung. (2023). The invisibility of scotomata I: Scotoma carving. Optom Vis Sci. 2023 Aug;100(8):515–529.",
+    "id": "publication-13",
+    "authors_original": "Peli E, Goldstein B, Jung J-H"
+  },
+  {
+    "year": "2023",
+    "title": "Oblique Multi-Periscopic Prism for field expansion of homonymous hemianopia",
+    "authors": "Mojtaba Falahati, Nish Mohith Kurukuti, Fernando Vargas-Martin, Eli Peli, Jae-Hyun Jung",
+    "venue": "Biomed Opt Express. 14(5), 2352-2364",
+    "type": "Publication",
+    "links": [
+      {
+        "label": "DOI",
+        "url": "https://doi.org/10.1364/BOE.485373"
+      }
+    ],
+    "citation": "Mojtaba Falahati, Nish Mohith Kurukuti, Fernando Vargas-Martin, Eli Peli, Jae-Hyun Jung. (2023). Oblique Multi-Periscopic Prism for field expansion of homonymous hemianopia. Biomed Opt Express. 14(5), 2352-2364",
+    "id": "publication-14",
+    "authors_original": "Falahati M, Kurukuti, NM, Peli E, Jung J-H"
+  },
+  {
+    "year": "2023",
+    "title": "Development of Virtual Reality Walking Collision Detection Test on Head-mounted display",
+    "authors": "Alex Daejoon Hwang, Eli Peli, Jae-Hyun Jung",
+    "venue": "Proc. SPIE 12449, 124491J.",
+    "type": "Publication",
+    "links": [
+      {
+        "label": "DOI",
+        "url": "https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12449/124491J/Development-of-virtual-reality-walking-collision-detection-test-on-head/10.1117/12.2647141.short"
+      }
+    ],
+    "citation": "Alex Daejoon Hwang, Eli Peli, Jae-Hyun Jung. (2023). Development of Virtual Reality Walking Collision Detection Test on Head-mounted display. Proc. SPIE 12449, 124491J.",
+    "id": "publication-15",
+    "authors_original": "Hwang A, Peli E, Jung J-H"
+  },
+  {
+    "year": "2023",
+    "title": "Binocular see-through configuration and eye movement attenuate visual rivalry in peripheral wearable displays",
+    "authors": "Sujin Kim, Shui’er Han, Jae-Hyun Jung",
+    "venue": "Proc. SPIE 12449, 124490T.",
+    "type": "Publication",
+    "links": [
+      {
+        "label": "DOI",
+        "url": "https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12449/124490T/Binocular-see-through-configuration-and-eye-movement-attenuate-visual-rivalry/10.1117/12.2648481.short"
+      }
+    ],
+    "citation": "Sujin Kim, Shui’er Han, Jae-Hyun Jung. (2023). Binocular see-through configuration and eye movement attenuate visual rivalry in peripheral wearable displays. Proc. SPIE 12449, 124490T.",
+    "id": "publication-16",
+    "authors_original": "Kim S, Han S, Jung J-H"
+  },
+  {
+    "year": "2022",
+    "title": "Motion parallax in object recognition",
+    "authors": "Eli Peli, Jae-Hyun Jung, Cheng Qiu",
+    "venue": "US Patent No. US11270451B",
+    "type": "Patent",
+    "links": [],
+    "citation": "Eli Peli, Jae-Hyun Jung, Cheng Qiu. (2022). Motion parallax in object recognition. US Patent No. US11270451B",
+    "id": "publication-17",
+    "authors_original": "Peli, E., Jung, J-H., & Qui, C"
+  },
+  {
+    "year": "2022",
+    "title": "Preparing participants for the use of the tongue visual sensory substitution device",
+    "authors": "Zahide Pamir, Jae-Hyun Jung, Eli Peli",
+    "venue": "Disability and Rehabilitation: Assistive Technology, 17(8), 888-896.",
+    "type": "Publication",
+    "links": [
+      {
+        "label": "DOI",
+        "url": "https://doi.org/10.1080/17483107.2020.1821102%20"
+      }
+    ],
+    "citation": "Zahide Pamir, Jae-Hyun Jung, Eli Peli. (2022). Preparing participants for the use of the tongue visual sensory substitution device. Disability and Rehabilitation: Assistive Technology, 17(8), 888-896.",
+    "id": "publication-18",
+    "authors_original": "Pamir, Z., Jung, J-H., & Peli, E"
+  },
+  {
+    "year": "2022",
+    "title": "Computational integral imaging based on a novel miniature camera array",
+    "authors": "David Avraham, Guy Samuels, Jae-Hyun Jung, Eli Peli, Yitzhak Yitzhaky",
+    "venue": "In Proc. Imaging and Applied Optics Congress 2022, OSA Technical Digest, paper 3Tu5A.2, Jun. 2022.",
+    "type": "Publication",
+    "links": [
+      {
+        "label": "DOI",
+        "url": "https://opg.optica.org/abstract.cfm?uri=3D-2022-3Tu5A.2"
+      }
+    ],
+    "citation": "David Avraham, Guy Samuels, Jae-Hyun Jung, Eli Peli, Yitzhak Yitzhaky. (2022). Computational integral imaging based on a novel miniature camera array. In Proc. Imaging and Applied Optics Congress 2022, OSA Technical Digest, paper 3Tu5A.2, Jun. 2022.",
+    "id": "publication-19",
+    "authors_original": "Avraham D, Samuels G, Jung J-H, Peli E, Yitzhaky Y"
+  },
+  {
+    "year": "2021",
+    "title": "Retinal prosthetic vision simulation: temporal aspects",
+    "authors": "David Avraham, Jae-Hyun Jung, Yitzhak Yitzhaky, Eli Peli",
+    "venue": "Journal of Neural Engineering, 18 (4), 0460d9.",
+    "type": "Publication",
+    "links": [
+      {
+        "label": "DOI",
+        "url": "https://iopscience.iop.org/article/10.1088/1741-2552/ac1b6c"
+      }
+    ],
+    "citation": "David Avraham, Jae-Hyun Jung, Yitzhak Yitzhaky, Eli Peli. (2021). Retinal prosthetic vision simulation: temporal aspects. Journal of Neural Engineering, 18 (4), 0460d9.",
+    "id": "publication-20",
+    "authors_original": "Avraham, D., Jung, J-H., Yitzhaky, Y., & Peli, E"
+  },
+  {
+    "year": "2021",
+    "title": "Photographic Depiction of the Field of View with Spectacles-mounted Low Vision Aids",
+    "authors": "Jae-Hyun Jung, Nish Mohith Kurukuti, Eli Peli",
+    "venue": "Optometry and Vision Science, 98 (10), 1210-1226.",
+    "type": "Publication",
+    "links": [
+      {
+        "label": "DOI",
+        "url": "https://journals.lww.com/optvissci/Fulltext/2021/10000/Photographic_Depiction_of_the_Field_of_View_with.14.aspx"
+      }
+    ],
+    "citation": "Jae-Hyun Jung, Nish Mohith Kurukuti, Eli Peli. (2021). Photographic Depiction of the Field of View with Spectacles-mounted Low Vision Aids. Optometry and Vision Science, 98 (10), 1210-1226.",
+    "id": "publication-21",
+    "authors_original": "Jung, J-H., Kurukuti, N. M., & Peli, E"
+  },
+  {
+    "year": "2021",
+    "title": "Simulating the effects of persistence and perceptual fading in retinal prosthetic vision",
+    "authors": "David Avraham, Jae-Hyun Jung, Yitzhak Yitzhaky, Eli Peli",
+    "venue": "12th The Eye and the Chip World Research Congress 2021.",
+    "type": "Publication",
+    "links": [],
+    "citation": "David Avraham, Jae-Hyun Jung, Yitzhak Yitzhaky, Eli Peli. (2021). Simulating the effects of persistence and perceptual fading in retinal prosthetic vision. 12th The Eye and the Chip World Research Congress 2021.",
+    "id": "publication-22",
+    "authors_original": "Avraham, D., Jung, J-H., Yitzhaky, Y., & Peli, E"
+  },
+  {
+    "year": "2020",
+    "title": "Active confocal imaging systems and methods for visual prostheses",
+    "authors": "Eli Peli, Jae-Hyun Jung",
+    "venue": "US Patent No. US10857036B2",
+    "type": "Patent",
+    "links": [],
+    "citation": "Eli Peli, Jae-Hyun Jung. (2020). Active confocal imaging systems and methods for visual prostheses. US Patent No. US10857036B2",
+    "id": "publication-23",
+    "authors_original": "Peli, E., & Jung, J-H"
+  },
+  {
+    "year": "2020",
+    "title": "Multi-periscopic prism device for field expansion",
+    "authors": "Eli Peli, Fernando Vargas-Martin, Nish Mohith Kurukuti, Jae-Hyun Jung",
+    "venue": "Biomed. Opt. Express, 11 (9), 4872–4889. OSA.",
+    "type": "Publication",
+    "links": [
+      {
+        "label": "DOI",
+        "url": "http://www.osapublishing.org/boe/abstract.cfm?URI=boe-11-9-4872"
+      }
+    ],
+    "citation": "Eli Peli, Fernando Vargas-Martin, Nish Mohith Kurukuti, Jae-Hyun Jung. (2020). Multi-periscopic prism device for field expansion. Biomed. Opt. Express, 11 (9), 4872–4889. OSA.",
+    "id": "publication-24",
+    "authors_original": "Peli, E., Vargas-Martin, F., Kurukuti, N. M., & Jung, J-H"
+  },
+  {
+    "year": "2020",
+    "title": "Field Expansion with Multiplexing Prism Glasses Improves Pedestrian Detection for Acquired Monocular Vision",
+    "authors": "Jae-Hyun Jung, Rachel Castle, Nish Mohith Kurukuti, Sailaja Manda, Eli Peli",
+    "venue": "Translational Vision Science & Technology, 9 (8), Article 35.",
+    "type": "Publication",
+    "links": [
+      {
+        "label": "DOI",
+        "url": "https://doi.org/10.1167/tvst.9.8.35"
+      },
+      {
+        "label": "Data Sharing",
+        "url": "data-sharing/files/jung_2020_tvst.xlsx"
+      }
+    ],
+    "citation": "Jae-Hyun Jung, Rachel Castle, Nish Mohith Kurukuti, Sailaja Manda, Eli Peli. (2020). Field Expansion with Multiplexing Prism Glasses Improves Pedestrian Detection for Acquired Monocular Vision. Translational Vision Science & Technology, 9 (8), Article 35.",
+    "id": "publication-25",
+    "authors_original": "Jung, J. - H., Castle, R., Kurukuti, N. M., Manda, S., & Peli, E"
+  },
+  {
+    "year": "2020",
+    "title": "Poor resolution at the back of the tongue is the bottleneck for spatial pattern recognition",
+    "authors": "Zahide Pamir, M. Umut Canoluk, Jae-Hyun Jung, Eli Peli",
+    "venue": "Scientific Reports, 10 (1), 2435.",
+    "type": "Publication",
+    "links": [
+      {
+        "label": "DOI",
+        "url": "https://doi.org/10.1038/s41598-020-59102-3"
+      },
+      {
+        "label": "Data Sharing",
+        "url": "data-sharing/files/pamir-etal-2020-scirep-tracingstudy-data_3.xlsx"
+      }
+    ],
+    "citation": "Zahide Pamir, M. Umut Canoluk, Jae-Hyun Jung, Eli Peli. (2020). Poor resolution at the back of the tongue is the bottleneck for spatial pattern recognition. Scientific Reports, 10 (1), 2435.",
+    "id": "publication-26",
+    "authors_original": "Pamir, Z., Canoluk, M. U., Jung, J. - H., & Peli, E"
+  },
+  {
+    "year": "2020",
+    "title": "Design of 45∘ periscopic visual field expansion device for peripheral field loss",
+    "authors": "Hee-Jin Choi, Eli Peli, Minyoung Park, Jae-Hyun Jung",
+    "venue": "Optics Communications, 454, 124364.",
+    "type": "Publication",
+    "links": [
+      {
+        "label": "DOI",
+        "url": "http://www.sciencedirect.com/science/article/pii/S0030401819307084"
+      }
+    ],
+    "citation": "Hee-Jin Choi, Eli Peli, Minyoung Park, Jae-Hyun Jung. (2020). Design of 45∘ periscopic visual field expansion device for peripheral field loss. Optics Communications, 454, 124364.",
+    "id": "publication-27",
+    "authors_original": "Choi, H. - J., Peli, E., Park, M., & Jung, J. - H"
+  },
+  {
+    "year": "2018",
+    "title": "Active confocal imaging systems and methods for visual prostheses",
+    "authors": "Eli Peli, Jae-Hyun Jung",
+    "venue": "US Patent No. US10130513B2.",
+    "type": "Patent",
+    "links": [],
+    "citation": "Eli Peli, Jae-Hyun Jung. (2018). Active confocal imaging systems and methods for visual prostheses. US Patent No. US10130513B2.",
+    "id": "publication-28",
+    "authors_original": "Peli, E., & Jung, J. - H"
+  },
+  {
+    "year": "2018",
+    "title": "No Useful Field Expansion with Full-field Prisms",
+    "authors": "Jae-Hyun Jung, Eli Peli",
+    "venue": "Optometry and Vision Science, 95 (9), 805-813.",
+    "type": "Publication",
+    "links": [
+      {
+        "label": "DOI",
+        "url": "https://journals.lww.com/optvissci/Fulltext/2018/09000/No_Useful_Field_Expansion_with_Full_field_Prisms.15.aspx"
+      },
+      {
+        "label": "Data Sharing",
+        "url": "data-sharing/files/datasharing_fullfield_1.xlsx"
+      }
+    ],
+    "citation": "Jae-Hyun Jung, Eli Peli. (2018). No Useful Field Expansion with Full-field Prisms. Optometry and Vision Science, 95 (9), 805-813.",
+    "id": "publication-29",
+    "authors_original": "Jung, J. - H., & Peli, E"
+  },
+  {
+    "year": "2018",
+    "title": "Field Expansion for Acquired Monocular Vision Using a Multiplexing Prism",
+    "authors": "Jae-Hyun Jung, Eli Peli",
+    "venue": "Optometry and Vision Science, 95 (9), 814-828.",
+    "type": "Publication",
+    "links": [
+      {
+        "label": "DOI",
+        "url": "https://journals.lww.com/optvissci/Fulltext/2018/09000/Field_Expansion_for_Acquired_Monocular_Vision.16.aspx"
+      },
+      {
+        "label": "Data Sharing",
+        "url": "data-sharing/files/datasharing_amv_mxp_4.xlsx"
+      }
+    ],
+    "citation": "Jae-Hyun Jung, Eli Peli. (2018). Field Expansion for Acquired Monocular Vision Using a Multiplexing Prism. Optometry and Vision Science, 95 (9), 814-828.",
+    "id": "publication-30",
+    "authors_original": "Jung, J. - H., & Peli, E"
+  },
+  {
+    "year": "2018",
+    "title": "Word recognition: re-thinking prosthetic vision evaluation",
+    "authors": "Shui’er Han, Cheng Qiu, Kassandra Lee, Jae-Hyun Jung, Eli Peli",
+    "venue": "Journal of Neural Engineering, 15 (5), 055003.",
+    "type": "Publication",
+    "links": [
+      {
+        "label": "DOI",
+        "url": "https://doi.org/10.1088%2F1741-2552%2Faac663"
+      },
+      {
+        "label": "Data Sharing",
+        "url": "data-sharing/files/wordrecognition2018datasharing_1.xlsx"
+      }
+    ],
+    "citation": "Shui’er Han, Cheng Qiu, Kassandra Lee, Jae-Hyun Jung, Eli Peli. (2018). Word recognition: re-thinking prosthetic vision evaluation. Journal of Neural Engineering, 15 (5), 055003.",
+    "id": "publication-31",
+    "authors_original": "Han, S. 'E., Qiu, C., Lee, K. R., Jung, J. - H., & Peli, E"
+  },
+  {
+    "year": "2018",
+    "title": "Measuring Pedestrian Collision Detection With Peripheral Field Loss and the Impact of Peripheral Prisms",
+    "authors": "Cheng Qiu, Jae-Hyun Jung, Merve Tuccar-Burak, Lauren Spano, Robert Goldstein, Eli Peli",
+    "venue": "Translational Vision Science & Technology, 7 (5), Article 1.",
+    "type": "Publication",
+    "links": [
+      {
+        "label": "DOI",
+        "url": "https://doi.org/10.1167/tvst.7.5.1"
+      },
+      {
+        "label": "Cover Article",
+        "url": "https://www.jjunglab.com/updates#h.7d7hfxacp9tu"
+      }
+    ],
+    "citation": "Cheng Qiu, Jae-Hyun Jung, Merve Tuccar-Burak, Lauren Spano, Robert Goldstein, Eli Peli. (2018). Measuring Pedestrian Collision Detection With Peripheral Field Loss and the Impact of Peripheral Prisms. Translational Vision Science & Technology, 7 (5), Article 1.",
+    "id": "publication-32",
+    "teaser_id": "news-23",
+    "authors_original": "Qiu, C., Jung, J. - H., Tuccar-Burak, M., Spano, L., Goldstein, R., & Peli, E"
+  },
+  {
+    "year": "2018",
+    "title": "Motion Parallax Improves Object Recognition in the Presence of Clutter in Simulated Prosthetic Vision",
+    "authors": "Cheng Qiu, Kassandra R. Lee, Jae-Hyun Jung, Robert Goldstein, Eli Peli",
+    "venue": "Translational Vision Science & Technology, 7 (5), Article 29.",
+    "type": "Publication",
+    "links": [
+      {
+        "label": "DOI",
+        "url": "https://doi.org/10.1167/tvst.7.5.29"
+      },
+      {
+        "label": "Data Sharing",
+        "url": "data-sharing/files/motion_parallax_data_sharing_2.xlsx"
+      }
+    ],
+    "citation": "Cheng Qiu, Kassandra R. Lee, Jae-Hyun Jung, Robert Goldstein, Eli Peli. (2018). Motion Parallax Improves Object Recognition in the Presence of Clutter in Simulated Prosthetic Vision. Translational Vision Science & Technology, 7 (5), Article 29.",
+    "id": "publication-33",
+    "authors_original": "Qiu, C., Lee, K. R., Jung, J. - H., Goldstein, R., & Peli, E"
+  },
+  {
+    "year": "2018",
+    "title": "Light-field background de-cluttering for visual prostheses",
+    "authors": "Jae-Hyun Jung, Eli Peli",
+    "venue": "Imaging and Applied Optics 2018 (3D, AO, AIO, COSI, DH, IS, LACSEA, LS&C, MATH, pcAOP) (pp. 3Tu3E.3). Optical Society of America.",
+    "type": "Publication",
+    "links": [
+      {
+        "label": "DOI",
+        "url": "http://www.osapublishing.org/abstract.cfm?URI=3D-2018-3Tu3E.3"
+      }
+    ],
+    "citation": "Jae-Hyun Jung, Eli Peli. (2018). Light-field background de-cluttering for visual prostheses. Imaging and Applied Optics 2018 (3D, AO, AIO, COSI, DH, IS, LACSEA, LS&C, MATH, pcAOP) (pp. 3Tu3E.3). Optical Society of America.",
+    "id": "publication-34",
+    "authors_original": "Jung, J. - H., & Peli, E"
+  },
+  {
+    "year": "2017",
+    "title": "Multiplexing Prisms for Field Expansion",
+    "authors": "Eli Peli, Jae-Hyun Jung",
+    "venue": "Optometry and Vision Science, 94 (8), 817-829.",
+    "type": "Publication",
+    "links": [
+      {
+        "label": "DOi",
+        "url": "https://journals.lww.com/optvissci/Fulltext/2017/08000/Multiplexing_Prisms_for_Field_Expansion.5.aspx"
+      },
+      {
+        "label": "Data Sharing",
+        "url": "data-sharing/files/datasharing_mxp_fov_3.xlsx"
+      }
+    ],
+    "citation": "Eli Peli, Jae-Hyun Jung. (2017). Multiplexing Prisms for Field Expansion. Optometry and Vision Science, 94 (8), 817-829.",
+    "id": "publication-35",
+    "authors_original": "Peli, E., & Jung, J. - H"
+  },
+  {
+    "year": "2017",
+    "title": "3D noise-resistant segmentation and tracking of unknown and occluded objects using integral imaging",
+    "authors": "Doron Aloni, Jae-Hyun Jung, Yitzhak Yitzhaky",
+    "venue": "Proc. SPIE 10441, Counterterrorism, Crime Fighting, Forensics, and Surveillance Technologies, 104410D (5 October 2017)",
+    "type": "Publication",
+    "links": [
+      {
+        "label": "DOI",
+        "url": "https://doi.org/10.1117/12.2278244"
+      }
+    ],
+    "citation": "Doron Aloni, Jae-Hyun Jung, Yitzhak Yitzhaky. (2017). 3D noise-resistant segmentation and tracking of unknown and occluded objects using integral imaging. Proc. SPIE 10441, Counterterrorism, Crime Fighting, Forensics, and Surveillance Technologies, 104410D (5 October 2017)",
+    "id": "publication-36",
+    "authors_original": "Aloni, D., Jung, J. - H., & Yitzhaky, Y"
+  },
+  {
+    "year": "2017",
+    "title": "Background de-cluttering for object recognition in video-based visual prostheses",
+    "authors": "Jae-Hyun Jung, Cheng Qiu, Eli Peli",
+    "venue": "10th The Eye and The Chip World Research Congress. Detroit, MI.",
+    "type": "Publication",
+    "links": [],
+    "citation": "Jae-Hyun Jung, Cheng Qiu, Eli Peli. (2017). Background de-cluttering for object recognition in video-based visual prostheses. 10th The Eye and The Chip World Research Congress. Detroit, MI.",
+    "id": "publication-37",
+    "authors_original": "Jung, J. - H., Qiu, C., & Peli, E"
+  },
+  {
+    "year": "2016",
+    "title": "Comparing object recognition from binary and bipolar edge images for visual prostheses",
+    "authors": "Jae-Hyun Jung, Tian Pu, Eli Peli",
+    "venue": "Journal of Electronic Imaging, 25 (6), 061619.",
+    "type": "Publication",
+    "links": [
+      {
+        "label": "DOI",
+        "url": "http://electronicimaging.spiedigitallibrary.org/article.aspx?articleid=2595218"
+      }
+    ],
+    "citation": "Jae-Hyun Jung, Tian Pu, Eli Peli. (2016). Comparing object recognition from binary and bipolar edge images for visual prostheses. Journal of Electronic Imaging, 25 (6), 061619.",
+    "id": "publication-38",
+    "authors_original": "Jung, J. - H., Pu, T., & Peli, E"
+  },
+  {
+    "year": "2016",
+    "title": "High Power Prismatic Devices for Oblique Peripheral Prisms",
+    "authors": "Eli Peli, Alex R. Bowers, Karen Keeney, Jae-Hyun Jung",
+    "venue": "Optometry and Vision Science, 93 (5).",
+    "type": "Publication",
+    "links": [
+      {
+        "label": "DOI",
+        "url": "https://doi.org/10.1097%2FOPX.0000000000000820"
+      },
+      {
+        "label": "Press Release",
+        "url": "https://www.jjunglab.com/updates#h.dpwuuglxjg4w"
+      },
+      {
+        "label": "Data Sharing",
+        "url": "data-sharing/files/data_sharing_high_power_3.xlsx"
+      }
+    ],
+    "citation": "Eli Peli, Alex R. Bowers, Karen Keeney, Jae-Hyun Jung. (2016). High Power Prismatic Devices for Oblique Peripheral Prisms. Optometry and Vision Science, 93 (5).",
+    "id": "publication-39",
+    "authors_original": "Peli, E., Bowers, A., Keeney, K., & Jung, J. - H"
+  },
+  {
+    "year": "2016",
+    "title": "Comparing object recognition from binary and bipolar edge features",
+    "authors": "Jae-Hyun Jung, Tian Pu, Eli Peli",
+    "venue": "IS&T Human Vision and Electronic Imaging XXI.",
+    "type": "Publication",
+    "links": [
+      {
+        "label": "DOI",
+        "url": "https://doi.org/10.2352/ISSN.2470-1173.2016.16.HVEI-111"
+      }
+    ],
+    "citation": "Jae-Hyun Jung, Tian Pu, Eli Peli. (2016). Comparing object recognition from binary and bipolar edge features. IS&T Human Vision and Electronic Imaging XXI.",
+    "id": "publication-40",
+    "authors_original": "Jung, J. - H., Pu, T., & Peli, E"
+  },
+  {
+    "year": "2015",
+    "title": "Active Confocal Imaging for Visual Prostheses",
+    "authors": "Jae-Hyun Jung, Doron Aloni, Yitzhak Yitzhaky, Eli Peli",
+    "venue": "Vision Research, 111, 182-196.",
+    "type": "Publication",
+    "links": [
+      {
+        "label": "DOI",
+        "url": "http://www.sciencedirect.com/science/article/pii/S0042698914002569"
+      },
+      {
+        "label": "Best paper of the year in SERI, Harvard Medical School",
+        "url": "https://www.jjunglab.com/updates#h.k53ejho8dsrq"
+      },
+      {
+        "label": "Data Sharing",
+        "url": "data-sharing/files/activeconfocalimaging_datasharing_2.xlsx"
+      }
+    ],
+    "citation": "Jae-Hyun Jung, Doron Aloni, Yitzhak Yitzhaky, Eli Peli. (2015). Active Confocal Imaging for Visual Prostheses. Vision Research, 111, 182-196.",
+    "id": "publication-41",
+    "authors_original": "Jung, J. - H., Aloni, D., Yitzhaky, Y., & Peli, E"
+  },
+  {
+    "year": "2014",
+    "title": "Real-time integral imaging system for light field microscopy",
+    "authors": "Jonghyun Kim, Jae-Hyun Jung, Youngmo Jeong, Keehoon Hong, Byoungho Lee",
+    "venue": "Opt. Express, 22, 10210–10220. OSA.",
+    "type": "Publication",
+    "links": [
+      {
+        "label": "DOI",
+        "url": "http://www.opticsexpress.org/abstract.cfm?URI=oe-22-9-10210"
+      }
+    ],
+    "citation": "Jonghyun Kim, Jae-Hyun Jung, Youngmo Jeong, Keehoon Hong, Byoungho Lee. (2014). Real-time integral imaging system for light field microscopy. Opt. Express, 22, 10210–10220. OSA.",
+    "id": "publication-42",
+    "authors_original": "Kim, J., Jung, J. - H., Jeong, Y., Hong, K., & Lee, B"
+  },
+  {
+    "year": "2014",
+    "title": "Impact of high power and angle of incidence on prism corrections for visual field loss",
+    "authors": "Jae-Hyun Jung, Eli Peli",
+    "venue": "Optical Engineering, 53 (6), 061707.",
+    "type": "Publication",
+    "links": [
+      {
+        "label": "DOI",
+        "url": "http://dx.doi.org/10.1117/1.OE.53.6.061707"
+      },
+      {
+        "label": "Data Sharing",
+        "url": "data-sharing/files/highpowerprism_datasharing_2.xlsx"
+      }
+    ],
+    "citation": "Jae-Hyun Jung, Eli Peli. (2014). Impact of high power and angle of incidence on prism corrections for visual field loss. Optical Engineering, 53 (6), 061707.",
+    "id": "publication-43",
+    "authors_original": "Jung, J. - H., & Peli, E"
+  },
+  {
+    "year": "2014",
+    "title": "Distortions to visual field expansion with high-power Fresnel prisms",
+    "authors": "Jae-Hyun Jung",
+    "venue": "SPIE Newsroom",
+    "type": "Publication",
+    "links": [
+      {
+        "label": "DOI",
+        "url": "http://spie.org/x106406.xml?highlight=x2416&ArticleID=x106406"
+      },
+      {
+        "label": "Press Release",
+        "url": "https://www.jjunglab.com/updates#h.gmehzlhew970"
+      }
+    ],
+    "citation": "Jae-Hyun Jung. (2014). Distortions to visual field expansion with high-power Fresnel prisms. SPIE Newsroom",
+    "id": "publication-44",
+    "teaser_id": "news-41",
+    "authors_original": "Jung, J. - H"
+  },
+  {
+    "year": "2013",
+    "title": "Efficient Light Harvesting with Micropatterned 3D Pyramidal Photoanodes in Dye-Sensitized Solar Cells",
+    "authors": "Sanghyuk Wooh, Hyunsik Yoon, Jae-Hyun Jung, Yong-Gun Lee, Jai Hyun Koh, Byoungho Lee, Yong Soo Kang, Kookheon Char",
+    "venue": "Advanced Materials, 25 (22), 3111–3116.",
+    "type": "Publication",
+    "links": [
+      {
+        "label": "DOI",
+        "url": "http://dx.doi.org/10.1002/adma.201300085"
+      }
+    ],
+    "citation": "Sanghyuk Wooh, Hyunsik Yoon, Jae-Hyun Jung, Yong-Gun Lee, Jai Hyun Koh, Byoungho Lee, Yong Soo Kang, Kookheon Char. (2013). Efficient Light Harvesting with Micropatterned 3D Pyramidal Photoanodes in Dye-Sensitized Solar Cells. Advanced Materials, 25 (22), 3111–3116.",
+    "id": "publication-45",
+    "authors_original": "Wooh, S., Yoon, H., Jung, J. - H., Lee, Y. - G., Koh, J. H., Lee, B., Kang, Y. S., et al"
+  },
+  {
+    "year": "2013",
+    "title": "Depth-fused display with improved viewing characteristics",
+    "authors": "Soon-Gi Park, Jae-Hyun Jung, Youngmo Jeong, Byoungho Lee",
+    "venue": "Opt. Express, 21 (23), 28758–28770. OSA.",
+    "type": "Publication",
+    "links": [
+      {
+        "label": "DOI",
+        "url": "http://www.opticsexpress.org/abstract.cfm?URI=oe-21-23-28758"
+      }
+    ],
+    "citation": "Soon-Gi Park, Jae-Hyun Jung, Youngmo Jeong, Byoungho Lee. (2013). Depth-fused display with improved viewing characteristics. Opt. Express, 21 (23), 28758–28770. OSA.",
+    "id": "publication-46",
+    "authors_original": "Park, S. -gi, Jung, J. - H., Jeong, Y., & Lee, B"
+  },
+  {
+    "year": "2013",
+    "title": "Real-time capturing and 3D visualization method based on integral imaging",
+    "authors": "Jonghyun Kim, Jae-Hyun Jung, Changwon Jang, Byoungho Lee",
+    "venue": "Opt. Express, 21, 18742–18753. OSA.",
+    "type": "Publication",
+    "links": [
+      {
+        "label": "DOI",
+        "url": "http://www.opticsexpress.org/abstract.cfm?URI=oe-21-16-18742"
+      }
+    ],
+    "citation": "Jonghyun Kim, Jae-Hyun Jung, Changwon Jang, Byoungho Lee. (2013). Real-time capturing and 3D visualization method based on integral imaging. Opt. Express, 21, 18742–18753. OSA.",
+    "id": "publication-47",
+    "authors_original": "Kim, J., Jung, J. - H., Jang, C., & Lee, B"
+  },
+  {
+    "year": "2013",
+    "title": "Solution of pseudoscopic problem in integral imaging for real-time processing",
+    "authors": "Jae-Hyun Jung, Jonghyun Kim, Byoungho Lee",
+    "venue": "Opt. Lett., 38, 76–78. OSA.",
+    "type": "Publication",
+    "links": [
+      {
+        "label": "DOI",
+        "url": "http://ol.osa.org/abstract.cfm?URI=ol-38-1-76"
+      }
+    ],
+    "citation": "Jae-Hyun Jung, Jonghyun Kim, Byoungho Lee. (2013). Solution of pseudoscopic problem in integral imaging for real-time processing. Opt. Lett., 38, 76–78. OSA.",
+    "id": "publication-48",
+    "authors_original": "Jung, J. - H., Kim, J., & Lee, B"
+  },
+  {
+    "year": "2013",
+    "title": "Real-time pickup and display integral imaging system without pseudoscopic problem",
+    "authors": "Jonghyun Kim, Jae-Hyun Jung, Byoungho Lee",
+    "venue": "Proc. SPIE. 8643, Advances in Display Technologies III.",
+    "type": "Publication",
+    "links": [
+      {
+        "label": "DOI",
+        "url": "https://doi.org/10.1117/12.2007369"
+      }
+    ],
+    "citation": "Jonghyun Kim, Jae-Hyun Jung, Byoungho Lee. (2013). Real-time pickup and display integral imaging system without pseudoscopic problem. Proc. SPIE. 8643, Advances in Display Technologies III.",
+    "id": "publication-49",
+    "authors_original": "Kim, J., Jung, J. - H., & Lee, B"
+  },
+  {
+    "year": "2012",
+    "title": "Method and system for imaging display",
+    "authors": "Jisoo Hong, Jae-Hyun Jung, Keehoon Hong, Youngmin Kim, Byoungho Lee",
+    "venue": "Korean Patent. KR Patent No. 10-1118745.",
+    "type": "Patent",
+    "links": [],
+    "citation": "Jisoo Hong, Jae-Hyun Jung, Keehoon Hong, Youngmin Kim, Byoungho Lee. (2012). Method and system for imaging display. Korean Patent. KR Patent No. 10-1118745.",
+    "id": "publication-50",
+    "authors_original": "Hong, J., Jung, J. - H., Hong, K., Kim, Y., & Lee, B"
+  },
+  {
+    "year": "2012",
+    "title": "Accommodative Response of Integral Imaging in Near Distance",
+    "authors": "Youngmin Kim, Jongshin Kim, Keehoon Hong, Hee Kyung Yang, Jae-Hyun Jung, Heejin Choi, Sung-Wook Min, Jong-Mo Seo, Jeong-Min Hwang, Byoungho Lee",
+    "venue": "J. Disp. Technol., 8, 70-78.",
+    "type": "Publication",
+    "links": [
+      {
+        "label": "DOI",
+        "url": "http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6136206&url=http%3A%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D6136206"
+      }
+    ],
+    "citation": "Youngmin Kim, Jongshin Kim, Keehoon Hong, Hee Kyung Yang, Jae-Hyun Jung, Heejin Choi, Sung-Wook Min, Jong-Mo Seo, Jeong-Min Hwang, Byoungho Lee. (2012). Accommodative Response of Integral Imaging in Near Distance. J. Disp. Technol., 8, 70-78.",
+    "id": "publication-51",
+    "authors_original": "Kim, Y., Kim, J., Hong, K., Yang, H. K., Jung, J. - H., Choi, H., Min, S. - W., et al"
+  },
+  {
+    "year": "2012",
+    "title": "A frontal projection-type three-dimensional display",
+    "authors": "Youngmin Kim, Keehoon Hong, Jiwoon Yeom, Jisoo Hong, Jae-Hyun Jung, Yong Wook Lee, Jae-Hyeung Park, Byoungho Lee",
+    "venue": "Opt. Express, 20, 20130–20138. OSA.",
+    "type": "Publication",
+    "links": [
+      {
+        "label": "DOI",
+        "url": "http://www.opticsexpress.org/abstract.cfm?URI=oe-20-18-20130"
+      },
+      {
+        "label": "Press release: CNN, NBC, BBC, OSA news, etc.",
+        "url": "https://www.jjunglab.com/updates#h.gag4grdc7co0"
+      }
+    ],
+    "citation": "Youngmin Kim, Keehoon Hong, Jiwoon Yeom, Jisoo Hong, Jae-Hyun Jung, Yong Wook Lee, Jae-Hyeung Park, Byoungho Lee. (2012). A frontal projection-type three-dimensional display. Opt. Express, 20, 20130–20138. OSA.",
+    "id": "publication-52",
+    "authors_original": "Kim, Y., Hong, K., Yeom, J., Hong, J., Jung, J. - H., Lee, Y. W., Park, J. - H., et al"
+  },
+  {
+    "year": "2012",
+    "title": "Integral imaging using a color filter pinhole array on a display panel",
+    "authors": "Jae-Hyun Jung, Soon-Gi Park, Youngmin Kim, Byoungho Lee",
+    "venue": "Opt. Express, 20, 18744–18756. OSA.",
+    "type": "Publication",
+    "links": [
+      {
+        "label": "DOI",
+        "url": "http://www.opticsexpress.org/abstract.cfm?URI=oe-20-17-18744"
+      }
+    ],
+    "citation": "Jae-Hyun Jung, Soon-Gi Park, Youngmin Kim, Byoungho Lee. (2012). Integral imaging using a color filter pinhole array on a display panel. Opt. Express, 20, 18744–18756. OSA.",
+    "id": "publication-53",
+    "authors_original": "Jung, J. - H., Park, S. -gi, Kim, Y., & Lee, B"
+  },
+  {
+    "year": "2012",
+    "title": "Elemental Image Generation Method with the Correction of Mismatch Error by Sub-pixel Sampling between Lens and Pixel in Integral Imaging",
+    "authors": "Jonghyun Kim, Jae-Hyun Jung, Jisoo Hong, Jiwoon Yeom, Byoungho Lee",
+    "venue": "J. Opt. Soc. Korea, 16, 29–35. OSA.",
+    "type": "Publication",
+    "links": [
+      {
+        "label": "DOI",
+        "url": "http://www.opticsinfobase.org/josk/abstract.cfm?URI=josk-16-1-29"
+      }
+    ],
+    "citation": "Jonghyun Kim, Jae-Hyun Jung, Jisoo Hong, Jiwoon Yeom, Byoungho Lee. (2012). Elemental Image Generation Method with the Correction of Mismatch Error by Sub-pixel Sampling between Lens and Pixel in Integral Imaging. J. Opt. Soc. Korea, 16, 29–35. OSA.",
+    "id": "publication-54",
+    "authors_original": "Kim, J., Jung, J. - H., Hong, J., Yeom, J., & Lee, B"
+  },
+  {
+    "year": "2012",
+    "title": "Experiment verification of hologram generation using intensity images",
+    "authors": "Ni Chen, Keehoon Hong, Jiwoon Yeom, Jae-Hyun Jung, Byoungho Lee",
+    "venue": "Proc. SPIE. 8559, Information Optics and Optical Data Storage II.",
+    "type": "Publication",
+    "links": [
+      {
+        "label": "DOI",
+        "url": "https://doi.org/10.1117/12.1000098"
+      }
+    ],
+    "citation": "Ni Chen, Keehoon Hong, Jiwoon Yeom, Jae-Hyun Jung, Byoungho Lee. (2012). Experiment verification of hologram generation using intensity images. Proc. SPIE. 8559, Information Optics and Optical Data Storage II.",
+    "id": "publication-55",
+    "authors_original": "Chen, N., Hong, K., Yeom, J., Jung, J. - H., & Lee, B"
+  },
+  {
+    "year": "2012",
+    "title": "Effect of Viewing Region Satisfying Super Multi-View Condition in Integral Imaging",
+    "authors": "Jae-Hyun Jung, Keehoon Hong, Byoungho Lee",
+    "venue": "2012 SID Symposium Digest of Technical Papers.",
+    "type": "Publication",
+    "links": [
+      {
+        "label": "DOI",
+        "url": "http://dx.doi.org/10.1002/j.2168-0159.2012.tb05928.x"
+      }
+    ],
+    "citation": "Jae-Hyun Jung, Keehoon Hong, Byoungho Lee. (2012). Effect of Viewing Region Satisfying Super Multi-View Condition in Integral Imaging. 2012 SID Symposium Digest of Technical Papers.",
+    "id": "publication-56",
+    "authors_original": "Jung, J. - H., Hong, K., & Lee, B"
+  },
+  {
+    "year": "2012",
+    "title": "Depth-fused Display with Enhanced Viewing Region",
+    "authors": "Soon-Gi Park, Jae-Hyun Jung, Youngmin Kim, Byoungho Lee",
+    "venue": "Digital Holography and Three-Dimensional Imaging 2012. Optical Society of America.",
+    "type": "Publication",
+    "links": [
+      {
+        "label": "DOI",
+        "url": "http://www.opticsinfobase.org/abstract.cfm?URI=DH-2012-DSu1C.5"
+      }
+    ],
+    "citation": "Soon-Gi Park, Jae-Hyun Jung, Youngmin Kim, Byoungho Lee. (2012). Depth-fused Display with Enhanced Viewing Region. Digital Holography and Three-Dimensional Imaging 2012. Optical Society of America.",
+    "id": "publication-57",
+    "authors_original": "Park, S. -gi, Jung, J. - H., Kim, Y., & Lee, B"
+  },
+  {
+    "year": "2012",
+    "title": "Study on improvement of three-dimensional displays based on multi-view display and pinhole-type integral imaging",
+    "authors": "Jae-Hyun Jung",
+    "venue": "PhD Dissertation. School of Electrical Engineering and Computer Science, Seoul National University.",
+    "type": "Dissertation",
+    "links": [
+      {
+        "label": "DOI",
+        "url": "https://hdl.handle.net/10371/119318"
+      }
+    ],
+    "citation": "Jae-Hyun Jung. (2012). Study on improvement of three-dimensional displays based on multi-view display and pinhole-type integral imaging. PhD Dissertation. School of Electrical Engineering and Computer Science, Seoul National University.",
+    "id": "publication-58",
+    "authors_original": "Jung, J. - H"
+  },
+  {
+    "year": "2012",
+    "title": "Analysis and improvement of the depth resolution in depth-fused display",
+    "authors": "Soon-Gi Park, Jae-Hyun Jung, Jonghyun Kim, Jae-Hyeung Park, Byoungho Lee",
+    "venue": "The Second Japan-Korea Workshop on Digital Holography and Information Photonics. Optical Society of Japan.",
+    "type": "Publication",
+    "links": [],
+    "citation": "Soon-Gi Park, Jae-Hyun Jung, Jonghyun Kim, Jae-Hyeung Park, Byoungho Lee. (2012). Analysis and improvement of the depth resolution in depth-fused display. The Second Japan-Korea Workshop on Digital Holography and Information Photonics. Optical Society of Japan.",
+    "id": "publication-59",
+    "authors_original": "Park, S. -gi, Jung, J. - H., Kim, J., Park, J. - H., & Lee, B"
+  },
+  {
+    "year": "2012",
+    "title": "Analysis of depth resolution in multi-view display",
+    "authors": "J. Kim, Jisoo Hong, Jae-Hyun Jung, J.-Y. Hong, J. Moon, Byoungho Lee",
+    "venue": "12th International Meeting on Information Display (IMID 2012)",
+    "type": "Publication",
+    "links": [],
+    "citation": "J. Kim, Jisoo Hong, Jae-Hyun Jung, J.-Y. Hong, J. Moon, Byoungho Lee. (2012). Analysis of depth resolution in multi-view display. 12th International Meeting on Information Display (IMID 2012)",
+    "id": "publication-60",
+    "authors_original": "Kim, J., Hong, J., Jung, J. - H., Hong, J. - Y., Moon, J., & Lee, B"
+  },
+  {
+    "year": "2012",
+    "title": "Depth expansion of depth-fused display based on integral imaging method",
+    "authors": "Soon-Gi Park, Jae-Hyun Jung, Byoungho Lee",
+    "venue": "12th International Meeting on Information Display (IMID 2012)",
+    "type": "Publication",
+    "links": [],
+    "citation": "Soon-Gi Park, Jae-Hyun Jung, Byoungho Lee. (2012). Depth expansion of depth-fused display based on integral imaging method. 12th International Meeting on Information Display (IMID 2012)",
+    "id": "publication-61",
+    "authors_original": "Park, S. -gi, Jung, J. - H., & Lee, B"
+  },
+  {
+    "year": "2012",
+    "title": "Accommodation response of super multi-view display using directional light in monocular condition",
+    "authors": "Jae-Hyun Jung, Jonghyun Kim, Soon-Gi Park, Seo Young Choi, Dongkyung Nam, Byoungho Lee",
+    "venue": "19th The International Display Workshop. Kyoto, Japan.",
+    "type": "Publication",
+    "links": [],
+    "citation": "Jae-Hyun Jung, Jonghyun Kim, Soon-Gi Park, Seo Young Choi, Dongkyung Nam, Byoungho Lee. (2012). Accommodation response of super multi-view display using directional light in monocular condition. 19th The International Display Workshop. Kyoto, Japan.",
+    "id": "publication-62",
+    "authors_original": "Jung, J. - H., Kim, J., Park, S. -gi, Choi, S., Nam, D., & Lee, B"
+  },
+  {
+    "year": "2011",
+    "title": "Effect of fundamental depth resolution and cardboard effect to perceived depth resolution on multi-view display",
+    "authors": "Jae-Hyun Jung, Jiwoon Yeom, Jisoo Hong, Keehoon Hong, Sung-Wook Min, Byoungho Lee",
+    "venue": "Opt. Express, 19, 20468–20482. OSA.",
+    "type": "Publication",
+    "links": [
+      {
+        "label": "DOI",
+        "url": "http://www.opticsexpress.org/abstract.cfm?URI=oe-19-21-20468"
+      },
+      {
+        "label": "Cover Article",
+        "url": "https://www.jjunglab.com/updates#h.zhalvmu1kaf9"
+      }
+    ],
+    "citation": "Jae-Hyun Jung, Jiwoon Yeom, Jisoo Hong, Keehoon Hong, Sung-Wook Min, Byoungho Lee. (2011). Effect of fundamental depth resolution and cardboard effect to perceived depth resolution on multi-view display. Opt. Express, 19, 20468–20482. OSA.",
+    "id": "publication-63",
+    "authors_original": "Jung, J-H, Yeom, J., Hong, J., Hong, K., Min, S. - W., & Lee, B"
+  },
+  {
+    "year": "2011",
+    "title": "Phase-only hologram generation based on integral imaging and its enhancement in depth resolution",
+    "authors": "Jiwoon Yeom, Jisoo Hong, Jae-Hyun Jung, Keehoon Hong, Jae-Hyeung Park, Byoungho Lee",
+    "venue": "Chin. Opt. Lett., 9, 120009. OSA.",
+    "type": "Publication",
+    "links": [
+      {
+        "label": "DOI",
+        "url": "http://col.osa.org/abstract.cfm?URI=col-9-12-120009"
+      }
+    ],
+    "citation": "Jiwoon Yeom, Jisoo Hong, Jae-Hyun Jung, Keehoon Hong, Jae-Hyeung Park, Byoungho Lee. (2011). Phase-only hologram generation based on integral imaging and its enhancement in depth resolution. Chin. Opt. Lett., 9, 120009. OSA.",
+    "id": "publication-64",
+    "authors_original": "Yeom, J., Hong, J., Jung, J. - H., Hong, K., Park, J. - H., & Lee, B"
+  },
+  {
+    "year": "2011",
+    "title": "Resolution comparison between integral-imaging-based hologram synthesis methods using rectangular and hexagonal lens arrays",
+    "authors": "Ni Chen, Jiwoon Yeom, Jae-Hyun Jung, Jae-Hyeung Park, Byoungho Lee",
+    "venue": "Opt. Express, 19, 26917–26927. OSA.",
+    "type": "Publication",
+    "links": [
+      {
+        "label": "DOI",
+        "url": "http://www.opticsexpress.org/abstract.cfm?URI=oe-19-27-26917"
+      }
+    ],
+    "citation": "Ni Chen, Jiwoon Yeom, Jae-Hyun Jung, Jae-Hyeung Park, Byoungho Lee. (2011). Resolution comparison between integral-imaging-based hologram synthesis methods using rectangular and hexagonal lens arrays. Opt. Express, 19, 26917–26927. OSA.",
+    "id": "publication-65",
+    "authors_original": "Chen, N., Yeom, J., Jung, J. - H., Park, J. - H., & Lee, B"
+  },
+  {
+    "year": "2011",
+    "title": "Computational reacquisition of a real three-dimensional object for integral imaging without matching of pickup and display lens array",
+    "authors": "Jae-Hyun Jung, Jisoo Hong, Gilbae Park, Keehoon Hong, Byoungho Lee",
+    "venue": "Proc. SPIE. 8134, Optics and Photonics for Information Processing V.",
+    "type": "Publication",
+    "links": [
+      {
+        "label": "DOI",
+        "url": "https://doi.org/10.1117/12.893134"
+      }
+    ],
+    "citation": "Jae-Hyun Jung, Jisoo Hong, Gilbae Park, Keehoon Hong, Byoungho Lee. (2011). Computational reacquisition of a real three-dimensional object for integral imaging without matching of pickup and display lens array. Proc. SPIE. 8134, Optics and Photonics for Information Processing V.",
+    "id": "publication-66",
+    "authors_original": "Jung, J. - H., Hong, J., Park, G., Hong, K., & Lee, B"
+  },
+  {
+    "year": "2011",
+    "title": "View image error analysis based on focal mode and virtual mode in three-dimensional display using lenses",
+    "authors": "Youngmin Kim, Jiwoon Yeom, Jae-Hyun Jung, Jisoo Hong, Byoungho Lee",
+    "venue": "Proc. SPIE. 7956, Advances in Display Technologies; and E-papers and Flexible Displays.",
+    "type": "Publication",
+    "links": [
+      {
+        "label": "DOI",
+        "url": "https://doi.org/10.1117/12.881533"
+      }
+    ],
+    "citation": "Youngmin Kim, Jiwoon Yeom, Jae-Hyun Jung, Jisoo Hong, Byoungho Lee. (2011). View image error analysis based on focal mode and virtual mode in three-dimensional display using lenses. Proc. SPIE. 7956, Advances in Display Technologies; and E-papers and Flexible Displays.",
+    "id": "publication-67",
+    "authors_original": "Kim, Y., Yeom, J., Jung, J. - H., Hong, J., & Lee, B"
+  },
+  {
+    "year": "2011",
+    "title": "Evaluation of perceived depth resolution in multi-view threedimensional display using depth image-based rendering",
+    "authors": "Jae-Hyun Jung, Jisoo Hong, Gilbae Park, Keehoon Hong, Sung-Wook Min, Byoungho Lee",
+    "venue": "3DTV Conference: The True Vision - Capture, Transmission and Display of 3D Video (3DTV-CON), 2011.",
+    "type": "Publication",
+    "links": [
+      {
+        "label": "DOI",
+        "url": "https://ieeexplore.ieee.org/abstract/document/5877156"
+      }
+    ],
+    "citation": "Jae-Hyun Jung, Jisoo Hong, Gilbae Park, Keehoon Hong, Sung-Wook Min, Byoungho Lee. (2011). Evaluation of perceived depth resolution in multi-view threedimensional display using depth image-based rendering. 3DTV Conference: The True Vision - Capture, Transmission and Display of 3D Video (3DTV-CON), 2011.",
+    "id": "publication-68",
+    "authors_original": "Jung, J. - H., Hong, J., Park, G., Hong, K., Min, S. - W., & Lee, B"
+  },
+  {
+    "year": "2011",
+    "title": "Viewing window expansion in integral floating display using tilted side mirrors",
+    "authors": "Jiwoon Yeom, Jae-Hyun Jung, Byoungho Lee",
+    "venue": "3DTV Conference: The True Vision - Capture, Transmission and Display of 3D Video (3DTV-CON), 2011.",
+    "type": "Publication",
+    "links": [
+      {
+        "label": "DOI",
+        "url": "https://ieeexplore.ieee.org/document/5877190"
+      }
+    ],
+    "citation": "Jiwoon Yeom, Jae-Hyun Jung, Byoungho Lee. (2011). Viewing window expansion in integral floating display using tilted side mirrors. 3DTV Conference: The True Vision - Capture, Transmission and Display of 3D Video (3DTV-CON), 2011.",
+    "id": "publication-69",
+    "authors_original": "Yeom, J., Jung, J. - H., & Lee, B"
+  },
+  {
+    "year": "2011",
+    "title": "Phase-only hologram generation from multiple defocused images of three-dimensional object",
+    "authors": "Ni Chen, Jiwoon Yeom, Keehoon Hong, Jisoo Hong, Jae-Hyun Jung, Jae-Hyeung Park, Byoungho Lee",
+    "venue": "Digital Holography and Three-Dimensional Imaging 2011. Optical Society of America.",
+    "type": "Publication",
+    "links": [
+      {
+        "label": "DOI",
+        "url": "http://www.opticsinfobase.org/abstract.cfm?URI=DH-2011-DMB3"
+      }
+    ],
+    "citation": "Ni Chen, Jiwoon Yeom, Keehoon Hong, Jisoo Hong, Jae-Hyun Jung, Jae-Hyeung Park, Byoungho Lee. (2011). Phase-only hologram generation from multiple defocused images of three-dimensional object. Digital Holography and Three-Dimensional Imaging 2011. Optical Society of America.",
+    "id": "publication-70",
+    "authors_original": "Chen, N., Yeom, J., Hong, K., Hong, J., Jung, J. - H., Park, J. - H., & Lee, B"
+  },
+  {
+    "year": "2011",
+    "title": "Analysis on the distortion of 3D image with depth axis movement in stereoscopic liquid crystal displays",
+    "authors": "Hee-Jin Choi, Hyunkyung Kwon, Jae-Hyun Jung, Byoungho Lee",
+    "venue": "11th International Meeting on Information Display (IMID 2011).",
+    "type": "Publication",
+    "links": [],
+    "citation": "Hee-Jin Choi, Hyunkyung Kwon, Jae-Hyun Jung, Byoungho Lee. (2011). Analysis on the distortion of 3D image with depth axis movement in stereoscopic liquid crystal displays. 11th International Meeting on Information Display (IMID 2011).",
+    "id": "publication-71",
+    "authors_original": "Choi, H., Kwon, H., Jung, J. - H., & Lee, B"
+  },
+  {
+    "year": "2011",
+    "title": "Elemental image generation with correlation of mismatching error between pixel and lens in integral imaging",
+    "authors": "Jonghyun Kim, Jae-Hyun Jung, Jisoo Hong, Jiwoon Yeom, Byoungho Lee",
+    "venue": "3rd International Conference on 3D Systems and Applications (3DSA 2011) . Association of Realistic Media Industry. (Best Paper Award)",
+    "type": "Publication",
+    "links": [],
+    "citation": "Jonghyun Kim, Jae-Hyun Jung, Jisoo Hong, Jiwoon Yeom, Byoungho Lee. (2011). Elemental image generation with correlation of mismatching error between pixel and lens in integral imaging. 3rd International Conference on 3D Systems and Applications (3DSA 2011) . Association of Realistic Media Industry. (Best Paper Award)",
+    "id": "publication-72",
+    "authors_original": "Kim, J., Jung, J. - H., Hong, J., Yeom, J., & Lee, B"
+  },
+  {
+    "year": "2011",
+    "title": "Floating curvature-effect large-depth integral imaging system",
+    "authors": "Jonghyun Kim, Jae-Hyun Jung, Soon-Gi Park, Jiwoon Yeom, Joonku Hahn, Sung-Wook Min, Byoungho Lee",
+    "venue": "11th International Meeting on Information Display (IMID 2011).",
+    "type": "Publication",
+    "links": [],
+    "citation": "Jonghyun Kim, Jae-Hyun Jung, Soon-Gi Park, Jiwoon Yeom, Joonku Hahn, Sung-Wook Min, Byoungho Lee. (2011). Floating curvature-effect large-depth integral imaging system. 11th International Meeting on Information Display (IMID 2011).",
+    "id": "publication-73",
+    "authors_original": "Kim, J., Jung, J. - H., Park, S. -gi, Yeom, J., Hahn, J., Min, S. - W., & Lee, B"
+  },
+  {
+    "year": "2011",
+    "title": "Frontal projection-type 3D display using micro convex mirror array and relay optic",
+    "authors": "Jonghyun Kim, Jisoo Hong, Jae-Hyun Jung, Byoungho Lee",
+    "venue": "International Conference on 3D Imaging (IC3D 2011)",
+    "type": "Publication",
+    "links": [
+      {
+        "label": "DOI",
+        "url": "https://ieeexplore.ieee.org/document/6584386"
+      }
+    ],
+    "citation": "Jonghyun Kim, Jisoo Hong, Jae-Hyun Jung, Byoungho Lee. (2011). Frontal projection-type 3D display using micro convex mirror array and relay optic. International Conference on 3D Imaging (IC3D 2011)",
+    "id": "publication-74",
+    "authors_original": "Kim, J., Hong, J., Jung, J. - H., & Lee, B"
+  },
+  {
+    "year": "2011",
+    "title": "Optimum gap for reducing color separation in focal mode integral imaging",
+    "authors": "Jiwoon Yeom, Youngmin Kim, Jae-Hyun Jung, Byoungho Lee",
+    "venue": "11th International Meeting on Information Display (IMID 2011)",
+    "type": "Publication",
+    "links": [],
+    "citation": "Jiwoon Yeom, Youngmin Kim, Jae-Hyun Jung, Byoungho Lee. (2011). Optimum gap for reducing color separation in focal mode integral imaging. 11th International Meeting on Information Display (IMID 2011)",
+    "id": "publication-75",
+    "authors_original": "Yeom, J., Kim, Y., Jung, J. - H., & Lee, B"
+  },
+  {
+    "year": "2011",
+    "title": "Quality improvement of multi-view display and one-dimensional integral imaging in ray sampling using time-multiplexing method",
+    "authors": "Jae-Hyun Jung, Jonghyun Kim, Keehoon Hong, Byoungho Lee",
+    "venue": "11th International Meeting on Information Display (IMID 2011)",
+    "type": "Publication",
+    "links": [],
+    "citation": "Jae-Hyun Jung, Jonghyun Kim, Keehoon Hong, Byoungho Lee. (2011). Quality improvement of multi-view display and one-dimensional integral imaging in ray sampling using time-multiplexing method. 11th International Meeting on Information Display (IMID 2011)",
+    "id": "publication-76",
+    "authors_original": "Jung, J. - H., Kim, J., Hong, K., & Lee, B"
+  },
+  {
+    "year": "2010",
+    "title": "360°-viewable cylindrical integral imaging system using a 3-D/2-D switchable and flexible backlight",
+    "authors": "Jae-Hyun Jung, Keehoon Hong, Gilbae Park, Indeok Chung, Byoungho Lee",
+    "venue": "J. Soc. Inf. Disp., 18, 527–534.",
+    "type": "Publication",
+    "links": [
+      {
+        "label": "DOI",
+        "url": "http://onlinelibrary.wiley.com/doi/10.1889/JSID18.7.527/abstract"
+      },
+      {
+        "label": "Merck Young Scientist Award",
+        "url": "https://www.jjunglab.com/updates#h.z5tgaf22xqnd"
+      }
+    ],
+    "citation": "Jae-Hyun Jung, Keehoon Hong, Gilbae Park, Indeok Chung, Byoungho Lee. (2010). 360°-viewable cylindrical integral imaging system using a 3-D/2-D switchable and flexible backlight. J. Soc. Inf. Disp., 18, 527–534.",
+    "id": "publication-77",
+    "authors_original": "Jung, J. - H., Hong, K., Park, G., Chung, I., & Lee, B"
+  },
+  {
+    "year": "2010",
+    "title": "Depth enhancement of integral imaging by using polymer-dispersed liquid-crystal films and a dual-depth configuration",
+    "authors": "Duc-Quang Pham, Nam Kim, Ki-Chul Kwon, Jae-Hyun Jung, Keehoon Hong, Byoungho Lee, Jae-Hyeung Park",
+    "venue": "Opt. Lett., 35, 3135–3137. OSA.",
+    "type": "Publication",
+    "links": [
+      {
+        "label": "DOI",
+        "url": "http://ol.osa.org/abstract.cfm?URI=ol-35-18-3135"
+      }
+    ],
+    "citation": "Duc-Quang Pham, Nam Kim, Ki-Chul Kwon, Jae-Hyun Jung, Keehoon Hong, Byoungho Lee, Jae-Hyeung Park. (2010). Depth enhancement of integral imaging by using polymer-dispersed liquid-crystal films and a dual-depth configuration. Opt. Lett., 35, 3135–3137. OSA.",
+    "id": "publication-78",
+    "authors_original": "Pham, D. - Q., Kim, N., Kwon, K. - C., Jung, J. - H., Hong, K., Lee, B., & Park, J. - H"
+  },
+  {
+    "year": "2010",
+    "title": "Rectification of elemental image set and extraction of lens lattice by projective image transformation in integral imaging",
+    "authors": "Keehoon Hong, Jisoo Hong, Jae-Hyun Jung, Jae-Hyeung Park, Byoungho Lee",
+    "venue": "Opt. Express, 18, 12002–12016. OSA.",
+    "type": "Publication",
+    "links": [
+      {
+        "label": "DOI",
+        "url": "http://www.opticsexpress.org/abstract.cfm?URI=oe-18-11-12002"
+      }
+    ],
+    "citation": "Keehoon Hong, Jisoo Hong, Jae-Hyun Jung, Jae-Hyeung Park, Byoungho Lee. (2010). Rectification of elemental image set and extraction of lens lattice by projective image transformation in integral imaging. Opt. Express, 18, 12002–12016. OSA.",
+    "id": "publication-79",
+    "authors_original": "Hong, K., Hong, J., Jung, J. - H., Park, J. - H., & Lee, B"
+  },
+  {
+    "year": "2010",
+    "title": "Analysis of the Motion Picture Quality of Stereoscopic Three-dimensional Images",
+    "authors": "Hee-Jin Choi, Jae-Hyun Jung, Hwi Kim, Byoungho Lee",
+    "venue": "J. Opt. Soc. Korea, 14, 383–387. OSA.",
+    "type": "Publication",
+    "links": [
+      {
+        "label": "DOI",
+        "url": "http://www.opticsinfobase.org/josk/abstract.cfm?URI=josk-14-4-383"
+      }
+    ],
+    "citation": "Hee-Jin Choi, Jae-Hyun Jung, Hwi Kim, Byoungho Lee. (2010). Analysis of the Motion Picture Quality of Stereoscopic Three-dimensional Images. J. Opt. Soc. Korea, 14, 383–387. OSA.",
+    "id": "publication-80",
+    "authors_original": "Choi, H. - J., Jung, J. - H., Kim, H., & Lee, B. - H"
+  },
+  {
+    "year": "2010",
+    "title": "Reconstruction of three-dimensional occluded object using optical flow and triangular mesh reconstruction in integral imaging",
+    "authors": "Jae-Hyun Jung, Keehoon Hong, Gilbae Park, Indeok Chung, Jae-Hyeung Park, Byoungho Lee",
+    "venue": "Opt. Express, 18, 26373–26387. OSA.",
+    "type": "Publication",
+    "links": [
+      {
+        "label": "DOI",
+        "url": "http://www.opticsexpress.org/abstract.cfm?URI=oe-18-25-26373"
+      }
+    ],
+    "citation": "Jae-Hyun Jung, Keehoon Hong, Gilbae Park, Indeok Chung, Jae-Hyeung Park, Byoungho Lee. (2010). Reconstruction of three-dimensional occluded object using optical flow and triangular mesh reconstruction in integral imaging. Opt. Express, 18, 26373–26387. OSA.",
+    "id": "publication-81",
+    "authors_original": "Jung, J. - H., Hong, K., Park, G., Chung, I., Park, J. - H., & Lee, B"
+  },
+  {
+    "year": "2010",
+    "title": "Disparity estimation based on integral imaging in sub-pixel resolution using maximum a priori (MAP) registration",
+    "authors": "Jae-Hyun Jung, Keehoon Hong, Jae-Hyeung Park, Indeok Chung, Byoungho Lee",
+    "venue": "Proc. SPIE. 7797, Optics and Photonics for Information Processing IV.",
+    "type": "Publication",
+    "links": [
+      {
+        "label": "DOI",
+        "url": "https://doi.org/10.1117/12.860061"
+      }
+    ],
+    "citation": "Jae-Hyun Jung, Keehoon Hong, Jae-Hyeung Park, Indeok Chung, Byoungho Lee. (2010). Disparity estimation based on integral imaging in sub-pixel resolution using maximum a priori (MAP) registration. Proc. SPIE. 7797, Optics and Photonics for Information Processing IV.",
+    "id": "publication-82",
+    "authors_original": "Jung, J. - H., Hong, K., Park, J. - H., Chung, I., & Lee, B"
+  },
+  {
+    "year": "2010",
+    "title": "Accommodation Response in Viewing Integral Imaging",
+    "authors": "Youngmin Kim, Jae-Hyun Jung, Keehoon Hong, Gilbae Park, Byoungho Lee",
+    "venue": "2010 SID Symposium Digest of Technical Papers.",
+    "type": "Publication",
+    "links": [
+      {
+        "label": "DOI",
+        "url": "http://dx.doi.org/10.1889/1.3500516"
+      }
+    ],
+    "citation": "Youngmin Kim, Jae-Hyun Jung, Keehoon Hong, Gilbae Park, Byoungho Lee. (2010). Accommodation Response in Viewing Integral Imaging. 2010 SID Symposium Digest of Technical Papers.",
+    "id": "publication-83",
+    "authors_original": "Kim, Y., Jung, J. - H., Hong, K., Park, G., & Lee, B"
+  },
+  {
+    "year": "2010",
+    "title": "Accurate Lens Lattice Extraction in Distorted Elemental Image Set",
+    "authors": "Keehoon Hong, Jae-Hyun Jung, Jae-Hyeung Park, Byoungho Lee",
+    "venue": "Digital Holography and Three-Dimensional Imaging 2010. Optical Society of America.",
+    "type": "Publication",
+    "links": [
+      {
+        "label": "DOI",
+        "url": "http://www.opticsinfobase.org/abstract.cfm?URI=DH-2010-JMA20"
+      }
+    ],
+    "citation": "Keehoon Hong, Jae-Hyun Jung, Jae-Hyeung Park, Byoungho Lee. (2010). Accurate Lens Lattice Extraction in Distorted Elemental Image Set. Digital Holography and Three-Dimensional Imaging 2010. Optical Society of America.",
+    "id": "publication-84",
+    "authors_original": "Hong, K., Jung, J. - H., Park, J. - H., & Lee, B"
+  },
+  {
+    "year": "2010",
+    "title": "Depth Extraction with Sub-Pixel Resolution in Integral Imaging Based on Genetic Algorithm",
+    "authors": "Indeok Chung, Jae-Hyun Jung, Jisoo Hong, Keehoon Hong, Byoungho Lee",
+    "venue": "Digital Holography and Three-Dimensional Imaging 2010. Optical Society of America.",
+    "type": "Publication",
+    "links": [
+      {
+        "label": "DOI",
+        "url": "http://www.opticsinfobase.org/abstract.cfm?URI=DH-2010-JMA3"
+      }
+    ],
+    "citation": "Indeok Chung, Jae-Hyun Jung, Jisoo Hong, Keehoon Hong, Byoungho Lee. (2010). Depth Extraction with Sub-Pixel Resolution in Integral Imaging Based on Genetic Algorithm. Digital Holography and Three-Dimensional Imaging 2010. Optical Society of America.",
+    "id": "publication-85",
+    "authors_original": "Chung, I., Jung, J. - H., Hong, J., Hong, K., & Lee, B"
+  },
+  {
+    "year": "2010",
+    "title": "Enhanced Optical Depth Converter Based on Integral Imaging",
+    "authors": "Youngmin Kim, Keehoon Hong, Jae-Hyun Jung, Jisoo Hong, Yunwon Lee, Sung-Wook Min, Byoungho Lee",
+    "venue": "Digital Holography and Three-Dimensional Imaging 2010. Optical Society of America.",
+    "type": "Publication",
+    "links": [
+      {
+        "label": "DOI",
+        "url": "http://www.opticsinfobase.org/abstract.cfm?URI=DH-2010-DMC1"
+      }
+    ],
+    "citation": "Youngmin Kim, Keehoon Hong, Jae-Hyun Jung, Jisoo Hong, Yunwon Lee, Sung-Wook Min, Byoungho Lee. (2010). Enhanced Optical Depth Converter Based on Integral Imaging. Digital Holography and Three-Dimensional Imaging 2010. Optical Society of America.",
+    "id": "publication-86",
+    "authors_original": "Kim, Y., Hong, K., Jung, J. - H., Hong, J., Lee, Y., Min, S. - W., & Lee, B"
+  },
+  {
+    "year": "2010",
+    "title": "Enhancement of Pinhole Type Integral Imaging System Using Color Filters of Liquid Crystal Display Panel",
+    "authors": "Jae-Hyun Jung, Younghoon Kim, Yunwon Lee, Byoungho Lee",
+    "venue": "Digital Holography and Three-Dimensional Imaging. Optical Society of America.",
+    "type": "Publication",
+    "links": [
+      {
+        "label": "DOI",
+        "url": "http://www.opticsinfobase.org/abstract.cfm?URI=DH-2010-DTuB3"
+      }
+    ],
+    "citation": "Jae-Hyun Jung, Younghoon Kim, Yunwon Lee, Byoungho Lee. (2010). Enhancement of Pinhole Type Integral Imaging System Using Color Filters of Liquid Crystal Display Panel. Digital Holography and Three-Dimensional Imaging. Optical Society of America.",
+    "id": "publication-87",
+    "authors_original": "Jung, J. - H., Kim, Y., Lee, Y., & Lee, B"
+  },
+  {
+    "year": "2010",
+    "title": "Reduction of quantization error in depth extraction based on integral imaging using genetic algorithm",
+    "authors": "Indeok Chung, Jae-Hyun Jung, Jisoo Hong, Keehoon Hong, Byoungho Lee",
+    "venue": "10th International Meeting on Information Display (IMID 2010)",
+    "type": "Publication",
+    "links": [],
+    "citation": "Indeok Chung, Jae-Hyun Jung, Jisoo Hong, Keehoon Hong, Byoungho Lee. (2010). Reduction of quantization error in depth extraction based on integral imaging using genetic algorithm. 10th International Meeting on Information Display (IMID 2010)",
+    "id": "publication-88",
+    "authors_original": "Chung, I., Jung, J. - H., Hong, J., Hong, K., & Lee, B"
+  },
+  {
+    "year": "2010",
+    "title": "Stereoscopic view image generation based on the horopter",
+    "authors": "Jae-Hyun Jung, Y. Kim, Sejun Kim, Byoungho Lee",
+    "venue": "16th International Display Workshops (IDW 2010). The Society for Information Display.",
+    "type": "Publication",
+    "links": [],
+    "citation": "Jae-Hyun Jung, Y. Kim, Sejun Kim, Byoungho Lee. (2010). Stereoscopic view image generation based on the horopter. 16th International Display Workshops (IDW 2010). The Society for Information Display.",
+    "id": "publication-89",
+    "authors_original": "Jung, J. - H., Kim, Y., Kim, S., & Lee, B"
+  },
+  {
+    "year": "2009",
+    "title": "Two-dimensional/three-dimensional convertible display device using surface light source array",
+    "authors": "Byoungho Lee, Youngmin Kim, Jae-Hyun Jung",
+    "venue": "Korean Patent. KR Patent No. 10-0918670.",
+    "type": "Patent",
+    "links": [],
+    "citation": "Byoungho Lee, Youngmin Kim, Jae-Hyun Jung. (2009). Two-dimensional/three-dimensional convertible display device using surface light source array. Korean Patent. KR Patent No. 10-0918670.",
+    "id": "publication-90",
+    "authors_original": "Lee, B., Kim, Y., & Jung, J. - H"
+  },
+  {
+    "year": "2009",
+    "title": "Three-dimensional display system and method for using electrically moving pinhole array",
+    "authors": "Byoungho Lee, Yunhee Kim, Joohwan Kim, Jae-Hyun Jung, Jin-Mo Kang, Hee-Jin Choi",
+    "venue": "Korean Patent. KR Patent No. 10-0928332.",
+    "type": "Patent",
+    "links": [],
+    "citation": "Byoungho Lee, Yunhee Kim, Joohwan Kim, Jae-Hyun Jung, Jin-Mo Kang, Hee-Jin Choi. (2009). Three-dimensional display system and method for using electrically moving pinhole array. Korean Patent. KR Patent No. 10-0928332.",
+    "id": "publication-91",
+    "authors_original": "Lee, B., Kim, Y., Kim, J., Jung, J. - H., Kang, J., & Choi, H"
+  },
+  {
+    "year": "2009",
+    "title": "Object-based integral imaging depth extraction using segmentation",
+    "authors": "Jin-Mo Kang, Jae-Hyun Jung, Byoungho Lee, Jae-Hyeung Park",
+    "venue": "Korean Journal of Optics and Photonics, 20 (2), 94-101.",
+    "type": "Publication",
+    "links": [
+      {
+        "label": "DOI",
+        "url": "http://koreascience.or.kr/article/ArticleFullRecord.jsp?cn=KGHHBU_2009_v20n2_94"
+      }
+    ],
+    "citation": "Jin-Mo Kang, Jae-Hyun Jung, Byoungho Lee, Jae-Hyeung Park. (2009). Object-based integral imaging depth extraction using segmentation. Korean Journal of Optics and Photonics, 20 (2), 94-101.",
+    "id": "publication-92",
+    "authors_original": "Kang, J., Jung, J. - H., Lee, B., & Park, J. - H"
+  },
+  {
+    "year": "2009",
+    "title": "Three-dimensional conversion of two-dimensional movie using optical flow and normalized cut",
+    "authors": "Jae-Hyun Jung, Gilbae Park, Joohwan Kim, Jin-Mo Kang, Byoungho Lee",
+    "venue": "Korean Journal of Optics and Photonics, 20 (1), 16-22.",
+    "type": "Publication",
+    "links": [
+      {
+        "label": "DOI",
+        "url": "http://koreascience.or.kr/article/ArticleFullRecord.jsp?cn=KGHHBU_2009_v20n1_16"
+      }
+    ],
+    "citation": "Jae-Hyun Jung, Gilbae Park, Joohwan Kim, Jin-Mo Kang, Byoungho Lee. (2009). Three-dimensional conversion of two-dimensional movie using optical flow and normalized cut. Korean Journal of Optics and Photonics, 20 (1), 16-22.",
+    "id": "publication-93",
+    "authors_original": "Jung, J. - H., Park, G., Kim, J., Kang, J., & Lee, B"
+  },
+  {
+    "year": "2009",
+    "title": "Multi-viewer tracking integral imaging system and its viewing zone analysis",
+    "authors": "Gilbae Park, Jae-Hyun Jung, Keehoon Hong, Yunhee Kim, Young-Hoon Kim, Sung-Wook Min, Byoungho Lee",
+    "venue": "Opt. Express, 17 (20), 17895–17908. OSA.",
+    "type": "Publication",
+    "links": [
+      {
+        "label": "DOI",
+        "url": "http://www.opticsexpress.org/abstract.cfm?URI=oe-17-20-17895"
+      }
+    ],
+    "citation": "Gilbae Park, Jae-Hyun Jung, Keehoon Hong, Yunhee Kim, Young-Hoon Kim, Sung-Wook Min, Byoungho Lee. (2009). Multi-viewer tracking integral imaging system and its viewing zone analysis. Opt. Express, 17 (20), 17895–17908. OSA.",
+    "id": "publication-94",
+    "authors_original": "Park, G., Jung, J. - H., Hong, K., Kim, Y., Kim, Y. - H., Min, S. - W., & Lee, B"
+  },
+  {
+    "year": "2009",
+    "title": "Integral imaging system using an electroluminescent film backlight for three-dimensional-two-dimensional convertibility and a curved structure",
+    "authors": "Jae-Hyun Jung, Yunhee Kim, Youngmin Kim, Joohwan Kim, Keehoon Hong, Byoungho Lee",
+    "venue": "Appl. Opt., 48, 998–1007. OSA.",
+    "type": "Publication",
+    "links": [
+      {
+        "label": "DOI",
+        "url": "http://ao.osa.org/abstract.cfm?URI=ao-48-5-998"
+      }
+    ],
+    "citation": "Jae-Hyun Jung, Yunhee Kim, Youngmin Kim, Joohwan Kim, Keehoon Hong, Byoungho Lee. (2009). Integral imaging system using an electroluminescent film backlight for three-dimensional-two-dimensional convertibility and a curved structure. Appl. Opt., 48, 998–1007. OSA.",
+    "id": "publication-95",
+    "authors_original": "Jung, J. - H., Kim, Y., Kim, Y., Kim, J., Hong, K., & Lee, B"
+  },
+  {
+    "year": "2009",
+    "title": "Color moiré pattern simulation and analysis in three-dimensional integral imaging for finding the moiré-reduced tilted angle of a lens array",
+    "authors": "Yunhee Kim, Gilbae Park, Jae-Hyun Jung, Joohwan Kim, Byoungho Lee",
+    "venue": "Appl. Opt., 48, 2178–2187. OSA.",
+    "type": "Publication",
+    "links": [
+      {
+        "label": "DOI",
+        "url": "http://ao.osa.org/abstract.cfm?URI=ao-48-11-2178"
+      },
+      {
+        "label": "Cover Article",
+        "url": "https://www.jjunglab.com/updates#h.5isd3rc5v978"
+      }
+    ],
+    "citation": "Yunhee Kim, Gilbae Park, Jae-Hyun Jung, Joohwan Kim, Byoungho Lee. (2009). Color moiré pattern simulation and analysis in three-dimensional integral imaging for finding the moiré-reduced tilted angle of a lens array. Appl. Opt., 48, 2178–2187. OSA.",
+    "id": "publication-96",
+    "teaser_id": "news-71",
+    "authors_original": "Kim, Y., Park, G., Jung, J. - H., Kim, J., & Lee, B"
+  },
+  {
+    "year": "2009",
+    "title": "360-degree viewable cylindrical integral imaging system using electroluminescent films",
+    "authors": "Jae-Hyun Jung, Gilbae Park, Yunhee Kim, Byoungho Lee",
+    "venue": "9th International Meeting on Information Display (IMID 2009).",
+    "type": "Publication",
+    "links": [
+      {
+        "label": "Merck Young Scientist Award",
+        "url": "https://www.jjunglab.com/updates#h.z5tgaf22xqnd"
+      }
+    ],
+    "citation": "Jae-Hyun Jung, Gilbae Park, Yunhee Kim, Byoungho Lee. (2009). 360-degree viewable cylindrical integral imaging system using electroluminescent films. 9th International Meeting on Information Display (IMID 2009).",
+    "id": "publication-97",
+    "authors_original": "Jung, J. - H., Park, G., Kim, Y., & Lee, B"
+  },
+  {
+    "year": "2009",
+    "title": "High definition integral floating display with multiple spatial light modulators",
+    "authors": "Joohwan Kim, Keehoon Hong, Jae-Hyun Jung, Gilbae Park, James Lim, Youngmin Kim, Joonku Hahn, Sung-Wook Min, Byoungho Lee",
+    "venue": "Proc. SPIE. 7237, Stereoscopic Displays and Applications XX.",
+    "type": "Publication",
+    "links": [
+      {
+        "label": "DOI",
+        "url": "https://doi.org/10.1117/12.807565"
+      }
+    ],
+    "citation": "Joohwan Kim, Keehoon Hong, Jae-Hyun Jung, Gilbae Park, James Lim, Youngmin Kim, Joonku Hahn, Sung-Wook Min, Byoungho Lee. (2009). High definition integral floating display with multiple spatial light modulators. Proc. SPIE. 7237, Stereoscopic Displays and Applications XX.",
+    "id": "publication-98",
+    "authors_original": "Kim, J., Hong, K., Jung, J. - H., Park, G., Lim, J., Kim, Y., Hahn, J., et al"
+  },
+  {
+    "year": "2009",
+    "title": "Improved Three-Dimensional Depth Extraction Using Super Resolved Elemental Image Set",
+    "authors": "Keehoon Hong, Jisoo Hong, Jin-Mo Kang, Jae-Hyun Jung, Jae-Hyeung Park, Byoungho Lee",
+    "venue": "Digital Holography and Three-Dimensional Imaging. Optical Society of America.",
+    "type": "Publication",
+    "links": [
+      {
+        "label": "DOI",
+        "url": "http://www.opticsinfobase.org/abstract.cfm?URI=DH-2009-DWB1"
+      }
+    ],
+    "citation": "Keehoon Hong, Jisoo Hong, Jin-Mo Kang, Jae-Hyun Jung, Jae-Hyeung Park, Byoungho Lee. (2009). Improved Three-Dimensional Depth Extraction Using Super Resolved Elemental Image Set. Digital Holography and Three-Dimensional Imaging. Optical Society of America.",
+    "id": "publication-99",
+    "authors_original": "Hong, K., Hong, J., Kang, J. - M., Jung, J. - H., Park, J. - H., & Lee, B"
+  },
+  {
+    "year": "2008",
+    "title": "Thin-type integral imaging method with an organic light emitting diode panel",
+    "authors": "Youngmin Kim, Joohwan Kim, Yunhee Kim, Heejin Choi, Jae-Hyun Jung, Byoungho Lee",
+    "venue": "Appl. Opt. , 47, 4927–4934. OSA.",
+    "type": "Publication",
+    "links": [
+      {
+        "label": "DOI",
+        "url": "http://ao.osa.org/abstract.cfm?URI=ao-47-27-4927"
+      },
+      {
+        "label": "Cover Article",
+        "url": "https://www.jjunglab.com/updates#h.yrazehuby69r"
+      }
+    ],
+    "citation": "Youngmin Kim, Joohwan Kim, Yunhee Kim, Heejin Choi, Jae-Hyun Jung, Byoungho Lee. (2008). Thin-type integral imaging method with an organic light emitting diode panel. Appl. Opt. , 47, 4927–4934. OSA.",
+    "id": "publication-100",
+    "teaser_id": "news-74",
+    "authors_original": "Kim, Y., Kim, J., Kim, Y., Choi, H., Jung, J. - H., & Lee, B"
+  },
+  {
+    "year": "2008",
+    "title": "Integral imaging with reduced color moire pattern by using a slanted lens array",
+    "authors": "Yunhee Kim, Gilbae Park, Seong-Woo Cho, Jae-Hyun Jung, Byoungho Lee, Yoonsun Choi, Moon-Gyu Lee",
+    "venue": "Proc. SPIE. 6803, Stereoscopic Displays and Applications XIX.",
+    "type": "Publication",
+    "links": [
+      {
+        "label": "DOI",
+        "url": "https://doi.org/10.1117/12.767597"
+      }
+    ],
+    "citation": "Yunhee Kim, Gilbae Park, Seong-Woo Cho, Jae-Hyun Jung, Byoungho Lee, Yoonsun Choi, Moon-Gyu Lee. (2008). Integral imaging with reduced color moire pattern by using a slanted lens array. Proc. SPIE. 6803, Stereoscopic Displays and Applications XIX.",
+    "id": "publication-101",
+    "authors_original": "Kim, Y., Park, G., Cho, S. - W., Jung, J. - H., Lee, B., Choi, Y., & Lee, M. - G"
+  },
+  {
+    "year": "2008",
+    "title": "Computer-Generation Method for Elemental Image of Integral Floating Display Using Virtual Integral Imaging System",
+    "authors": "Gilbae Park, Jae-Hyun Jung, Joohwan Kim, Byoungho Lee",
+    "venue": "Digital Holography and Three-Dimensional Imaging. Optical Society of America.",
+    "type": "Publication",
+    "links": [
+      {
+        "label": "DOI",
+        "url": "http://www.opticsinfobase.org/abstract.cfm?URI=DH-2008-JMA16"
+      }
+    ],
+    "citation": "Gilbae Park, Jae-Hyun Jung, Joohwan Kim, Byoungho Lee. (2008). Computer-Generation Method for Elemental Image of Integral Floating Display Using Virtual Integral Imaging System. Digital Holography and Three-Dimensional Imaging. Optical Society of America.",
+    "id": "publication-102",
+    "authors_original": "Park, G., Jung, J. - H., Kim, J., & Lee, B"
+  },
+  {
+    "year": "2008",
+    "title": "Depth-Enhanced Integral Floating Imaging System with Variable Image Planes Using Polymer-Dispersed Liquid-Crystal Films",
+    "authors": "Youngmin Kim, Joohwan Kim, Yunhee Kim, Jae-Hyun Jung, Byoungho Lee",
+    "venue": "Digital Holography and Three-Dimensional Imaging. Optical Society of America.",
+    "type": "Publication",
+    "links": [
+      {
+        "label": "DOI",
+        "url": "http://www.opticsinfobase.org/abstract.cfm?URI=DH-2008-JMA2"
+      }
+    ],
+    "citation": "Youngmin Kim, Joohwan Kim, Yunhee Kim, Jae-Hyun Jung, Byoungho Lee. (2008). Depth-Enhanced Integral Floating Imaging System with Variable Image Planes Using Polymer-Dispersed Liquid-Crystal Films. Digital Holography and Three-Dimensional Imaging. Optical Society of America.",
+    "id": "publication-103",
+    "authors_original": "Kim, Y., Kim, J., Kim, Y., Jung, J. - H., & Lee, B"
+  },
+  {
+    "year": "2008",
+    "title": "Measurement of the Accommodation Response in Viewing Stereoscopic Images",
+    "authors": "Youngmin Kim, Keehoon Hong, Jae-Hyun Jung, Jong-Mo Seo, Byoungho Lee",
+    "venue": "Frontiers in Optics. Optical Society of America.",
+    "type": "Publication",
+    "links": [
+      {
+        "label": "DOI",
+        "url": "http://www.opticsinfobase.org/abstract.cfm?URI=FiO-2008-FThM10"
+      }
+    ],
+    "citation": "Youngmin Kim, Keehoon Hong, Jae-Hyun Jung, Jong-Mo Seo, Byoungho Lee. (2008). Measurement of the Accommodation Response in Viewing Stereoscopic Images. Frontiers in Optics. Optical Society of America.",
+    "id": "publication-104",
+    "authors_original": "Kim, Y., Hong, K., Jung, J. - H., Seo, J. - M., & Lee, B"
+  },
+  {
+    "year": "2008",
+    "title": "A Thin 3D-2D Convertible Integral Imaging System Using a Pinhole Array on an Electroluminescent (EL) Sheet",
+    "authors": "Jae-Hyun Jung, Youngmin Kim, Joohwan Kim, Byoungho Lee",
+    "venue": "Digital Holography and Three-Dimensional Imaging. Optical Society of America.",
+    "type": "Publication",
+    "links": [
+      {
+        "label": "DOI",
+        "url": "http://www.opticsinfobase.org/abstract.cfm?URI=DH-2008-DTuA2"
+      }
+    ],
+    "citation": "Jae-Hyun Jung, Youngmin Kim, Joohwan Kim, Byoungho Lee. (2008). A Thin 3D-2D Convertible Integral Imaging System Using a Pinhole Array on an Electroluminescent (EL) Sheet. Digital Holography and Three-Dimensional Imaging. Optical Society of America.",
+    "id": "publication-105",
+    "authors_original": "Jung, J. - H., Kim, Y., Kim, J., & Lee, B"
+  },
+  {
+    "year": "2008",
+    "title": "Three-dimensional integral imaging using an elastic PDMS lens array",
+    "authors": "Yunhee Kim, Yeun-Tae Kim, Jae-Hyun Jung, Sin-Doo Lee, Byoungho Lee",
+    "venue": "International Meeting on Information Display / International Display Manufacturing Conference / Asia Display (IMID/IDMC/ASIA DISPLAY 2008) . Ilsan, Korea.",
+    "type": "Publication",
+    "links": [],
+    "citation": "Yunhee Kim, Yeun-Tae Kim, Jae-Hyun Jung, Sin-Doo Lee, Byoungho Lee. (2008). Three-dimensional integral imaging using an elastic PDMS lens array. International Meeting on Information Display / International Display Manufacturing Conference / Asia Display (IMID/IDMC/ASIA DISPLAY 2008) . Ilsan, Korea.",
+    "id": "publication-106",
+    "authors_original": "Kim, Y., Kim, Y. - T., Jung, J. - H., Lee, S., & Lee, B"
+  },
+  {
+    "year": "2008",
+    "title": "Implementation of integral floating display system using concave mirror",
+    "authors": "J. Kim, Gilbae Park, Jae-Hyun Jung, Y. Kim, Sung-Wook Min, Byoungho Lee",
+    "venue": "The 6th International Conference on Optics-Photonics Design and Fabrication (ODF'08). Taipei, Taiwan.",
+    "type": "Publication",
+    "links": [],
+    "citation": "J. Kim, Gilbae Park, Jae-Hyun Jung, Y. Kim, Sung-Wook Min, Byoungho Lee. (2008). Implementation of integral floating display system using concave mirror. The 6th International Conference on Optics-Photonics Design and Fabrication (ODF'08). Taipei, Taiwan.",
+    "id": "publication-107",
+    "authors_original": "Kim, J., Park, G., Jung, J. - H., Kim, Y., Min, S., & Lee, B"
+  },
+  {
+    "year": "2008",
+    "title": "Reconstruction of occluded regions in integral imaging using arbitrary view generation and optical flow",
+    "authors": "Jae-Hyun Jung, Jae-Hyeung Park, Byoungho Lee",
+    "venue": "International Topical Meeting on Information Photonics 2008. Optical Society of Japan.",
+    "type": "Publication",
+    "links": [],
+    "citation": "Jae-Hyun Jung, Jae-Hyeung Park, Byoungho Lee. (2008). Reconstruction of occluded regions in integral imaging using arbitrary view generation and optical flow. International Topical Meeting on Information Photonics 2008. Optical Society of Japan.",
+    "id": "publication-108",
+    "authors_original": "Jung, J. - H., Park, J. - H., & Lee, B"
+  },
+  {
+    "year": "2007",
+    "title": "Point light source integral imaging with improved resolution and viewing angle by the use of electrically movable pinhole array",
+    "authors": "Yunhee Kim, Joohwan Kim, Jin-Mo Kang, Jae-Hyun Jung, Heejin Choi, Byoungho Lee",
+    "venue": "Opt. Express, 15, 18253–18267. OSA.",
+    "type": "Publication",
+    "links": [
+      {
+        "label": "DOI",
+        "url": "http://www.opticsexpress.org/abstract.cfm?URI=oe-15-26-18253"
+      }
+    ],
+    "citation": "Yunhee Kim, Joohwan Kim, Jin-Mo Kang, Jae-Hyun Jung, Heejin Choi, Byoungho Lee. (2007). Point light source integral imaging with improved resolution and viewing angle by the use of electrically movable pinhole array. Opt. Express, 15, 18253–18267. OSA.",
+    "id": "publication-109",
+    "authors_original": "Kim, Y., Kim, J., Kang, J. - M., Jung, J. - H., Choi, H., & Lee, B"
+  },
+  {
+    "year": "2007",
+    "title": "Improved viewing resolution of three-dimensional integral imaging using pinhole array on LC panel",
+    "authors": "Yunhee Kim, Joohwan Kim, Jin-Mo Kang, Jae-Hyun Jung, Byoungho Lee",
+    "venue": "Proc. SPIE. 6778, Three-Dimensional TV, Video, and Display VI.",
+    "type": "Publication",
+    "links": [
+      {
+        "label": "DOI",
+        "url": "https://doi.org/10.1117/12.744354"
+      }
+    ],
+    "citation": "Yunhee Kim, Joohwan Kim, Jin-Mo Kang, Jae-Hyun Jung, Byoungho Lee. (2007). Improved viewing resolution of three-dimensional integral imaging using pinhole array on LC panel. Proc. SPIE. 6778, Three-Dimensional TV, Video, and Display VI.",
+    "id": "publication-110",
+    "authors_original": "Kim, Y., Kim, J., Kang, J. - M., Jung, J. - H., & Lee, B"
+  },
+  {
+    "year": "2007",
+    "title": "Resolution-enhanced three-dimensional integral imaging using double display devices",
+    "authors": "Yunhee Kim, Jae-Hyun Jung, Jin-Mo Kang, Youngmin Kim, Byoungho Lee, Bahram Javidi",
+    "venue": "Lasers and Electro-Optics Society, 2007. LEOS 2007. The 20th Annual Meeting of the IEEE.",
+    "type": "Publication",
+    "links": [
+      {
+        "label": "DOI",
+        "url": "https://ieeexplore.ieee.org/document/4382425"
+      }
+    ],
+    "citation": "Yunhee Kim, Jae-Hyun Jung, Jin-Mo Kang, Youngmin Kim, Byoungho Lee, Bahram Javidi. (2007). Resolution-enhanced three-dimensional integral imaging using double display devices. Lasers and Electro-Optics Society, 2007. LEOS 2007. The 20th Annual Meeting of the IEEE.",
+    "id": "publication-111",
+    "authors_original": "Kim, Y., Jung, J. - H., Kang, J. - M., Kim, Y., Lee, B., & Javidi, B"
+  },
+  {
+    "year": "2024",
+    "title": "Spatio-temporal collision envelope in virtual reality walking with colliding pedestrians",
+    "authors": "Jonathan K. Doyon, Sujin Kim, Alex Daejoon Hwang, Jae-Hyun Jung",
+    "venue": "Journal of Vision 24(10), 1158 · VSS 2024",
+    "type": "Conference abstract",
+    "links": [
+      {
+        "label": "Abstract",
+        "url": "https://jov.arvojournals.org/article.aspx?articleid=2801924"
+      }
+    ],
+    "citation": "Jonathan K. Doyon, Sujin Kim, Alex Daejoon Hwang, Jae-Hyun Jung. (2024). Spatio-temporal collision envelope in virtual reality walking with colliding pedestrians. Journal of Vision 24(10), 1158 · VSS 2024",
+    "id": "publication-112",
+    "date": "2024-09-15",
+    "scholar_source": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ToRE6MYAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ToRE6MYAAAAJ:WWeOtg8bX_EC",
+    "verified_on": "2026-09-29",
+    "authors_original": "Jonathan K Doyon, Sujin Kim, Alex D Hwang, Jae-Hyun Jung"
+  },
+  {
+    "year": "2024",
+    "title": "Field Expansion for Acquired Monocular Vision: Simplified Fitting with Clinical Confrontation Test",
+    "authors": "Wei Hau Lew, Sandhya Shekar, Jae-Hyun Jung",
+    "venue": "Investigative Ophthalmology & Visual Science 65(7), 5425 · ARVO 2024",
+    "type": "Conference abstract",
+    "links": [
+      {
+        "label": "Abstract",
+        "url": "https://iovs.arvojournals.org/article.aspx?articleid=2799364"
+      }
+    ],
+    "citation": "Wei Hau Lew, Sandhya Shekar, Jae-Hyun Jung. (2024). Field Expansion for Acquired Monocular Vision: Simplified Fitting with Clinical Confrontation Test. Investigative Ophthalmology & Visual Science 65(7), 5425 · ARVO 2024",
+    "id": "publication-113",
+    "date": "2024-06-17",
+    "scholar_source": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ToRE6MYAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ToRE6MYAAAAJ:9shLKfS_uJEC",
+    "verified_on": "2026-09-29",
+    "authors_original": "Wei Hau Lew, Sandhya Shekar, Jae-Hyun Jung"
+  },
+  {
+    "year": "2024",
+    "title": "Randomized controlled multi-center trial of multi-periscopic prism glasses for hemianopia: early results",
+    "authors": "Eli Peli, Sailaja Manda, Sandhya Shekar, Alex Daejoon Hwang, Jae-Hyun Jung, Sara McWilliams, David Simpson, Tracy Lynn Matchinski, Jem Martin, Scott Hearing, Maheen Sharfuddin, Alex R. Bowers",
+    "venue": "Investigative Ophthalmology & Visual Science 65(7), 4328 · ARVO 2024",
+    "type": "Conference abstract",
+    "links": [
+      {
+        "label": "Abstract",
+        "url": "https://iovs.arvojournals.org/article.aspx?articleid=2793848"
+      }
+    ],
+    "citation": "Eli Peli, Sailaja Manda, Sandhya Shekar, Alex Daejoon Hwang, Jae-Hyun Jung, Sara McWilliams, David Simpson, Tracy Lynn Matchinski, Jem Martin, Scott Hearing, Maheen Sharfuddin, Alex R. Bowers. (2024). Randomized controlled multi-center trial of multi-periscopic prism glasses for hemianopia: early results. Investigative Ophthalmology & Visual Science 65(7), 4328 · ARVO 2024",
+    "id": "publication-114",
+    "date": "2024-06-17",
+    "scholar_source": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ToRE6MYAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ToRE6MYAAAAJ:aEW5N-EHWIMC",
+    "verified_on": "2026-09-29",
+    "authors_original": "Eli Peli, Sailaja Manda, Sandhya Shekar, Alex D Hwang, Jae-Hyun Jung, Sara McWilliams, David Simpson, Tracy Lynn Matchinski, Jem Martin, Scott Hearing, Maheen Sharfuddin, Alex R Bowers"
+  },
+  {
+    "year": "2014",
+    "title": "Pilot study of pedestrian collision detection with Multiperiscopic prism glasses for hemianopia",
+    "authors": "Alex R. Bowers, Sandhya Shekar, Sailaja Manda, Alex Daejoon Hwang, Jae-Hyun Jung, Eli Peli",
+    "venue": "14th International Conference on Low Vision Rehabilitation",
+    "type": "Conference abstract",
+    "links": [],
+    "citation": "Alex R. Bowers, Sandhya Shekar, Sailaja Manda, Alex Daejoon Hwang, Jae-Hyun Jung, Eli Peli. (2014). Pilot study of pedestrian collision detection with Multiperiscopic prism glasses for hemianopia. 14th International Conference on Low Vision Rehabilitation",
+    "id": "publication-115",
+    "authors_original": "Bowers AR, Shekar S, Manda S, Hwang A, Jung J-H, Peli E",
+    "date": "2014-03"
+  },
+  {
+    "year": "2023",
+    "title": "Dynamic collision envelope in virtual reality walking with colliding pedestrians",
+    "authors": "Jae-Hyun Jung, Alex Daejoon Hwang, Jonathan K. Doyon, Sujin Kim",
+    "venue": "The Annual Meeting of the Vision Sciences Society 2023. J. Vis. 2023;23(14):E-abstract 5176",
+    "type": "Conference abstract",
+    "links": [],
+    "citation": "Jae-Hyun Jung, Alex Daejoon Hwang, Jonathan K. Doyon, Sujin Kim. (2023). Dynamic collision envelope in virtual reality walking with colliding pedestrians. The Annual Meeting of the Vision Sciences Society 2023. J. Vis. 2023;23(14):E-abstract 5176",
+    "id": "publication-116",
+    "authors_original": "Jung J-H, Hwang A, Doyon J, Kim S"
+  },
+  {
+    "year": "2023",
+    "title": "Pilot study of pedestrian collision detection with Multiperiscopic prism glasses for hemianopia",
+    "authors": "Alex R. Bowers, Sandhya Shekar, Sailaja Manda, Alex Daejoon Hwang, Jae-Hyun Jung, Eli Peli",
+    "venue": "ARVO 2023. Invest. Ophthalmol. Vis. Sci. 2023;64(8):E-abstract 1981",
+    "type": "Conference abstract",
+    "links": [],
+    "citation": "Alex R. Bowers, Sandhya Shekar, Sailaja Manda, Alex Daejoon Hwang, Jae-Hyun Jung, Eli Peli. (2023). Pilot study of pedestrian collision detection with Multiperiscopic prism glasses for hemianopia. ARVO 2023. Invest. Ophthalmol. Vis. Sci. 2023;64(8):E-abstract 1981",
+    "id": "publication-117",
+    "authors_original": "Bowers AR, Shekar S, Manda S, Hwang A, Jung J-H, Peli Eli"
+  },
+  {
+    "year": "2023",
+    "title": "Pedestrian collision avoidance test for peripheral field loss using head-mounted display",
+    "authors": "Jae-Hyun Jung, Sujin Kim, Jonathan K. Doyon, Sandhya Shekar, Alex Daejoon Hwang",
+    "venue": "ARVO 2023. Invest. Ophthalmol. Vis. Sci. 2023;64(8):E-abstract 1980",
+    "type": "Conference abstract",
+    "links": [],
+    "citation": "Jae-Hyun Jung, Sujin Kim, Jonathan K. Doyon, Sandhya Shekar, Alex Daejoon Hwang. (2023). Pedestrian collision avoidance test for peripheral field loss using head-mounted display. ARVO 2023. Invest. Ophthalmol. Vis. Sci. 2023;64(8):E-abstract 1980",
+    "id": "publication-118",
+    "authors_original": "Jung J-H, Kim S, Doyon J, Shekar S, Hwang A"
+  },
+  {
+    "year": "2023",
+    "title": "Understanding perspective changes in field expansion for peripheral field loss using virtual reality",
+    "authors": "Jonathan K. Doyon, Jae-Hyun Jung",
+    "venue": "ARVO 2023. Invest. Ophthalmol. Vis. Sci. 2023;64(8):E-abstract 5521",
+    "type": "Conference abstract",
+    "links": [],
+    "citation": "Jonathan K. Doyon, Jae-Hyun Jung. (2023). Understanding perspective changes in field expansion for peripheral field loss using virtual reality. ARVO 2023. Invest. Ophthalmol. Vis. Sci. 2023;64(8):E-abstract 5521",
+    "id": "publication-119",
+    "authors_original": "Doyon J, Jung J-H"
+  },
+  {
+    "year": "2022",
+    "title": "The invisibility of Scotomas: Scotoma Replacement with Loss of Photoreceptors",
+    "authors": "Eli Peli, Robert Goldstein, Jae-Hyun Jung",
+    "venue": "24th International Visual Field & Imaging Symposium 2022.",
+    "type": "Conference abstract",
+    "links": [],
+    "citation": "Eli Peli, Robert Goldstein, Jae-Hyun Jung. (2022). The invisibility of Scotomas: Scotoma Replacement with Loss of Photoreceptors. 24th International Visual Field & Imaging Symposium 2022.",
+    "id": "publication-120",
+    "authors_original": "Peli E, Goldstein R, Jung J-H"
+  },
+  {
+    "year": "2022",
+    "title": "The invisibility of Scotomas: Scotoma Carving with Loss of High Level cells",
+    "authors": "Eli Peli, Robert Goldstein, Jae-Hyun Jung",
+    "venue": "24th International Visual Field & Imaging Symposium 2022.",
+    "type": "Conference abstract",
+    "links": [],
+    "citation": "Eli Peli, Robert Goldstein, Jae-Hyun Jung. (2022). The invisibility of Scotomas: Scotoma Carving with Loss of High Level cells. 24th International Visual Field & Imaging Symposium 2022.",
+    "id": "publication-121",
+    "authors_original": "Peli E, Goldstein R, Jung J-H"
+  },
+  {
+    "year": "2022",
+    "title": "Peripheral binocular/monocular rivalry in vision multiplexing devices for mobility",
+    "authors": "Jae-Hyun Jung, Eli Peli, Sandhya Shekar, Shui’er Han",
+    "venue": "The Annual Meeting of the Vision Sciences Society 2022. J. Vis. 2022;22(14):E-abstract 3565",
+    "type": "Conference abstract",
+    "links": [],
+    "citation": "Jae-Hyun Jung, Eli Peli, Sandhya Shekar, Shui’er Han. (2022). Peripheral binocular/monocular rivalry in vision multiplexing devices for mobility. The Annual Meeting of the Vision Sciences Society 2022. J. Vis. 2022;22(14):E-abstract 3565",
+    "id": "publication-122",
+    "authors_original": "Jung J-H, Peli E, Shekar S, Han S"
+  },
+  {
+    "year": "2022",
+    "title": "Estimating Pedestrian Detection with peripheral prisms in Homonymous Hemianopia",
+    "authors": "Sailaja Manda, Nish Mohith Kurukuti, Alex Daejoon Hwang, Jae-Hyun Jung, Eli Peli",
+    "venue": "ARVO 2022. Invest. Ophthalmol. Vis. Sci. 2022;63:E-abstract",
+    "type": "Conference abstract",
+    "links": [],
+    "citation": "Sailaja Manda, Nish Mohith Kurukuti, Alex Daejoon Hwang, Jae-Hyun Jung, Eli Peli. (2022). Estimating Pedestrian Detection with peripheral prisms in Homonymous Hemianopia. ARVO 2022. Invest. Ophthalmol. Vis. Sci. 2022;63:E-abstract",
+    "id": "publication-123",
+    "authors_original": "Manda S, Kurukuti NM, Hwang A, Jung J-H, Peli E"
+  },
+  {
+    "year": "2022",
+    "title": "Pilot testing of a pedestrian collision detection test for field expansion devices",
+    "authors": "Alex R. Bowers, Alex Daejoon Hwang, Jae-Hyun Jung, Sailaja Manda, Sandhya Shekar, Eli Peli",
+    "venue": "ARVO 2022. Invest. Ophthalmol. Vis. Sci. 2022;63:E-abstract",
+    "type": "Conference abstract",
+    "links": [],
+    "citation": "Alex R. Bowers, Alex Daejoon Hwang, Jae-Hyun Jung, Sailaja Manda, Sandhya Shekar, Eli Peli. (2022). Pilot testing of a pedestrian collision detection test for field expansion devices. ARVO 2022. Invest. Ophthalmol. Vis. Sci. 2022;63:E-abstract",
+    "id": "publication-124",
+    "authors_original": "Bowers A, Hwang A, Jung J-H, Manda S, Shekar S, Peli E"
+  },
+  {
+    "year": "2022",
+    "title": "Scotoma Replacement: simulation of vision with photoreceptor scotoma",
+    "authors": "Eli Peli, Robert Goldstein, Jae-Hyun Jung",
+    "venue": "ARVO 2022. Invest. Ophthalmol. Vis. Sci. 2022;63:E-abstract",
+    "type": "Conference abstract",
+    "links": [],
+    "citation": "Eli Peli, Robert Goldstein, Jae-Hyun Jung. (2022). Scotoma Replacement: simulation of vision with photoreceptor scotoma. ARVO 2022. Invest. Ophthalmol. Vis. Sci. 2022;63:E-abstract",
+    "id": "publication-125",
+    "authors_original": "Peli E, Goldstein R, Jung J-H"
+  },
+  {
+    "year": "2022",
+    "title": "Pedestrians Collision Detection Test for Peripheral Field Loss",
+    "authors": "Jae-Hyun Jung, Alex Daejoon Hwang, Alex R. Bowers, Eli Peli",
+    "venue": "ARVO 2022. Invest. Ophthalmol. Vis. Sci. 2022;63:E-abstract",
+    "type": "Conference abstract",
+    "links": [],
+    "citation": "Jae-Hyun Jung, Alex Daejoon Hwang, Alex R. Bowers, Eli Peli. (2022). Pedestrians Collision Detection Test for Peripheral Field Loss. ARVO 2022. Invest. Ophthalmol. Vis. Sci. 2022;63:E-abstract",
+    "id": "publication-126",
+    "authors_original": "Jung J-H, Hwang D, Bowers A, Peli E"
+  },
+  {
+    "year": "2021",
+    "title": "Photographic Depiction and Virtual Reality Illustration of the Field of View through Low Vision Devices",
+    "authors": "Jae-Hyun Jung, Eli Peli, Shui’er Han",
+    "venue": "Optom Vis Sci 2021;98:E-abstract.",
+    "type": "Conference abstract",
+    "links": [],
+    "citation": "Jae-Hyun Jung, Eli Peli, Shui’er Han. (2021). Photographic Depiction and Virtual Reality Illustration of the Field of View through Low Vision Devices. Optom Vis Sci 2021;98:E-abstract.",
+    "id": "publication-127",
+    "authors_original": "Jung J-H, Peli E, Han S"
+  },
+  {
+    "year": "2021",
+    "title": "Oblique multi-periscopic prism for field expansion in homonymous hemianopia driving",
+    "authors": "Mojtaba Falahati, Nish Mohith Kurukuti, Kenny Tang, Eli Peli, Jae-Hyun Jung",
+    "venue": "ARVO 2021. Invest. Ophthalmol. Vis. Sci. 2021;62:E-abstract 3577.",
+    "type": "Conference abstract",
+    "links": [],
+    "citation": "Mojtaba Falahati, Nish Mohith Kurukuti, Kenny Tang, Eli Peli, Jae-Hyun Jung. (2021). Oblique multi-periscopic prism for field expansion in homonymous hemianopia driving. ARVO 2021. Invest. Ophthalmol. Vis. Sci. 2021;62:E-abstract 3577.",
+    "id": "publication-128",
+    "authors_original": "Falahati M, Kurukuti NM, Tang K, Peli E, Jung J-H"
+  },
+  {
+    "year": "2021",
+    "title": "Apparent viewpoint of shifted view through prisms",
+    "authors": "Jae-Hyun Jung, Eli Peli",
+    "venue": "ARVO 2021. Invest. Ophthalmol. Vis. Sci. 2021;62:E-abstract 1445.",
+    "type": "Conference abstract",
+    "links": [],
+    "citation": "Jae-Hyun Jung, Eli Peli. (2021). Apparent viewpoint of shifted view through prisms. ARVO 2021. Invest. Ophthalmol. Vis. Sci. 2021;62:E-abstract 1445.",
+    "id": "publication-129",
+    "authors_original": "Jung J-H, Peli E"
+  },
+  {
+    "year": "2020",
+    "title": "Pedestrian visibility with peripheral prism configurations while walking",
+    "authors": "Kenny Tang, Nish Mohith Kurukuti, Sailaja Manda, Jae-Hyun Jung, Eli Peli",
+    "venue": "Optom Vis Sci 2020;97:E-abstract 205257.",
+    "type": "Conference abstract",
+    "links": [],
+    "citation": "Kenny Tang, Nish Mohith Kurukuti, Sailaja Manda, Jae-Hyun Jung, Eli Peli. (2020). Pedestrian visibility with peripheral prism configurations while walking. Optom Vis Sci 2020;97:E-abstract 205257.",
+    "id": "publication-130",
+    "authors_original": "Tang K, Kurukuti NM, Manda S, Jung J-H, Peli E"
+  },
+  {
+    "year": "2020",
+    "title": "Effect of peripheral prism configurations on pedestrian collision detection while walking",
+    "authors": "Nish Mohith Kurukuti, Kenny Tang, Jae-Hyun Jung, Eli Peli",
+    "venue": "ARVO 2020. Invest. Ophthalmol. Vis. Sci. 2020;61:E-abstract 2771.",
+    "type": "Conference abstract",
+    "links": [],
+    "citation": "Nish Mohith Kurukuti, Kenny Tang, Jae-Hyun Jung, Eli Peli. (2020). Effect of peripheral prism configurations on pedestrian collision detection while walking. ARVO 2020. Invest. Ophthalmol. Vis. Sci. 2020;61:E-abstract 2771.",
+    "id": "publication-131",
+    "authors_original": "Kurukuti NM, Tang K, Jung J-H, Peli E"
+  },
+  {
+    "year": "2020",
+    "title": "Better simulation of vision with central and paracentral scotomas",
+    "authors": "Eli Peli, Jae-Hyun Jung, Robert Goldstein",
+    "venue": "ARVO 2020. Invest. Ophthalmol. Vis. Sci. 2020;61:E-abstract 3370.",
+    "type": "Conference abstract",
+    "links": [],
+    "citation": "Eli Peli, Jae-Hyun Jung, Robert Goldstein. (2020). Better simulation of vision with central and paracentral scotomas. ARVO 2020. Invest. Ophthalmol. Vis. Sci. 2020;61:E-abstract 3370.",
+    "id": "publication-132",
+    "authors_original": "Peli E, Jung J-H, Goldstein R"
+  },
+  {
+    "year": "2019",
+    "title": "Improved Collision Detection with Multiplexing Prisms by Patients with Acquired Monocular Vision",
+    "authors": "Jae-Hyun Jung, Rachel Castle, Nish Mohith Kurukuti, Sailaja Manda, Eli Peli",
+    "venue": "Optom Vis Sci 2019;96:E-abstract 190018.",
+    "type": "Conference abstract",
+    "links": [],
+    "citation": "Jae-Hyun Jung, Rachel Castle, Nish Mohith Kurukuti, Sailaja Manda, Eli Peli. (2019). Improved Collision Detection with Multiplexing Prisms by Patients with Acquired Monocular Vision. Optom Vis Sci 2019;96:E-abstract 190018.",
+    "id": "publication-133",
+    "authors_original": "Jung J-H, Castle R, Kurukuti NM, Manda S, Peli E"
+  },
+  {
+    "year": "2019",
+    "title": "Variability in resolution but not sensitivity is the bottleneck for letter recognition of the tongue",
+    "authors": "Zahide Pamir, M. Umut Canoluk, Jae-Hyun Jung, Eli Peli",
+    "venue": "2019 Research Fellow Poster Celebration, Massachusetts General Hospital, Harvard Medical School, May. 2019.",
+    "type": "Conference abstract",
+    "links": [],
+    "citation": "Zahide Pamir, M. Umut Canoluk, Jae-Hyun Jung, Eli Peli. (2019). Variability in resolution but not sensitivity is the bottleneck for letter recognition of the tongue. 2019 Research Fellow Poster Celebration, Massachusetts General Hospital, Harvard Medical School, May. 2019.",
+    "id": "publication-134",
+    "authors_original": "Pamir Z, Canoluk MU, Jung J-H, Peli, E"
+  },
+  {
+    "year": "2019",
+    "title": "Evaluation of field expansion for acquired monocular vision with multiplexing prisms",
+    "authors": "Jae-Hyun Jung, Rachel Castle, Nish Mohith Kurukuti, Sailaja Manda, Eli Peli",
+    "venue": "Invest. Ophthalmol. Vis. Sci. 2019;60:E-abstract 4026.",
+    "type": "Conference abstract",
+    "links": [],
+    "citation": "Jae-Hyun Jung, Rachel Castle, Nish Mohith Kurukuti, Sailaja Manda, Eli Peli. (2019). Evaluation of field expansion for acquired monocular vision with multiplexing prisms. Invest. Ophthalmol. Vis. Sci. 2019;60:E-abstract 4026.",
+    "id": "publication-135",
+    "authors_original": "Jung J-H, Castle R, Kurukuti NM, Manda S, Peli E"
+  },
+  {
+    "year": "2019",
+    "title": "The variable spatial resolution is compensated by tip of the tongue tracing in pattern recognition",
+    "authors": "Zahide Pamir, M. Umut Canoluk, Jae-Hyun Jung, Eli Peli",
+    "venue": "Invest. Ophthalmol. Vis. Sci. 2019;60:E-abstract 3310.",
+    "type": "Conference abstract",
+    "links": [],
+    "citation": "Zahide Pamir, M. Umut Canoluk, Jae-Hyun Jung, Eli Peli. (2019). The variable spatial resolution is compensated by tip of the tongue tracing in pattern recognition. Invest. Ophthalmol. Vis. Sci. 2019;60:E-abstract 3310.",
+    "id": "publication-136",
+    "authors_original": "Pamir Z, Canoluk MU, Jung J-H, Peli, E"
+  },
+  {
+    "year": "2017",
+    "title": "3D-Printed Clip-on Multiplexing Prism Holder for Field Expansion in Acquired Monocular Vision",
+    "authors": "Jae-Hyun Jung, Nish Mohith Kurukuti, Eli Peli",
+    "venue": "Optom Vis Sci 2017;94:E-abstract 15468",
+    "type": "Conference abstract",
+    "links": [],
+    "citation": "Jae-Hyun Jung, Nish Mohith Kurukuti, Eli Peli. (2017). 3D-Printed Clip-on Multiplexing Prism Holder for Field Expansion in Acquired Monocular Vision. Optom Vis Sci 2017;94:E-abstract 15468",
+    "id": "publication-137",
+    "authors_original": "Jung J-H, Kurukuti NM, Peli E"
+  },
+  {
+    "year": "2017",
+    "title": "Motion Parallax in Prosthetic Vision",
+    "authors": "Cheng Qiu, Jae-Hyun Jung, Eli Peli",
+    "venue": "6th Military Vision Symposium on Ocular and Vision Injury, Mar.2017.",
+    "type": "Conference abstract",
+    "links": [],
+    "citation": "Cheng Qiu, Jae-Hyun Jung, Eli Peli. (2017). Motion Parallax in Prosthetic Vision. 6th Military Vision Symposium on Ocular and Vision Injury, Mar.2017.",
+    "id": "publication-138",
+    "authors_original": "Qiu C, Jung J-H, Peli E"
+  },
+  {
+    "year": "2017",
+    "title": "Confocal image generation from light-field using GPU for background de-cluttering in visual prostheses",
+    "authors": "Navid Mostofi, Eli Peli, Jae-Hyun Jung",
+    "venue": "6th Military Vision Symposium on Ocular and Vision Injury, Mar.2017.",
+    "type": "Conference abstract",
+    "links": [],
+    "citation": "Navid Mostofi, Eli Peli, Jae-Hyun Jung. (2017). Confocal image generation from light-field using GPU for background de-cluttering in visual prostheses. 6th Military Vision Symposium on Ocular and Vision Injury, Mar.2017.",
+    "id": "publication-139",
+    "authors_original": "Mostofi N, Peli E, Jung J-H"
+  },
+  {
+    "year": "2017",
+    "title": "Analysis of Light-field imaging for background de-cluttering in visual prostheses",
+    "authors": "Jae-Hyun Jung, Eli Peli",
+    "venue": "6th Military Vision Symposium on Ocular and Vision Injury, Mar.2017.",
+    "type": "Conference abstract",
+    "links": [],
+    "citation": "Jae-Hyun Jung, Eli Peli. (2017). Analysis of Light-field imaging for background de-cluttering in visual prostheses. 6th Military Vision Symposium on Ocular and Vision Injury, Mar.2017.",
+    "id": "publication-140",
+    "authors_original": "Jung J-H, Peli E"
+  },
+  {
+    "year": "2016",
+    "title": "Judging pedestrian collisions in open-space walking simulations",
+    "authors": "Cheng Qiu, Lauren Spano, Merve Tuccar-Burak, Robert Goldstein, Jae-Hyun Jung, Eli Peli",
+    "venue": "Optom Vis Sci 2016;93:E-abstract 160006.",
+    "type": "Conference abstract",
+    "links": [],
+    "citation": "Cheng Qiu, Lauren Spano, Merve Tuccar-Burak, Robert Goldstein, Jae-Hyun Jung, Eli Peli. (2016). Judging pedestrian collisions in open-space walking simulations. Optom Vis Sci 2016;93:E-abstract 160006.",
+    "id": "publication-141",
+    "authors_original": "Qiu C, Spano L, Tuccar M, Goldstein R, Jung J-H, Peli E"
+  },
+  {
+    "year": "2015",
+    "title": "Multiplexing prism prescription glasses for field expansion of monocular vision",
+    "authors": "Jae-Hyun Jung, Eli Peli",
+    "venue": "Optom Vis Sci 2015;92:E-abstract155261.",
+    "type": "Conference abstract",
+    "links": [],
+    "citation": "Jae-Hyun Jung, Eli Peli. (2015). Multiplexing prism prescription glasses for field expansion of monocular vision. Optom Vis Sci 2015;92:E-abstract155261.",
+    "id": "publication-142",
+    "authors_original": "Jung J-H, Peli E"
+  },
+  {
+    "year": "2015",
+    "title": "Active confocal imaging for visual prostheses",
+    "authors": "Jae-Hyun Jung, Tian Pu, Doron Aloni, Yitzhak Yitzhaky, Eli Peli",
+    "venue": "2015 Annual Meeting & Alumni Reunion, Department of Ophthalmology, Harvard Medical School, May. 2015.",
+    "type": "Conference abstract",
+    "links": [],
+    "citation": "Jae-Hyun Jung, Tian Pu, Doron Aloni, Yitzhak Yitzhaky, Eli Peli. (2015). Active confocal imaging for visual prostheses. 2015 Annual Meeting & Alumni Reunion, Department of Ophthalmology, Harvard Medical School, May. 2015.",
+    "id": "publication-143",
+    "authors_original": "Jung J-H, Pu T, Aloni D, Yitzhaky Y, Peli E"
+  },
+  {
+    "year": "2014",
+    "title": "Impact of background clutter removal using confocal imaging on object recognition with simulated visual prosthesis",
+    "authors": "Eli Peli, Jae-Hyun Jung",
+    "venue": "Optom Vis Sci 2014;91:E-abstract145070.",
+    "type": "Conference abstract",
+    "links": [],
+    "citation": "Eli Peli, Jae-Hyun Jung. (2014). Impact of background clutter removal using confocal imaging on object recognition with simulated visual prosthesis. Optom Vis Sci 2014;91:E-abstract145070.",
+    "id": "publication-144",
+    "authors_original": "Peli E, Jung J-H"
+  },
+  {
+    "year": "2014",
+    "title": "Novel field expansion for acquired monocular vision or bitemporal hemianopia",
+    "authors": "Jae-Hyun Jung, Eli Peli",
+    "venue": "Optom Vis Sci 2014;91:E-abstract 145070.",
+    "type": "Conference abstract",
+    "links": [],
+    "citation": "Jae-Hyun Jung, Eli Peli. (2014). Novel field expansion for acquired monocular vision or bitemporal hemianopia. Optom Vis Sci 2014;91:E-abstract 145070.",
+    "id": "publication-145",
+    "authors_original": "Jung J-H, Peli E"
+  },
+  {
+    "year": "2014",
+    "title": "Multiplexing prism glasses for field expansion in bitemporal hemianopia",
+    "authors": "Jae-Hyun Jung, Eli Peli",
+    "venue": "Invest. Ophthalmol. Vis. Sci. 2014;55(13):E-abstract 4129.",
+    "type": "Conference abstract",
+    "links": [],
+    "citation": "Jae-Hyun Jung, Eli Peli. (2014). Multiplexing prism glasses for field expansion in bitemporal hemianopia. Invest. Ophthalmol. Vis. Sci. 2014;55(13):E-abstract 4129.",
+    "id": "publication-146",
+    "authors_original": "Jung J-H, Peli E"
+  },
+  {
+    "year": "2014",
+    "title": "Configuring multiplexing prism for field expansion of acquired monocular vision and normally sighted",
+    "authors": "Jae-Hyun Jung, Eli Peli",
+    "venue": "Vision 2014 (11th International Conference on Low Vision). Melbourne, Australia, Mar.2014.",
+    "type": "Conference abstract",
+    "links": [],
+    "citation": "Jae-Hyun Jung, Eli Peli. (2014). Configuring multiplexing prism for field expansion of acquired monocular vision and normally sighted. Vision 2014 (11th International Conference on Low Vision). Melbourne, Australia, Mar.2014.",
+    "id": "publication-147",
+    "authors_original": "Jung J-H, Peli E"
+  },
+  {
+    "year": "2014",
+    "title": "Impact of high power and high incidence angles on peripheral prisms for homonymous hemianopia",
+    "authors": "Jae-Hyun Jung, Eli Peli",
+    "venue": "Vision 2014 (11th International Conference on Low Vision). Melbourne, Australia, Mar.2014",
+    "type": "Conference abstract",
+    "links": [],
+    "citation": "Jae-Hyun Jung, Eli Peli. (2014). Impact of high power and high incidence angles on peripheral prisms for homonymous hemianopia. Vision 2014 (11th International Conference on Low Vision). Melbourne, Australia, Mar.2014",
+    "id": "publication-148",
+    "authors_original": "Jung J-H, Peli E"
+  },
+  {
+    "year": "2013",
+    "title": "Spurious reflection effects in Fresnel prisms used for visual field expansion",
+    "authors": "Jae-Hyun Jung, Eli Peli",
+    "venue": "Optom Vis Sci 2013;90:E-abstract 13500.",
+    "type": "Conference abstract",
+    "links": [],
+    "citation": "Jae-Hyun Jung, Eli Peli. (2013). Spurious reflection effects in Fresnel prisms used for visual field expansion. Optom Vis Sci 2013;90:E-abstract 13500.",
+    "id": "publication-149",
+    "authors_original": "Jung J-H, Peli E"
+  },
+  {
+    "year": "2013",
+    "title": "Calculating Field Expansion and Apical Scotoma Size in Optical Correction for Homonymous Hemianopia",
+    "authors": "Michael Dupuis, Jae-Hyun Jung, Eli Peli",
+    "venue": "Biomedical Engineering Society 2013 Annual Meeting, P-Sat-B-24, Sep. 2013.",
+    "type": "Conference abstract",
+    "links": [],
+    "citation": "Michael Dupuis, Jae-Hyun Jung, Eli Peli. (2013). Calculating Field Expansion and Apical Scotoma Size in Optical Correction for Homonymous Hemianopia. Biomedical Engineering Society 2013 Annual Meeting, P-Sat-B-24, Sep. 2013.",
+    "id": "publication-150",
+    "authors_original": "Dupuis M, Jung J-H, Peli E"
+  },
+  {
+    "id": "publication-151",
+    "year": "2026",
+    "type": "Publication",
+    "date": "2026-06-11",
+    "title": "A randomized crossover clinical trial of multi-periscopic and Fresnel peripheral prism glasses for hemianopia",
+    "authors": "Alex R. Bowers, Sailaja Manda, Sandhya Shekar, Alex Daejoon Hwang, Jae-Hyun Jung, Eli Peli",
+    "venue": "Optometry and Vision Science 103(6), e70072",
+    "scholar_source": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ToRE6MYAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ToRE6MYAAAAJ:lbI08cpqPnQC",
+    "verified_on": "2026-09-29",
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://doi.org/10.1002/ovs2.70072"
+      }
+    ],
+    "source": "https://doi.org/10.1002/ovs2.70072",
+    "teaser_id": "prism-clinical-trial",
+    "authors_original": "Alex R Bowers, Sailaja Manda, Sandhya Shekar, Alex Daejoon Hwang, Jae-Hyun Jung, Eli Peli"
+  },
+  {
+    "id": "publication-152",
+    "year": "2025",
+    "type": "Conference abstract",
+    "date": "2025-07-15",
+    "title": "Cerebral visual impairment is associated with altered gaze dynamics and conservative walking strategies to safely navigate dense, dynamic spaces in virtual reality",
+    "authors": "Jonathan K. Doyon, Madeleine Heynen, Wei Hau Lew, Claire E. Manley, Alex Daejoon Hwang, Jae-Hyun Jung, Lotfi B. Merabet",
+    "venue": "Journal of Vision 25(9), 2479 · VSS 2025",
+    "scholar_source": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ToRE6MYAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ToRE6MYAAAAJ:Vno172sVVMwC",
+    "verified_on": "2026-09-29",
+    "links": [
+      {
+        "label": "Abstract",
+        "url": "https://jov.arvojournals.org/article.aspx?articleid=2809688"
+      }
+    ],
+    "source": "https://jov.arvojournals.org/article.aspx?articleid=2809688",
+    "authors_original": "Jonathan K Doyon, Madeleine Heynen, Wei Hau Lew, Claire E Manley, Alex D Hwang, Jae-Hyun Jung, Lotfi B Merabet"
+  },
+  {
+    "id": "publication-153",
+    "year": "2025",
+    "type": "Conference abstract",
+    "date": "2025-06-30",
+    "title": "Randomized controlled multicenter trial of multiperiscopic prism glasses for hemianopia",
+    "authors": "Eli Peli, Sailaja Manda, Sandhya Shekar, Alex Daejoon Hwang, Jae-Hyun Jung, Jem Martin, Sara McWilliams, David Simpson, Kara Hanson, Scott Hearing, Maheen Sharfuddin, Tracy Matchinski, Kevin E. Houston, Emily Muller, Dawn K. DeCarlo, Jennifer Childers, Mariem Girgis, Kathryn Deliso, Charlie Saccarelli, Alexander Ferenes, Alex R. Bowers",
+    "venue": "Investigative Ophthalmology & Visual Science 66(8), 2672 · ARVO 2025",
+    "scholar_source": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ToRE6MYAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ToRE6MYAAAAJ:VRfTbSk87rEC",
+    "verified_on": "2026-09-29",
+    "links": [
+      {
+        "label": "Abstract",
+        "url": "https://iovs.arvojournals.org/article.aspx?articleid=2803379"
+      }
+    ],
+    "source": "https://iovs.arvojournals.org/article.aspx?articleid=2803379",
+    "authors_original": "Eli Peli, Sailaja Manda, Sandhya Shekar, Alex Daejoon Hwang, JaeHyun Jung, Jem Martin, Sara McWilliams, David Simpson, Kara Hanson, Scott Hearing, Maheen Sharfuddin, Tracy Matchinski, Kevin E Houston, Emily Muller, Dawn K DeCarlo, Jennifer Childers, Mariem Girgis, Kathryn Deliso, Charlie Saccarelli, Alexander Ferenes, Alex R Bowers"
+  }
+]

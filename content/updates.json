@@ -1,0 +1,607 @@
+[
+  {
+    "date": "2026-07-31",
+    "category": "Press",
+    "title": "Spatial-IQ featured by NVIDIA AI",
+    "summary": "NVIDIA AI highlighted Spatial-IQ on X, LinkedIn, and Facebook, introducing its nine sub-tasks for evaluating perception and reasoning in 3D object counting. The posts also featured our training results: Qwen2.5-VL-32B improved from 2.9% to 62.6% object-counting accuracy.",
+    "links": [
+      {
+        "label": "X",
+        "url": "https://x.com/NVIDIAAI/status/2083258269875798275"
+      },
+      {
+        "label": "LinkedIn",
+        "url": "https://www.linkedin.com/feed/update/urn:li:share:7489023975759544320/"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/reel/1711421056715713/"
+      },
+      {
+        "label": "Project Page",
+        "url": "https://nvidia.github.io/Spatial-IQ/"
+      }
+    ],
+    "source": "https://www.linkedin.com/feed/update/urn:li:share:7489023975759544320/",
+    "editorial_note": "Official post text verified through X oEmbed and the public LinkedIn/Facebook pages. Date confirmed by X oEmbed and LinkedIn datePublished (2026-07-31T18:27:35.396Z). Teaser is the unmodified GIF served by the LinkedIn post’s og:image.",
+    "id": "update-28",
+    "teaser_id": "spatial-iq-nvidia-ai"
+  },
+  {
+    "date": "2024-03",
+    "category": "News",
+    "title": "Joined NVIDIA Research",
+    "summary": "I joined Human Performance and Experience (HPX) to study human perception and its interaction with computational systems.",
+    "links": [
+      {
+        "label": "NVIDIA profile",
+        "url": "https://research.nvidia.com/person/jae-hyun-jung"
+      }
+    ],
+    "id": "update-6",
+    "teaser_id": "nvidia-logo"
+  },
+  {
+    "date": "2024-02-14",
+    "category": "Press",
+    "title": "Improving visual perception in virtual reality",
+    "summary": "Mass General’s Advances in Motion features the study of visual rivalry in peripheral head-mounted displays.",
+    "links": [
+      {
+        "label": "Article",
+        "url": "https://advances.massgeneral.org/ophthalmology/journal.aspx?id=2589"
+      },
+      {
+        "label": "Paper",
+        "url": "https://doi.org/10.1038/s41598-023-47427-8"
+      }
+    ],
+    "source": "https://www.jjunglab.com/updates#h.5d9kmrgkl4za",
+    "id": "update-7",
+    "legacy_ids": [
+      "h.5d9kmrgkl4za",
+      "h.5d9kmrgkl4za_l",
+      "h.uumgpo4e0wwx",
+      "h.uumgpo4e0wwx_l"
+    ],
+    "teaser_id": "original-update-image-1"
+  },
+  {
+    "date": "2024-02",
+    "category": "Award",
+    "title": "NEI travel grant for Jonathan Doyon",
+    "summary": "Jonathan Doyon received an NEI Early Career Scientist Travel Grant for the 2024 VSS Meeting.",
+    "links": [],
+    "source": "https://www.jjunglab.com/updates#h.z2dol9v2o2il",
+    "editorial_note": "Date corrected by Jae-Hyun Jung to February 2024, preceding the February 14, 2024 Press item. Exact day not specified.",
+    "id": "update-8",
+    "legacy_ids": [
+      "h.z2dol9v2o2il",
+      "h.z2dol9v2o2il_l",
+      "h.wu3qzwfmije3",
+      "h.wu3qzwfmije3_l"
+    ],
+    "teaser_ids": [
+      "original-update-image-2",
+      "original-update-image-3"
+    ]
+  },
+  {
+    "date": "2023-12-27",
+    "category": "Press",
+    "title": "AR displays and the challenge of field of view",
+    "summary": "Chosun Biz covers AR viewing angles and research on visual rivalry in wearable displays.",
+    "links": [
+      {
+        "label": "Korean",
+        "url": "https://biz.chosun.com/science-chosun/technology/2023/12/27/SFHRXRQJPFEUVDIM2T6AK7UUAM/?utm_source=naver&utm_medium=original&utm_campaign=biz"
+      },
+      {
+        "label": "English Translation",
+        "url": "https://biz-chosun-com.translate.goog/science-chosun/technology/2023/12/27/SFHRXRQJPFEUVDIM2T6AK7UUAM/?utm_source=naver&utm_medium=original&utm_campaign=biz&_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp"
+      },
+      {
+        "label": "DOI",
+        "url": "https://doi.org/10.1038/s41598-023-47427-8"
+      }
+    ],
+    "source": "https://www.jjunglab.com/updates#h.z8ujltlfkdbo",
+    "id": "update-9",
+    "legacy_ids": [
+      "h.z8ujltlfkdbo",
+      "h.z8ujltlfkdbo_l",
+      "h.gf804t1y2whr",
+      "h.gf804t1y2whr_l"
+    ],
+    "teaser_id": "news-9"
+  },
+  {
+    "date": "2023-09-08",
+    "category": "Press",
+    "title": "Making the Invisible Visible",
+    "summary": "Mass General Brigham’s FOCUS features research on scotoma carving and the experience of visual blind spots.",
+    "links": [
+      {
+        "label": "Article",
+        "url": "https://focus.masseyeandear.org/making-the-invisible-visible-one-researchers-quest-to-simulate-visual-blind-spots/"
+      }
+    ],
+    "source": "https://www.jjunglab.com/updates#h.hmd8vheknvha",
+    "id": "update-10",
+    "legacy_ids": [
+      "h.hmd8vheknvha",
+      "h.hmd8vheknvha_l"
+    ],
+    "unavailable_source_images": [
+      {
+        "url": "https://lh3.googleusercontent.com/docsubipk/AP9E6xVBZSlnHm8L0GK4ke_WT3UGBOET_SM7iSwlbWULfunP6e9OJyn15rXYDQO6Ut4JLDhgQubUJtKOqde_sMXgHmgNcrMAuDmajWtmHBHkS8cqvtApR5SIGAEMAPDu1Rs1g896DVF9h7E4zDTscisTR0e4pJuUBkt8_lw_CNE",
+        "reason": "Original Google Sites link-preview image returns HTTP 404; checked 2026-09-29."
+      }
+    ],
+    "teaser_id": "mass-general-brigham-logo",
+    "editorial_note": "At Jae-Hyun Jung’s request, uses the official Mass General Brigham logo as the teaser in place of the unavailable original preview image."
+  },
+  {
+    "date": "2019-10-23",
+    "category": "Award",
+    "title": "Fellow of the American Academy of Optometry",
+    "summary": "Jae-Hyun Jung achieved Fellowship at the Academy’s annual meeting in Orlando.",
+    "links": [
+      {
+        "label": "Announcement",
+        "url": "https://mailchi.mp/6c7972c8b653/e-forum-nov1-652061?e=ebd5b0c6dd#Dr.%20Jae-Hyun"
+      }
+    ],
+    "source": "https://www.jjunglab.com/updates#h.cq58lrk4gby2",
+    "id": "update-11",
+    "legacy_ids": [
+      "h.cq58lrk4gby2",
+      "h.cq58lrk4gby2_l",
+      "h.hwtbe1mzoaf8",
+      "h.hwtbe1mzoaf8_l"
+    ],
+    "teaser_id": "news-17"
+  },
+  {
+    "date": "2018-07",
+    "category": "Funding",
+    "title": "Fight for Sight Grant-in-aid Award",
+    "summary": "Awarded Fight for Sight grant GA18003 as Principal Investigator to develop multiplexing-prism glasses for acquired monocular vision and evaluate collision and hazard detection.",
+    "links": [
+      {
+        "label": "Announcement",
+        "url": "https://www.facebook.com/fightforsight/posts/10157743005958475?__cft__[0]=AZVLoCweEra9cLebGxPi9K1BmN3miIb39Lquca93thXS-5gjiQtwQgjiu0pB4Qm1yVMfUSPUlwhrS5-ywi3xCb7LDYRfPG14souHVlnFfSjmOncUbbr89t2utxh0qosIDqM&__tn__=*F"
+      }
+    ],
+    "source": "https://www.jjunglab.com/updates#h.61i3oe8rls5x",
+    "id": "update-12",
+    "legacy_ids": [
+      "h.61i3oe8rls5x",
+      "h.61i3oe8rls5x_l",
+      "h.mogk6df4ccc4",
+      "h.mogk6df4ccc4_l"
+    ],
+    "teaser_id": "original-update-image-7",
+    "funding_period": "2018-07–2019-12",
+    "role": "Principal Investigator",
+    "cv_source": "JHJung_CV_HMSform.docx — Report of Funded and Unfunded Projects / Funding Information (Past)",
+    "editorial_note": "Role and funding period verified against the user-provided HMS-format CV. Displayed month follows the CV award/funding start month, replacing the earlier website announcement date (2019-01-28)."
+  },
+  {
+    "date": "2018-09-04",
+    "category": "Press",
+    "title": "Pedestrian collision detection featured on the TVST cover",
+    "summary": "The study evaluates collision detection with peripheral field loss and the impact of peripheral prisms.",
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://doi.org/10.1167/tvst.7.5.1"
+      }
+    ],
+    "source": "https://www.jjunglab.com/updates#h.7d7hfxacp9tu",
+    "id": "update-13",
+    "legacy_ids": [
+      "h.7d7hfxacp9tu",
+      "h.7d7hfxacp9tu_l",
+      "h.72raovvghbbf",
+      "h.72raovvghbbf_l"
+    ],
+    "teaser_id": "news-23"
+  },
+  {
+    "date": "2017-10",
+    "category": "Funding",
+    "title": "Alice J. Adler Fellowship",
+    "summary": "Awarded the Alice J. Adler Fellowship as Principal Investigator to evaluate multiplexing-prism configurations for hazard detection in homonymous hemianopia.",
+    "links": [
+      {
+        "label": "Announcement",
+        "url": "https://research.bidmc.org/eye/news/jae-hyun-jung-phd-receives-2017-alice-j-adler-fellowship"
+      }
+    ],
+    "source": "https://www.jjunglab.com/updates#h.mk66inrnq7vc",
+    "id": "update-14",
+    "legacy_ids": [
+      "h.mk66inrnq7vc",
+      "h.mk66inrnq7vc_l"
+    ],
+    "teaser_id": "alice-adler-fellowship",
+    "funding_period": "2017-10–2018-09",
+    "role": "Principal Investigator",
+    "cv_source": "JHJung_CV_HMSform.docx — Report of Funded and Unfunded Projects / Funding Information (Past)",
+    "editorial_note": "Role and funding period verified against the user-provided HMS-format CV. Displayed month follows the CV award/funding start month, replacing the earlier website announcement date (2017-04-13)."
+  },
+  {
+    "date": "2016-05-17",
+    "category": "Press",
+    "title": "High-power prisms for visual field expansion",
+    "summary": "Media coverage highlights new prismatic designs for patients with hemianopia.",
+    "links": [
+      {
+        "label": "Article",
+        "url": "https://www.eurekalert.org/news-releases/577253"
+      }
+    ],
+    "source": "https://www.jjunglab.com/updates#h.dpwuuglxjg4w",
+    "id": "update-15",
+    "legacy_ids": [
+      "h.dpwuuglxjg4w",
+      "h.dpwuuglxjg4w_l"
+    ],
+    "teaser_id": "original-update-image-10"
+  },
+  {
+    "date": "2015-05-01",
+    "category": "Award",
+    "title": "Best Paper of the Year at Schepens",
+    "summary": "Active Confocal Imaging for Visual Prostheses received the fellows’ Best Paper of the Year Award.",
+    "links": [
+      {
+        "label": "Paper",
+        "url": "http://www.sciencedirect.com/science/article/pii/S0042698914002569"
+      }
+    ],
+    "source": "https://www.jjunglab.com/updates#h.k53ejho8dsrq",
+    "id": "update-16",
+    "legacy_ids": [
+      "h.k53ejho8dsrq",
+      "h.k53ejho8dsrq_l",
+      "h.xlo9e245ihei",
+      "h.xlo9e245ihei_l"
+    ],
+    "teaser_id": "news-34"
+  },
+  {
+    "date": "2015-02",
+    "category": "Funding",
+    "title": "Promobilia Foundation Fellowship",
+    "summary": "Awarded Promobilia Foundation grant 14222 as Principal Investigator to develop active confocal imaging that isolates objects of interest and removes background clutter for visual prostheses.",
+    "links": [],
+    "source": "https://www.jjunglab.com/updates#h.w1wdtb2ab3fu",
+    "id": "update-17",
+    "legacy_ids": [
+      "h.w1wdtb2ab3fu",
+      "h.w1wdtb2ab3fu_l",
+      "h.2oanauujci8t",
+      "h.2oanauujci8t_l"
+    ],
+    "teaser_id": "original-update-image-12",
+    "funding_period": "2015-02–2015-10",
+    "role": "Principal Investigator",
+    "cv_source": "JHJung_CV_HMSform.docx — Report of Funded and Unfunded Projects / Funding Information (Past)",
+    "editorial_note": "Role and funding period verified against the user-provided HMS-format CV. Displayed month follows the CV funding start; day precision is not provided."
+  },
+  {
+    "date": "2014-03-11",
+    "category": "Press",
+    "title": "Distortions with high-power Fresnel prisms",
+    "summary": "SPIE Newsroom features work on prism orientation, field expansion, and spurious reflections.",
+    "links": [
+      {
+        "label": "Article",
+        "url": "https://spie.org/news/5350-distortions-to-visual-field-expansion-with-high-power-fresnel-prisms?SSO=1"
+      },
+      {
+        "label": "Paper",
+        "url": "http://dx.doi.org/10.1117/1.OE.53.6.061707"
+      }
+    ],
+    "source": "https://www.jjunglab.com/updates#h.gmehzlhew970",
+    "id": "update-18",
+    "legacy_ids": [
+      "h.gmehzlhew970",
+      "h.gmehzlhew970_l",
+      "h.q49pnpquafbi",
+      "h.q49pnpquafbi_l"
+    ],
+    "teaser_id": "news-41"
+  },
+  {
+    "date": "2012-11",
+    "category": "Funding",
+    "title": "National Research Foundation of Korea Fellowship",
+    "summary": "Awarded a National Research Foundation of Korea Basic Research Fellowship as Principal Investigator to study accommodation responses to super multi-view displays and develop optical vision rehabilitation devices.",
+    "links": [],
+    "source": "https://www.jjunglab.com/updates#h.lgzjp368rv8",
+    "id": "update-19",
+    "legacy_ids": [
+      "h.lgzjp368rv8",
+      "h.lgzjp368rv8_l",
+      "h.5aq770u0xv5f",
+      "h.5aq770u0xv5f_l"
+    ],
+    "teaser_id": "original-update-image-15",
+    "funding_period": "2012-12–2013-11",
+    "role": "Principal Investigator",
+    "cv_source": "JHJung_CV_HMSform.docx — Report of Funded and Unfunded Projects / Funding Information (Past)",
+    "editorial_note": "Role and funding period verified against the user-provided HMS-format CV. November 2012 is the fellowship award month in the CV Honors section; funding began in December 2012."
+  },
+  {
+    "date": "2012-09-08",
+    "category": "Press",
+    "title": "Glasses-free 3D movies — CNN",
+    "summary": "CNN covers frontal projection technology for glasses-free 3D viewing.",
+    "links": [
+      {
+        "label": "Article",
+        "url": "https://www.cnn.com/2012/08/21/tech/innovation/3d-movies-no-glasses"
+      }
+    ],
+    "source": "https://www.jjunglab.com/updates#h.gag4grdc7co0",
+    "id": "update-20",
+    "legacy_ids": [
+      "h.gag4grdc7co0",
+      "h.gag4grdc7co0_l"
+    ],
+    "teaser_id": "original-update-image-16"
+  },
+  {
+    "date": "2012-08-22",
+    "category": "Press",
+    "title": "Glasses-free 3D movies — Forbes",
+    "summary": "Forbes covers new display technology for glasses-free 3D movies.",
+    "links": [
+      {
+        "label": "Article",
+        "url": "https://www.forbes.com/sites/davidthier/2012/08/22/new-technology-could-allow-for-glasses-free-3d-movies/?sh=6c163b6b758b"
+      }
+    ],
+    "source": "https://www.jjunglab.com/updates#h.15qti4g4mvjo",
+    "id": "update-21",
+    "legacy_ids": [
+      "h.15qti4g4mvjo",
+      "h.15qti4g4mvjo_l"
+    ],
+    "teaser_id": "original-update-image-17"
+  },
+  {
+    "date": "2012-08-21",
+    "category": "Press",
+    "title": "Glasses-free 3D cinemas — BBC",
+    "summary": "BBC News reports on glasses-free 3D cinema technology developed in South Korea.",
+    "links": [
+      {
+        "label": "Article",
+        "url": "https://www.bbc.com/news/technology-19333872"
+      }
+    ],
+    "source": "https://www.jjunglab.com/updates#h.4aig6tdgizzx",
+    "id": "update-22",
+    "legacy_ids": [
+      "h.4aig6tdgizzx",
+      "h.4aig6tdgizzx_l"
+    ],
+    "teaser_id": "original-update-image-18"
+  },
+  {
+    "date": "2012-08-01",
+    "category": "Award",
+    "title": "Best Paper Award at the OSK Summer Annual Meeting",
+    "summary": "The award recognizes a multi-view pickup solution to the pseudoscopic problem in integral imaging.",
+    "links": [
+      {
+        "label": "Paper",
+        "url": "http://ol.osa.org/abstract.cfm?URI=ol-38-1-76"
+      }
+    ],
+    "source": "https://www.jjunglab.com/updates#h.i5q7lbqvc6mu",
+    "id": "update-23",
+    "legacy_ids": [
+      "h.i5q7lbqvc6mu",
+      "h.i5q7lbqvc6mu_l",
+      "h.k9b3gg1r86le",
+      "h.k9b3gg1r86le_l"
+    ],
+    "teaser_id": "original-update-image-14"
+  },
+  {
+    "date": "2011-10-10",
+    "category": "Press",
+    "title": "Multi-view depth perception on the Optics Express cover",
+    "summary": "Featured work examines fundamental depth resolution and the cardboard effect in multi-view displays.",
+    "links": [
+      {
+        "label": "Paper",
+        "url": "http://www.opticsexpress.org/abstract.cfm?URI=oe-19-21-20468"
+      }
+    ],
+    "source": "https://www.jjunglab.com/updates#h.zhalvmu1kaf9",
+    "id": "update-24",
+    "legacy_ids": [
+      "h.zhalvmu1kaf9",
+      "h.zhalvmu1kaf9_l",
+      "h.uwwh9n3rx58g",
+      "h.uwwh9n3rx58g_l"
+    ],
+    "teaser_id": "original-update-image-19"
+  },
+  {
+    "date": "2009-10-15",
+    "category": "Award",
+    "title": "Merck Young Scientist Award",
+    "summary": "The award recognizes work on a 360-degree viewable cylindrical integral imaging system at IMID 2009.",
+    "links": [
+      {
+        "label": "Paper",
+        "url": "http://onlinelibrary.wiley.com/doi/10.1889/JSID18.7.527/abstract"
+      }
+    ],
+    "source": "https://www.jjunglab.com/updates#h.z5tgaf22xqnd",
+    "id": "update-25",
+    "legacy_ids": [
+      "h.z5tgaf22xqnd",
+      "h.z5tgaf22xqnd_l",
+      "h.fifdak2hh1dr",
+      "h.fifdak2hh1dr_l"
+    ],
+    "teaser_id": "original-update-image-20"
+  },
+  {
+    "date": "2009-04-10",
+    "category": "Press",
+    "title": "Moiré-reduced integral imaging on the Applied Optics cover",
+    "summary": "Featured research studies color moiré patterns and lens-array tilt in integral imaging.",
+    "links": [
+      {
+        "label": "Paper",
+        "url": "http://ao.osa.org/abstract.cfm?URI=ao-48-11-2178"
+      }
+    ],
+    "source": "https://www.jjunglab.com/updates#h.5isd3rc5v978",
+    "id": "update-26",
+    "legacy_ids": [
+      "h.5isd3rc5v978",
+      "h.5isd3rc5v978_l",
+      "h.vmk2ddeht1l1",
+      "h.vmk2ddeht1l1_l"
+    ],
+    "teaser_id": "news-71"
+  },
+  {
+    "date": "2008-09-20",
+    "category": "Press",
+    "title": "Thin integral imaging on the Applied Optics cover",
+    "summary": "Featured work demonstrates a thin 3D/2D convertible display with an OLED panel.",
+    "links": [
+      {
+        "label": "Paper",
+        "url": "http://ao.osa.org/abstract.cfm?URI=ao-47-27-4927"
+      }
+    ],
+    "source": "https://www.jjunglab.com/updates#h.yrazehuby69r",
+    "id": "update-27",
+    "legacy_ids": [
+      "h.yrazehuby69r",
+      "h.yrazehuby69r_l",
+      "h.3qit2gxa3e91",
+      "h.3qit2gxa3e91_l"
+    ],
+    "teaser_id": "news-74"
+  },
+  {
+    "id": "update-29",
+    "date": "2020-08-03",
+    "category": "Funding",
+    "title": "NIH R01 for monocular visual field expansion",
+    "summary": "Awarded NIH/NEI R01 EY031777 as Principal Investigator for Monocular Visual Confusion for Field Expansion. The project develops and evaluates optical devices to expand the visual field, with funding beginning in September 2020.",
+    "links": [
+      {
+        "label": "NIH RePORTER",
+        "url": "https://reporter.nih.gov/project-details/10030789"
+      },
+      {
+        "label": "Project",
+        "url": "https://www.jjunglab.com/projects#field-expansion"
+      }
+    ],
+    "source": "https://reporter.nih.gov/project-details/10030789",
+    "editorial_note": "Date is the original NIH award notice date, August 3, 2020; the initial project period began September 1, 2020. Jae-Hyun Jung is the PI on this original award. Role and funding period verified against the user-provided HMS-format CV.",
+    "teaser_id": "funding-monocular-field-expansion",
+    "funding_period": "2020-09–2024-08",
+    "role": "Principal Investigator",
+    "cv_source": "JHJung_CV_HMSform.docx — Report of Funded and Unfunded Projects / Funding Information (Past)"
+  },
+  {
+    "id": "update-30",
+    "date": "2019-08-29",
+    "category": "Funding",
+    "title": "NIH R01 renewal for multi-periscopic prism design",
+    "summary": "Continued as Co-Investigator on the renewal of NIH/NEI R01 EY023385 (PI: Eli Peli). The project develops multi-periscopic prisms for visual field expansion and evaluates their benefits for mobility.",
+    "links": [
+      {
+        "label": "NIH RePORTER",
+        "url": "https://reporter.nih.gov/project-details/9739539"
+      },
+      {
+        "label": "Project",
+        "url": "https://www.jjunglab.com/projects#field-expansion"
+      }
+    ],
+    "source": "https://reporter.nih.gov/project-details/9739539",
+    "editorial_note": "Competitive renewal 2R01EY023385-06A1, awarded August 29, 2019, with the renewed budget period starting September 1, 2019. Co-Investigator role documented on https://junglab.meei.harvard.edu/research-projects/vr/. Role and funding period verified against the user-provided HMS-format CV.",
+    "teaser_id": "funding-prism-design",
+    "funding_period": "2019-09–2024-08",
+    "role": "Co-Investigator",
+    "cv_source": "JHJung_CV_HMSform.docx — Report of Funded and Unfunded Projects / Funding Information (Past)"
+  },
+  {
+    "id": "update-31",
+    "date": "2016-01",
+    "category": "Funding",
+    "title": "DoD funding for active confocal imaging",
+    "summary": "Awarded Department of Defense grant W81XWH-16-1-0033 as Co-PI with Eli Peli for Active Confocal Imaging for Visual Prostheses. The project uses light-field imaging and video processing to reduce background clutter and improve object detection and recognition.",
+    "links": [
+      {
+        "label": "Project",
+        "url": "https://www.jjunglab.com/projects#active-confocal"
+      }
+    ],
+    "source": "https://www.jjunglab.com/projects",
+    "editorial_note": "Date represents the January 2016 project start listed on the original Projects page, not an independently verified award notice date. The listed project period is January 2016–January 2021. Role and funding period verified against the user-provided HMS-format CV.",
+    "teaser_id": "funding-active-confocal",
+    "funding_period": "2016-01–2021-01",
+    "role": "Co-PI",
+    "cv_source": "JHJung_CV_HMSform.docx — Report of Funded and Unfunded Projects / Funding Information (Past)"
+  },
+  {
+    "id": "update-32",
+    "date": "2013-09-17",
+    "category": "Funding",
+    "title": "NIH R01 for multiplexing prism design",
+    "summary": "Joined as Co-Investigator on NIH/NEI R01 EY023385 (PI: Eli Peli), Visual Field Expansion Through Innovative Multiplexing Prism Design. The project develops prism devices to expand the visual field for people with peripheral vision loss.",
+    "links": [
+      {
+        "label": "NIH RePORTER",
+        "url": "https://reporter.nih.gov/project-details/8483428"
+      },
+      {
+        "label": "Project",
+        "url": "https://www.jjunglab.com/projects#field-expansion"
+      }
+    ],
+    "source": "https://reporter.nih.gov/project-details/8483428",
+    "editorial_note": "Original award 1R01EY023385-01, awarded September 17, 2013. Co-Investigator role documented on https://junglab.meei.harvard.edu/research-projects/vr/. Annual noncompeting continuations are not separate News items. Role and funding period verified against the user-provided HMS-format CV.",
+    "teaser_id": "funding-prism-design",
+    "funding_period": "2013-09–2019-08",
+    "role": "Co-Investigator",
+    "cv_source": "JHJung_CV_HMSform.docx — Report of Funded and Unfunded Projects / Funding Information (Past)"
+  },
+  {
+    "id": "update-33",
+    "date": "2024-09",
+    "category": "Funding",
+    "title": "Massachusetts Lions funding for VR assessment of cerebral visual impairment",
+    "summary": "Awarded Massachusetts Lions Eye Research Fund support as Co-PI with Lotfi Merabet for Immersive Virtual Reality Collision Avoidance Test for Cerebral Visual Impairment. The project develops and tests a VR-based assessment of walking and collision avoidance.",
+    "funding_period": "2024-09–2025-08",
+    "role": "Co-PI",
+    "links": [
+      {
+        "label": "Project",
+        "url": "https://www.jjunglab.com/projects#vr-mobility"
+      }
+    ],
+    "teaser_id": "funding-vr-mobility",
+    "source": "JHJung_CV_HMSform.docx — Report of Funded and Unfunded Projects / Funding Information (Past)",
+    "editorial_note": "Funding, role, and period transcribed from the user-provided HMS-format CV. Displayed date is the funding start month; the CV does not specify an award notice date."
+  }
+]

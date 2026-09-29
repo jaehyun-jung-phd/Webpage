@@ -1,0 +1,234 @@
+{
+  "spatial-iq": {
+    "src": "assets/teasers/spatial-iq.png",
+    "alt": "Spatial-IQ: human hierarchical counting compared with multimodal model reasoning.",
+    "width": 1614,
+    "height": 634,
+    "source": "https://nvidia.github.io/Spatial-IQ/"
+  },
+  "radiance-fields": {
+    "src": "assets/teasers/radiance-fields.png",
+    "alt": "Rendering performance and light field views of a radiance field scene.",
+    "width": 1090,
+    "height": 259,
+    "source": "https://research.nvidia.com/publication/2026-07_real-time-3d-visualization-radiance-fields-light-field-displays"
+  },
+  "cvi-walking": {
+    "src": "assets/teasers/cvi-walking.jpg",
+    "alt": "Figure 1: immersive VR walking, colliding pedestrians, crowd densities, and recorded walking paths.",
+    "width": 714,
+    "height": 720,
+    "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13321285/#F1",
+    "credit": "Doyon et al. · CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "news-9": {
+    "src": "assets/teasers/news-9.jpg",
+    "alt": "Augmented information seen through wearable AR glasses.",
+    "width": 480,
+    "height": 252,
+    "source": "https://www.jjunglab.com/updates#h.z8ujltlfkdbo"
+  },
+  "news-17": {
+    "src": "assets/teasers/news-17.jpg",
+    "alt": "Jae-Hyun Jung at the 2019 American Academy of Optometry Fellowship ceremony.",
+    "width": 1280,
+    "height": 694,
+    "source": "https://www.jjunglab.com/updates#h.cq58lrk4gby2"
+  },
+  "news-23": {
+    "src": "assets/teasers/news-23.gif",
+    "alt": "TVST cover featuring pedestrian collision detection with peripheral field loss.",
+    "width": 175,
+    "height": 210,
+    "source": "https://www.jjunglab.com/updates#h.7d7hfxacp9tu"
+  },
+  "news-34": {
+    "src": "assets/teasers/news-34.png",
+    "alt": "Schepens Eye Research Institute, host of the Best Paper of the Year Award.",
+    "width": 924,
+    "height": 959,
+    "source": "https://www.jjunglab.com/updates#h.k53ejho8dsrq"
+  },
+  "news-41": {
+    "src": "assets/teasers/news-41.jpg",
+    "alt": "Visual field expansion and prism distortions under different viewing conditions.",
+    "width": 1280,
+    "height": 629,
+    "source": "https://www.jjunglab.com/updates#h.gmehzlhew970"
+  },
+  "news-71": {
+    "src": "assets/teasers/news-71.gif",
+    "alt": "Applied Optics cover featuring moiré patterns in integral imaging.",
+    "width": 196,
+    "height": 198,
+    "source": "https://www.jjunglab.com/updates#h.5isd3rc5v978"
+  },
+  "news-74": {
+    "src": "assets/teasers/news-74.gif",
+    "alt": "Applied Optics cover featuring a thin integral imaging display.",
+    "width": 196,
+    "height": 196,
+    "source": "https://www.jjunglab.com/updates#h.yrazehuby69r"
+  },
+  "original-update-image-1": {
+    "src": "assets/teasers/original-update-image-1.gif",
+    "alt": "Original announcement image: Improving visual perception in virtual reality",
+    "width": 600,
+    "height": 539,
+    "source": "https://www.jjunglab.com/updates#h.5d9kmrgkl4za"
+  },
+  "original-update-image-2": {
+    "src": "assets/teasers/original-update-image-2.png",
+    "alt": "Original announcement image: NEI travel grant for Jonathan Doyon",
+    "width": 1280,
+    "height": 672,
+    "source": "https://www.jjunglab.com/updates#h.z2dol9v2o2il"
+  },
+  "original-update-image-3": {
+    "src": "assets/teasers/original-update-image-3.png",
+    "alt": "Original announcement image: NEI travel grant for Jonathan Doyon",
+    "width": 1280,
+    "height": 226,
+    "source": "https://www.jjunglab.com/updates#h.z2dol9v2o2il"
+  },
+  "original-update-image-7": {
+    "src": "assets/teasers/original-update-image-7.jpg",
+    "alt": "Original announcement image: Fight for Sight Grant-in-aid Award",
+    "width": 1280,
+    "height": 880,
+    "source": "https://www.jjunglab.com/updates#h.61i3oe8rls5x"
+  },
+  "original-update-image-10": {
+    "src": "assets/teasers/original-update-image-10.jpg",
+    "alt": "Original announcement image: High-power prisms for visual field expansion",
+    "width": 200,
+    "height": 150,
+    "source": "https://www.jjunglab.com/updates#h.dpwuuglxjg4w"
+  },
+  "original-update-image-12": {
+    "src": "assets/teasers/original-update-image-12.png",
+    "alt": "Original announcement image: Promobilia Foundation Fellowship",
+    "width": 1080,
+    "height": 282,
+    "source": "https://www.jjunglab.com/updates#h.w1wdtb2ab3fu"
+  },
+  "original-update-image-14": {
+    "src": "assets/teasers/original-update-image-14.jpg",
+    "alt": "Original announcement image: Best Paper Award at the OSK Summer Annual Meeting",
+    "width": 400,
+    "height": 288,
+    "source": "https://www.jjunglab.com/updates#h.i5q7lbqvc6mu"
+  },
+  "original-update-image-15": {
+    "src": "assets/teasers/original-update-image-15.png",
+    "alt": "Original announcement image: National Research Foundation of Korea Fellowship",
+    "width": 202,
+    "height": 63,
+    "source": "https://www.jjunglab.com/updates#h.lgzjp368rv8"
+  },
+  "original-update-image-16": {
+    "src": "assets/teasers/original-update-image-16.jpg",
+    "alt": "Original announcement image: Glasses-free 3D movies — CNN",
+    "width": 512,
+    "height": 288,
+    "source": "https://www.jjunglab.com/updates#h.gag4grdc7co0"
+  },
+  "original-update-image-17": {
+    "src": "assets/teasers/original-update-image-17.jpg",
+    "alt": "Original announcement image: Glasses-free 3D movies — Forbes",
+    "width": 300,
+    "height": 153,
+    "source": "https://www.jjunglab.com/updates#h.15qti4g4mvjo"
+  },
+  "original-update-image-18": {
+    "src": "assets/teasers/original-update-image-18.jpg",
+    "alt": "Original announcement image: Glasses-free 3D cinemas — BBC",
+    "width": 976,
+    "height": 549,
+    "source": "https://www.jjunglab.com/updates#h.4aig6tdgizzx"
+  },
+  "original-update-image-19": {
+    "src": "assets/teasers/original-update-image-19.gif",
+    "alt": "Original announcement image: Multi-view depth perception on the Optics Express cover",
+    "width": 196,
+    "height": 196,
+    "source": "https://www.jjunglab.com/updates#h.zhalvmu1kaf9"
+  },
+  "original-update-image-20": {
+    "src": "assets/teasers/original-update-image-20.png",
+    "alt": "Original announcement image: Merck Young Scientist Award",
+    "width": 432,
+    "height": 116,
+    "source": "https://www.jjunglab.com/updates#h.z5tgaf22xqnd"
+  },
+  "alice-adler-fellowship": {
+    "src": "assets/teasers/alice-adler-fellowship.jpg",
+    "alt": "Jae-Hyun Jung portrait accompanying the 2017 Alice J. Adler Fellowship announcement.",
+    "width": 250,
+    "height": 250,
+    "source": "https://research.bidmc.org/eye/news/jae-hyun-jung-phd-receives-2017-alice-j-adler-fellowship"
+  },
+  "prism-clinical-trial": {
+    "src": "assets/ovs270072-fig-0001-m.png",
+    "alt": "Fresnel peripheral prism glasses and multi-periscopic prism glasses used in the clinical trial.",
+    "width": 500,
+    "height": 96,
+    "source": "https://onlinelibrary.wiley.com/cms/asset/f2655678-2c53-43dc-bf7a-e35c58bd257e/ovs270072-fig-0001-m.png"
+  },
+  "hemianopia-walking": {
+    "src": "assets/teasers/hemianopia-walking-fig3.png",
+    "alt": "Figure 3: A participant walking with an HMD, the virtual shopping mall, and pedestrian trajectories in the collision detection and avoidance task.",
+    "width": 1395,
+    "height": 467,
+    "source": "https://arxiv.org/abs/2510.04218"
+  },
+  "spatial-iq-nvidia-ai": {
+    "src": "assets/teasers/spatial-iq-nvidia-ai.gif",
+    "alt": "NVIDIA AI’s Spatial-IQ animation comparing human and multimodal model reasoning about visible and hidden blocks in a 3D structure.",
+    "width": 800,
+    "height": 550,
+    "source": "https://www.linkedin.com/feed/update/urn:li:share:7489023975759544320/"
+  },
+  "funding-monocular-field-expansion": {
+    "src": "assets/projects/project-2-2.png",
+    "alt": "Prism-based visual field expansion for monocular vision.",
+    "width": 1024,
+    "height": 457,
+    "source": "https://www.jjunglab.com/projects"
+  },
+  "funding-prism-design": {
+    "src": "assets/projects/project-2-1.png",
+    "alt": "Prism device illustrated against a visual field measurement grid.",
+    "width": 373,
+    "height": 204,
+    "source": "https://www.jjunglab.com/projects"
+  },
+  "funding-active-confocal": {
+    "src": "assets/projects/project-4-1.gif",
+    "alt": "Active confocal imaging selects objects by depth to reduce background clutter.",
+    "width": 1280,
+    "height": 473,
+    "source": "https://www.jjunglab.com/projects"
+  },
+  "funding-vr-mobility": {
+    "src": "assets/projects/project-1-1.gif",
+    "alt": "Immersive virtual reality walking simulation for mobility research.",
+    "width": 300,
+    "height": 338,
+    "source": "https://www.jjunglab.com/projects"
+  },
+  "nvidia-logo": {
+    "src": "assets/logos/Nvidia.svg",
+    "alt": "NVIDIA logo",
+    "width": 2500,
+    "height": 475
+  },
+  "mass-general-brigham-logo": {
+    "src": "assets/logos/mass-general-brigham.svg",
+    "alt": "Mass General Brigham logo",
+    "width": 259.0,
+    "height": 36.0,
+    "source": "https://www.massgeneralbrigham.org/en/global/media_1e91a193ca28a2549dfd6b7505754c816c7a02d47.svg"
+  }
+}

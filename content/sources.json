@@ -1,0 +1,45 @@
+{
+  "sources": [
+    "https://www.jjunglab.com/publications",
+    "https://www.jjunglab.com/updates",
+    "https://www.jjunglab.com/projects",
+    "https://www.jjunglab.com/junglab",
+    "https://www.jjunglab.com/data-sharing",
+    "https://research.nvidia.com/person/jae-hyun-jung",
+    "https://scholar.google.com/citations?user=ToRE6MYAAAAJ&hl=en&sortby=pubdate",
+    "https://doi.org/10.1002/ovs2.70072",
+    "https://api.crossref.org/works/10.1145/3820023",
+    "https://x.com/NVIDIAAI/status/2083258269875798275",
+    "https://www.linkedin.com/feed/update/urn:li:share:7489023975759544320/",
+    "https://www.facebook.com/reel/1711421056715713/",
+    "https://reporter.nih.gov/project-details/10030789",
+    "https://reporter.nih.gov/project-details/9739539",
+    "https://reporter.nih.gov/project-details/8483428",
+    "https://junglab.meei.harvard.edu/research-projects/vr/"
+  ],
+  "retrieved": "2026-09-29",
+  "notes": [
+    "All 145 original research output entries retained; 5 NVIDIA entries added. Bibliographic author names for the CVI preprint follow PubMed Central.",
+    "The original lab roster is presented as an archive, not current employment information.",
+    "Publication-115 (Pilot study of pedestrian collision detection with Multiperiscopic prism glasses for hemianopia): date confirmed by the author as March 2014.",
+    "NEI Early Career Scientist Travel Grant for Jonathan Doyon: date corrected by Jae-Hyun Jung to February 2024, before the February 14 Press item; this supersedes the earlier May 2024 date.",
+    "Two swapped cover-article citations in original Updates now link to their matching publications.",
+    "Expired signed PDF URLs omitted where a publisher/DOI link exists.",
+    "One Data Sharing record has no download in the source and is presented with a contact link.",
+    "Google Sites images copied from refreshed publicly accessible image URLs.",
+    "Original Updates image audit: 22 images across 21 announcements. 20 copied directly; Alice J. Adler Fellowship portrait recovered from the original Harvard/OpenScholar article. The Making the Invisible Visible link-preview image returns 404 and its article redirects to unrelated content; no replacement inferred.",
+    "Google Scholar audit on 2026-09-29: checked all 16 profile entries dated 2024–2026 against the local archive. Added 1 journal article and 2 conference abstracts (153 total outputs); updated 9 existing entries with publication dates, final bibliographic details, author order, or abstract links. Conference abstracts remain separate from subsequent journal articles. Primary publication dates take precedence over conference presentation dates or NVIDIA page dates; ACM author order follows publisher-deposited Crossref metadata. Existing IDs preserved. Home automatically merges Publications and Updates; no duplicate news records created.",
+    "NVIDIA AI Spatial-IQ announcement: X, LinkedIn, and Facebook posts consolidated into one News record dated July 31, 2026, verified against official post metadata; original LinkedIn animation stored locally as the teaser.",
+    "Funding News audit: added the initial NIH/NEI R01 EY031777 award (PI: Jae-Hyun Jung), the initial and competitive renewal awards of R01 EY023385 (PI: Eli Peli; Co-Investigator: Jae-Hyun Jung), and DoD W81XWH-16-1-0033. NIH dates follow original award notices in NIH RePORTER; the DoD date follows the project start month on the original Projects page. Existing fellowship and Fight for Sight announcements retained without duplication. Teasers reuse unmodified images from the corresponding original project pages.",
+    "HMS-format CV Funding audit: added Massachusetts Lions Eye Research Fund (September 2024, Co-PI), institutional startup funding (September 2021, PI), Meyer/Hirsch Foundation (November 2017, Co-Investigator), and Acorn Innovation Fund (April 2017, Co-Investigator). Corrected DoD role to Co-PI, Fight for Sight date to July 2018, and Alice J. Adler date to October 2017. Existing fellowship items enriched without duplicates. NIH award-notice dates retained; CV funding periods recorded separately. Samsung (April–November 2012) and R01 EY005957 (December 2012–December 2014) list a Postdoctoral Fellow role and are not presented as personal grant awards.",
+    "Data Sharing migration on 2026-09-29: all 10 XLSX downloads linked from the original page were copied without modification into data-sharing/files/. Page download links now reference these repository files. content/data-files.json records original URLs, byte sizes, and SHA-256 checksums. Each XLSX ZIP archive passed its CRC integrity check. The binary/bipolar edge-image study had no download link on the original page and retains its contact note.",
+    "At Jae-Hyun Jung’s request, removed the News entries for 2021 Jung Lab startup funding, 2017 Meyer/Hirsch Foundation funding, and 2017 Acorn Innovation Fund support. The earlier CV audit note records the original import; these three entries are no longer published."
+  ],
+  "local_sources": [
+    {
+      "file": "JHJung_CV_HMSform.docx",
+      "section": "Report of Funded and Unfunded Projects / Funding Information (Past); Honors and Prizes",
+      "use": "Funding News roles, periods, award months, and missing grants. The CV itself is not published."
+    }
+  ]
+}
