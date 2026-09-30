@@ -1,9 +1,23 @@
 [
   {
+    "date": "2026-09",
+    "category": "News",
+    "title": "We're looking for a Summer 2027 Research Intern at NVIDIA Research",
+    "summary": "Human Performance and Experience (HPX) team at NVIDIA Research is looking for research interns who are passionate about one or more of the following topics: Human-inspired artificial intelligence, gamining AI, and AI content authenticity. We expect candidates with backgrounds in computer vision, human vision science, robotic vision, and related fields. Please reach out to me with your CV.",
+    "links": [
+      {
+        "label": "HPX Team",
+        "url": "https://research.nvidia.com/labs/hpx/"
+      }
+    ],
+    "id": "update-6",
+    "teaser_id": "nvidia-logo"
+  },
+  {
     "date": "2026-07-31",
     "category": "Press",
-    "title": "Spatial-IQ featured by NVIDIA AI",
-    "summary": "NVIDIA AI highlighted Spatial-IQ on X, LinkedIn, and Facebook, introducing its nine sub-tasks for evaluating perception and reasoning in 3D object counting. The posts also featured our training results: Qwen2.5-VL-32B improved from 2.9% to 62.6% object-counting accuracy.",
+    "title": "Spatial-IQ featured by NVIDIA AI Channel",
+    "summary": "NVIDIA AI Channel highlighted Spatial-IQ on X, LinkedIn, and Facebook, introducing its nine sub-tasks for evaluating perception and reasoning in 3D object counting. The posts also featured our training results: Qwen2.5-VL-32B improved from 2.9% to 62.6% object-counting accuracy.",
     "links": [
       {
         "label": "X",
@@ -69,9 +83,14 @@
   {
     "date": "2024-02",
     "category": "Award",
-    "title": "NEI travel grant for Jonathan Doyon",
+    "title": "VSS 2024 NEI travel grant for Jonathan Doyon",
     "summary": "Jonathan Doyon received an NEI Early Career Scientist Travel Grant for the 2024 VSS Meeting.",
-    "links": [],
+    "links": [
+      {
+        "label": "Abstract",
+        "url": "https://jov.arvojournals.org/article.aspx?articleid=2801924"
+      }
+    ],
     "source": "https://www.jjunglab.com/updates#h.z2dol9v2o2il",
     "editorial_note": "Date corrected by Jae-Hyun Jung to February 2024, preceding the February 14, 2024 Press item. Exact day not specified.",
     "id": "update-8",
