@@ -242,8 +242,6 @@ button:hover { border-color: var(--accent); color: var(--accent); }
 .teaser-link { display: block; width: 100%; border-radius: 4px; overflow: hidden; }
 .teaser img { display: block; width: 100%; height: auto; max-height: 240px; object-fit: contain; }
 .teaser-link:hover { opacity: .9; }
-.teaser-caption { margin-top: 8px; color: var(--muted); font-size: .75rem; line-height: 1.5; }
-.teaser-caption a { color: inherit; text-underline-offset: 3px; }
 @media (max-width: 1000px) {
   .record-content.with-teaser { grid-template-columns: 280px minmax(0, 1fr); gap: 26px; }
 }

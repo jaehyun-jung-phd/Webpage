@@ -84,10 +84,7 @@ def teaser(item, prefix, destination):
     for image_id in image_ids:
         image = teasers.get(image_id)
         if image:
-            caption = ''
-            if image.get('figure') and image.get('source'):
-                caption = f'<figcaption class="teaser-caption">{e(image["figure"])} · <a href="{e(image["source"])}">Source</a></figcaption>'
-            figures.append(f'<figure class="teaser"><a class="teaser-link" href="{e(destination)}"><img src="{prefix}{e(image["src"])}" width="{image["width"]}" height="{image["height"]}" alt="{e(image["alt"])}" loading="lazy" decoding="async"></a>{caption}</figure>')
+            figures.append(f'<figure class="teaser"><a class="teaser-link" href="{e(destination)}"><img src="{prefix}{e(image["src"])}" width="{image["width"]}" height="{image["height"]}" alt="{e(image["alt"])}" loading="lazy" decoding="async"></a></figure>')
     if len(figures) > 1:
         return '<div class="teaser-gallery">' + ''.join(figures) + '</div>'
     return ''.join(figures)
