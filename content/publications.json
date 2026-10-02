@@ -127,7 +127,8 @@
     "date": "2024-06",
     "scholar_source": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ToRE6MYAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ToRE6MYAAAAJ:R22Rs3tN8aoC",
     "verified_on": "2026-09-29",
-    "authors_original": "Alex R Bowers, Sailaja Manda, Sandhya Shekar, Alex D Hwang, Jae-Hyun Jung, Eli Peli"
+    "authors_original": "Alex R Bowers, Sailaja Manda, Sandhya Shekar, Alex D Hwang, Jae-Hyun Jung, Eli Peli",
+    "teaser_id": "publication-6"
   },
   {
     "year": "2024",
@@ -146,7 +147,8 @@
     "date": "2024-06-03",
     "scholar_source": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ToRE6MYAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ToRE6MYAAAAJ:rLGzs9wiiwIC",
     "verified_on": "2026-09-29",
-    "authors_original": "Eli Peli, Jae-Hyun Jung"
+    "authors_original": "Eli Peli, Jae-Hyun Jung",
+    "teaser_id": "publication-7"
   },
   {
     "year": "2024",
@@ -162,7 +164,8 @@
     ],
     "citation": "Jonathan K. Doyon, Alex Daejoon Hwang, Jae-Hyun Jung. (2024). Understanding Viewpoint Changes in Peripheral Prisms for Field Expansion by Virtual Reality Simulation. Biomed Opt Express. 2024 Mar;15(3):1393-1407",
     "id": "publication-8",
-    "authors_original": "Doyon J, Hwang A, Jung J-H"
+    "authors_original": "Doyon J, Hwang A, Jung J-H",
+    "teaser_id": "publication-8"
   },
   {
     "year": "2024",
@@ -178,7 +181,8 @@
     ],
     "citation": "Alex Daejoon Hwang, Jae-Hyun Jung, Alex R. Bowers, Eli Peli. (2024). Egocentric Boundaries on Distinguishing Colliding and Non-Colliding Pedestrians while Walking in a Virtual Environment. Electron Imaging 2024 Jan;36(11):214-1-9",
     "id": "publication-9",
-    "authors_original": "Hwang A, Jung J-H, Bowers A, Peli E"
+    "authors_original": "Hwang A, Jung J-H, Bowers A, Peli E",
+    "teaser_id": "publication-9"
   },
   {
     "year": "2024",
@@ -214,7 +218,8 @@
     ],
     "citation": "Shui’er Han, Sujin Kim, Jae-Hyun Jung. (2023). The effect of visual rivalry in peripheral head-mounted displays on mobility. Sci. Rep. 2023 Nov;13:20199.",
     "id": "publication-11",
-    "authors_original": "Han S, Kim S, Jung J-H"
+    "authors_original": "Han S, Kim S, Jung J-H",
+    "teaser_id": "publication-11"
   },
   {
     "year": "2023",
@@ -230,7 +235,8 @@
     ],
     "citation": "Huiyu Duan, Wei Shen, Xiongkuo Min, Yuan Tian, Jae-Hyun Jung, Xiaokang Yang, Guangtao Zhai. (2023). Develop then Rival: A Human Vision-Inspired Framework for Superimposed Image Decomposition. IEEE Trans. Multimedia. 2023 Oct;25:4267-81,",
     "id": "publication-12",
-    "authors_original": "Duan H, Shen W, Min X, Tian Y, Jung J-H, Yang X, Zhai G"
+    "authors_original": "Duan H, Shen W, Min X, Tian Y, Jung J-H, Yang X, Zhai G",
+    "teaser_id": "publication-12"
   },
   {
     "year": "2023",
@@ -250,7 +256,8 @@
     ],
     "citation": "Eli Peli, Robert Goldstein, Jae-Hyun Jung. (2023). The invisibility of scotomata I: Scotoma carving. Optom Vis Sci. 2023 Aug;100(8):515–529.",
     "id": "publication-13",
-    "authors_original": "Peli E, Goldstein B, Jung J-H"
+    "authors_original": "Peli E, Goldstein B, Jung J-H",
+    "teaser_id": "publication-13"
   },
   {
     "year": "2023",
@@ -266,7 +273,8 @@
     ],
     "citation": "Mojtaba Falahati, Nish Mohith Kurukuti, Fernando Vargas-Martin, Eli Peli, Jae-Hyun Jung. (2023). Oblique Multi-Periscopic Prism for field expansion of homonymous hemianopia. Biomed Opt Express. 14(5), 2352-2364",
     "id": "publication-14",
-    "authors_original": "Falahati M, Kurukuti, NM, Peli E, Jung J-H"
+    "authors_original": "Falahati M, Kurukuti, NM, Peli E, Jung J-H",
+    "teaser_id": "publication-14"
   },
   {
     "year": "2023",
@@ -282,7 +290,8 @@
     ],
     "citation": "Alex Daejoon Hwang, Eli Peli, Jae-Hyun Jung. (2023). Development of Virtual Reality Walking Collision Detection Test on Head-mounted display. Proc. SPIE 12449, 124491J.",
     "id": "publication-15",
-    "authors_original": "Hwang A, Peli E, Jung J-H"
+    "authors_original": "Hwang A, Peli E, Jung J-H",
+    "teaser_id": "publication-15"
   },
   {
     "year": "2023",
@@ -298,7 +307,8 @@
     ],
     "citation": "Sujin Kim, Shui’er Han, Jae-Hyun Jung. (2023). Binocular see-through configuration and eye movement attenuate visual rivalry in peripheral wearable displays. Proc. SPIE 12449, 124490T.",
     "id": "publication-16",
-    "authors_original": "Kim S, Han S, Jung J-H"
+    "authors_original": "Kim S, Han S, Jung J-H",
+    "teaser_id": "publication-16"
   },
   {
     "year": "2022",
@@ -325,7 +335,8 @@
     ],
     "citation": "Zahide Pamir, Jae-Hyun Jung, Eli Peli. (2022). Preparing participants for the use of the tongue visual sensory substitution device. Disability and Rehabilitation: Assistive Technology, 17(8), 888-896.",
     "id": "publication-18",
-    "authors_original": "Pamir, Z., Jung, J-H., & Peli, E"
+    "authors_original": "Pamir, Z., Jung, J-H., & Peli, E",
+    "teaser_id": "publication-18"
   },
   {
     "year": "2022",
@@ -341,7 +352,8 @@
     ],
     "citation": "David Avraham, Guy Samuels, Jae-Hyun Jung, Eli Peli, Yitzhak Yitzhaky. (2022). Computational integral imaging based on a novel miniature camera array. In Proc. Imaging and Applied Optics Congress 2022, OSA Technical Digest, paper 3Tu5A.2, Jun. 2022.",
     "id": "publication-19",
-    "authors_original": "Avraham D, Samuels G, Jung J-H, Peli E, Yitzhaky Y"
+    "authors_original": "Avraham D, Samuels G, Jung J-H, Peli E, Yitzhaky Y",
+    "teaser_id": "publication-19"
   },
   {
     "year": "2021",
@@ -373,7 +385,8 @@
     ],
     "citation": "Jae-Hyun Jung, Nish Mohith Kurukuti, Eli Peli. (2021). Photographic Depiction of the Field of View with Spectacles-mounted Low Vision Aids. Optometry and Vision Science, 98 (10), 1210-1226.",
     "id": "publication-21",
-    "authors_original": "Jung, J-H., Kurukuti, N. M., & Peli, E"
+    "authors_original": "Jung, J-H., Kurukuti, N. M., & Peli, E",
+    "teaser_id": "publication-21"
   },
   {
     "year": "2021",
@@ -411,7 +424,8 @@
     ],
     "citation": "Eli Peli, Fernando Vargas-Martin, Nish Mohith Kurukuti, Jae-Hyun Jung. (2020). Multi-periscopic prism device for field expansion. Biomed. Opt. Express, 11 (9), 4872–4889. OSA.",
     "id": "publication-24",
-    "authors_original": "Peli, E., Vargas-Martin, F., Kurukuti, N. M., & Jung, J-H"
+    "authors_original": "Peli, E., Vargas-Martin, F., Kurukuti, N. M., & Jung, J-H",
+    "teaser_id": "publication-24"
   },
   {
     "year": "2020",
@@ -431,7 +445,8 @@
     ],
     "citation": "Jae-Hyun Jung, Rachel Castle, Nish Mohith Kurukuti, Sailaja Manda, Eli Peli. (2020). Field Expansion with Multiplexing Prism Glasses Improves Pedestrian Detection for Acquired Monocular Vision. Translational Vision Science & Technology, 9 (8), Article 35.",
     "id": "publication-25",
-    "authors_original": "Jung, J. - H., Castle, R., Kurukuti, N. M., Manda, S., & Peli, E"
+    "authors_original": "Jung, J. - H., Castle, R., Kurukuti, N. M., Manda, S., & Peli, E",
+    "teaser_id": "publication-25"
   },
   {
     "year": "2020",
@@ -451,7 +466,8 @@
     ],
     "citation": "Zahide Pamir, M. Umut Canoluk, Jae-Hyun Jung, Eli Peli. (2020). Poor resolution at the back of the tongue is the bottleneck for spatial pattern recognition. Scientific Reports, 10 (1), 2435.",
     "id": "publication-26",
-    "authors_original": "Pamir, Z., Canoluk, M. U., Jung, J. - H., & Peli, E"
+    "authors_original": "Pamir, Z., Canoluk, M. U., Jung, J. - H., & Peli, E",
+    "teaser_id": "publication-26"
   },
   {
     "year": "2020",
@@ -467,7 +483,8 @@
     ],
     "citation": "Hee-Jin Choi, Eli Peli, Minyoung Park, Jae-Hyun Jung. (2020). Design of 45∘ periscopic visual field expansion device for peripheral field loss. Optics Communications, 454, 124364.",
     "id": "publication-27",
-    "authors_original": "Choi, H. - J., Peli, E., Park, M., & Jung, J. - H"
+    "authors_original": "Choi, H. - J., Peli, E., Park, M., & Jung, J. - H",
+    "teaser_id": "publication-27"
   },
   {
     "year": "2018",
@@ -498,7 +515,8 @@
     ],
     "citation": "Jae-Hyun Jung, Eli Peli. (2018). No Useful Field Expansion with Full-field Prisms. Optometry and Vision Science, 95 (9), 805-813.",
     "id": "publication-29",
-    "authors_original": "Jung, J. - H., & Peli, E"
+    "authors_original": "Jung, J. - H., & Peli, E",
+    "teaser_id": "publication-29"
   },
   {
     "year": "2018",
@@ -518,7 +536,8 @@
     ],
     "citation": "Jae-Hyun Jung, Eli Peli. (2018). Field Expansion for Acquired Monocular Vision Using a Multiplexing Prism. Optometry and Vision Science, 95 (9), 814-828.",
     "id": "publication-30",
-    "authors_original": "Jung, J. - H., & Peli, E"
+    "authors_original": "Jung, J. - H., & Peli, E",
+    "teaser_id": "publication-30"
   },
   {
     "year": "2018",
@@ -538,7 +557,8 @@
     ],
     "citation": "Shui’er Han, Cheng Qiu, Kassandra Lee, Jae-Hyun Jung, Eli Peli. (2018). Word recognition: re-thinking prosthetic vision evaluation. Journal of Neural Engineering, 15 (5), 055003.",
     "id": "publication-31",
-    "authors_original": "Han, S. 'E., Qiu, C., Lee, K. R., Jung, J. - H., & Peli, E"
+    "authors_original": "Han, S. 'E., Qiu, C., Lee, K. R., Jung, J. - H., & Peli, E",
+    "teaser_id": "publication-31"
   },
   {
     "year": "2018",
@@ -579,7 +599,8 @@
     ],
     "citation": "Cheng Qiu, Kassandra R. Lee, Jae-Hyun Jung, Robert Goldstein, Eli Peli. (2018). Motion Parallax Improves Object Recognition in the Presence of Clutter in Simulated Prosthetic Vision. Translational Vision Science & Technology, 7 (5), Article 29.",
     "id": "publication-33",
-    "authors_original": "Qiu, C., Lee, K. R., Jung, J. - H., Goldstein, R., & Peli, E"
+    "authors_original": "Qiu, C., Lee, K. R., Jung, J. - H., Goldstein, R., & Peli, E",
+    "teaser_id": "publication-33"
   },
   {
     "year": "2018",
@@ -595,7 +616,8 @@
     ],
     "citation": "Jae-Hyun Jung, Eli Peli. (2018). Light-field background de-cluttering for visual prostheses. Imaging and Applied Optics 2018 (3D, AO, AIO, COSI, DH, IS, LACSEA, LS&C, MATH, pcAOP) (pp. 3Tu3E.3). Optical Society of America.",
     "id": "publication-34",
-    "authors_original": "Jung, J. - H., & Peli, E"
+    "authors_original": "Jung, J. - H., & Peli, E",
+    "teaser_id": "publication-34"
   },
   {
     "year": "2017",
@@ -615,7 +637,8 @@
     ],
     "citation": "Eli Peli, Jae-Hyun Jung. (2017). Multiplexing Prisms for Field Expansion. Optometry and Vision Science, 94 (8), 817-829.",
     "id": "publication-35",
-    "authors_original": "Peli, E., & Jung, J. - H"
+    "authors_original": "Peli, E., & Jung, J. - H",
+    "teaser_id": "publication-35"
   },
   {
     "year": "2017",
@@ -658,7 +681,8 @@
     ],
     "citation": "Jae-Hyun Jung, Tian Pu, Eli Peli. (2016). Comparing object recognition from binary and bipolar edge images for visual prostheses. Journal of Electronic Imaging, 25 (6), 061619.",
     "id": "publication-38",
-    "authors_original": "Jung, J. - H., Pu, T., & Peli, E"
+    "authors_original": "Jung, J. - H., Pu, T., & Peli, E",
+    "teaser_id": "publication-38"
   },
   {
     "year": "2016",
@@ -682,7 +706,8 @@
     ],
     "citation": "Eli Peli, Alex R. Bowers, Karen Keeney, Jae-Hyun Jung. (2016). High Power Prismatic Devices for Oblique Peripheral Prisms. Optometry and Vision Science, 93 (5).",
     "id": "publication-39",
-    "authors_original": "Peli, E., Bowers, A., Keeney, K., & Jung, J. - H"
+    "authors_original": "Peli, E., Bowers, A., Keeney, K., & Jung, J. - H",
+    "teaser_id": "publication-39"
   },
   {
     "year": "2016",
@@ -698,7 +723,8 @@
     ],
     "citation": "Jae-Hyun Jung, Tian Pu, Eli Peli. (2016). Comparing object recognition from binary and bipolar edge features. IS&T Human Vision and Electronic Imaging XXI.",
     "id": "publication-40",
-    "authors_original": "Jung, J. - H., Pu, T., & Peli, E"
+    "authors_original": "Jung, J. - H., Pu, T., & Peli, E",
+    "teaser_id": "publication-40"
   },
   {
     "year": "2015",
@@ -722,7 +748,8 @@
     ],
     "citation": "Jae-Hyun Jung, Doron Aloni, Yitzhak Yitzhaky, Eli Peli. (2015). Active Confocal Imaging for Visual Prostheses. Vision Research, 111, 182-196.",
     "id": "publication-41",
-    "authors_original": "Jung, J. - H., Aloni, D., Yitzhaky, Y., & Peli, E"
+    "authors_original": "Jung, J. - H., Aloni, D., Yitzhaky, Y., & Peli, E",
+    "teaser_id": "publication-41"
   },
   {
     "year": "2014",
@@ -758,7 +785,8 @@
     ],
     "citation": "Jae-Hyun Jung, Eli Peli. (2014). Impact of high power and angle of incidence on prism corrections for visual field loss. Optical Engineering, 53 (6), 061707.",
     "id": "publication-43",
-    "authors_original": "Jung, J. - H., & Peli, E"
+    "authors_original": "Jung, J. - H., & Peli, E",
+    "teaser_id": "publication-43"
   },
   {
     "year": "2014",
@@ -811,7 +839,8 @@
     ],
     "citation": "Soon-Gi Park, Jae-Hyun Jung, Youngmo Jeong, Byoungho Lee. (2013). Depth-fused display with improved viewing characteristics. Opt. Express, 21 (23), 28758–28770. OSA.",
     "id": "publication-46",
-    "authors_original": "Park, S. -gi, Jung, J. - H., Jeong, Y., & Lee, B"
+    "authors_original": "Park, S. -gi, Jung, J. - H., Jeong, Y., & Lee, B",
+    "teaser_id": "publication-46"
   },
   {
     "year": "2013",

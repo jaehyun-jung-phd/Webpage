@@ -230,5 +230,247 @@
     "width": 259.0,
     "height": 36.0,
     "source": "https://www.massgeneralbrigham.org/en/global/media_1e91a193ca28a2549dfd6b7505754c816c7a02d47.svg"
+  },
+  "publication-6": {
+    "src": "assets/teasers/publication-6.webp",
+    "alt": "Fresnel and multi-periscopic peripheral prism glasses used in the pedestrian collision detection pilot study.",
+    "width": 1200,
+    "height": 252,
+    "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11245167/#F1",
+    "figure": "Figure 1",
+    "image_source": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/c000/11245167/f1f2fe805cc4/nihms-1991687-f0001.jpg"
+  },
+  "publication-7": {
+    "src": "assets/teasers/publication-7.webp",
+    "alt": "Field and percept diagrams illustrating binocular double vision in a savannah scene.",
+    "width": 660,
+    "height": 244,
+    "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11193068/#fig2",
+    "figure": "Figure 2",
+    "image_source": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/9b35/11193068/6b5175a088bb/jovi-24-6-13-f002.jpg"
+  },
+  "publication-8": {
+    "src": "assets/teasers/publication-8.webp",
+    "alt": "Virtual-reality views comparing optic flow through peripheral prisms and image crop-and-shift field expansion.",
+    "width": 793,
+    "height": 699,
+    "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10942672/#g009",
+    "figure": "Figure 9",
+    "image_source": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8d63/10942672/3f8472916609/boe-15-3-1393-g009.jpg"
+  },
+  "publication-9": {
+    "src": "assets/teasers/publication-9.webp",
+    "alt": "Participant seated at the wide-field display used to test pedestrian collision judgments.",
+    "width": 769,
+    "height": 1000,
+    "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10883473/#F4",
+    "figure": "Figure 4",
+    "image_source": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/d50d/10883473/c95ae2c50efb/nihms-1964758-f0004.jpg"
+  },
+  "publication-11": {
+    "src": "assets/teasers/publication-11.webp",
+    "alt": "Peripheral display configurations and target detection procedure used to study visual rivalry.",
+    "width": 685,
+    "height": 375,
+    "source": "https://www.nature.com/articles/s41598-023-47427-8#Fig1",
+    "figure": "Figure 1",
+    "image_source": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41598-023-47427-8/MediaObjects/41598_2023_47427_Fig1_HTML.png"
+  },
+  "publication-12": {
+    "src": "assets/teasers/publication-12.webp",
+    "alt": "Two-stage Develop then Rival framework for decomposing superimposed images.",
+    "width": 1200,
+    "height": 659,
+    "source": "https://duanhuiyu.github.io/files/2022/2022_TMM_duan.pdf#page=3",
+    "figure": "Figure 1"
+  },
+  "publication-13": {
+    "src": "assets/teasers/publication-13.webp",
+    "alt": "Visual field diagram and thin-man percept examples illustrating the scotoma carving hypothesis.",
+    "width": 1200,
+    "height": 514,
+    "source": "https://pelilab.partners.org/papers/the_invisibility_of_scotomas_i__the_carving.4.pdf#page=4",
+    "figure": "Figure 3"
+  },
+  "publication-14": {
+    "src": "assets/teasers/publication-14.webp",
+    "alt": "Prototype oblique multi-periscopic prism glasses with primary and scanning prisms.",
+    "width": 782,
+    "height": 317,
+    "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10191663/#g007",
+    "figure": "Figure 7",
+    "image_source": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/252d/10191663/4748494af2ce/boe-14-5-2352-g007.jpg"
+  },
+  "publication-15": {
+    "src": "assets/teasers/publication-15.webp",
+    "alt": "Real corridor, virtual shopping mall, and walking trajectories during a VR collision avoidance test.",
+    "width": 1107,
+    "height": 1000,
+    "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10037228/#F5",
+    "figure": "Figure 5",
+    "image_source": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/7c45/10037228/8a7c5b28263d/nihms-1883721-f0005.jpg"
+  },
+  "publication-16": {
+    "src": "assets/teasers/publication-16.webp",
+    "alt": "Peripheral grating stimuli, display configurations, and target visibility procedure.",
+    "width": 1200,
+    "height": 758,
+    "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10037227/#F1",
+    "figure": "Figure 1",
+    "image_source": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/acc1/10037227/9eb6f268dee7/nihms-1883720-f0001.jpg"
+  },
+  "publication-18": {
+    "src": "assets/teasers/publication-18.webp",
+    "alt": "BrainPort training setup and camera-to-tongue stimulus display.",
+    "width": 652,
+    "height": 246,
+    "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8007668/#F1",
+    "figure": "Figure 1",
+    "image_source": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/1ee1/8007668/3d7ae5d2182a/nihms-1660100-f0001.jpg"
+  },
+  "publication-19": {
+    "src": "assets/teasers/publication-19.webp",
+    "alt": "Miniature camera module and prototype camera array for computational integral imaging.",
+    "width": 917,
+    "height": 238,
+    "source": "https://pelilab.partners.org/papers/3D-2022-3Tu5A.2.pdf#page=1",
+    "figure": "Figure 1"
+  },
+  "publication-21": {
+    "src": "assets/teasers/publication-21.webp",
+    "alt": "Camera and lens-holder arrangements for photographing the field of view through low-vision aids.",
+    "width": 800,
+    "height": 651,
+    "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8560063/#F3",
+    "figure": "Figure 3",
+    "image_source": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/f9d7/8560063/e11bcd19e289/ovs-98-1210-g004.jpg"
+  },
+  "publication-24": {
+    "src": "assets/teasers/publication-24.webp",
+    "alt": "3D-printed multi-periscopic prism module and prototype prism glasses.",
+    "width": 657,
+    "height": 178,
+    "source": "https://pelilab.partners.org/papers/boe-11-9-4872.pdf#page=7",
+    "figure": "Figure 7"
+  },
+  "publication-25": {
+    "src": "assets/teasers/publication-25.webp",
+    "alt": "Clip-on multiplexing prism glasses fitted to a participant with acquired monocular vision.",
+    "width": 1060,
+    "height": 200,
+    "source": "https://pelilab.partners.org/papers/Jung%20et%20al.%20-%202020%20-%20Field%20Expansion%20with%20Multiplexing%20Prism%20Glasses%20Improves%20Pedestrian%20Detection%20for%20Acquired%20Monocular%20Vision.pdf#page=4",
+    "figure": "Figure 4"
+  },
+  "publication-26": {
+    "src": "assets/teasers/publication-26.webp",
+    "alt": "Sequential tongue-electrode stimulation frames tracing the letter A.",
+    "width": 1015,
+    "height": 482,
+    "source": "https://pelilab.partners.org/papers/Sci.%20Report%202020%20Zahide.pdf#page=4",
+    "figure": "Figure 3"
+  },
+  "publication-27": {
+    "src": "assets/teasers/publication-27.webp",
+    "alt": "Ray diagram of the 45-degree periscopic visual field expansion device.",
+    "width": 616,
+    "height": 634,
+    "source": "https://pelilab.partners.org/papers/1-s2.0-S0030401819307084-main.pdf#page=3",
+    "figure": "Figure 5"
+  },
+  "publication-29": {
+    "src": "assets/teasers/publication-29.webp",
+    "alt": "Optical diagrams showing field shift and apical scotoma with full-field prisms.",
+    "width": 1200,
+    "height": 409,
+    "source": "https://pelilab.partners.org/papers/No_Useful_Field_Expansion_Merged.pdf#page=2",
+    "figure": "Figure 1"
+  },
+  "publication-30": {
+    "src": "assets/teasers/publication-30.webp",
+    "alt": "Multiplexing prism glasses and the measured field expansion for acquired monocular vision.",
+    "width": 915,
+    "height": 426,
+    "source": "https://pelilab.partners.org/papers/Field_Expansion_for_Acquired_Monocular_Vision.16-merged.pdf#page=9",
+    "figure": "Figure 9"
+  },
+  "publication-31": {
+    "src": "assets/teasers/publication-31.webp",
+    "alt": "Low-resolution word representations, word-length groups, and example recognition responses.",
+    "width": 1200,
+    "height": 726,
+    "source": "https://pelilab.partners.org/papers/Hanetal_word%20recognition%20paper.pdf#page=4",
+    "figure": "Figure 1"
+  },
+  "publication-33": {
+    "src": "assets/teasers/publication-33.webp",
+    "alt": "Running-man sculpture represented at low resolution with increasing background clutter.",
+    "width": 1200,
+    "height": 187,
+    "source": "https://pelilab.partners.org/papers/i2164-2591-7-5-29%20Motion%20parallax%20w%20suppl2.pdf#page=5",
+    "figure": "Figure 3"
+  },
+  "publication-34": {
+    "src": "assets/teasers/publication-34.webp",
+    "alt": "Light-field background de-cluttering and edge representations for visual prostheses.",
+    "width": 1183,
+    "height": 213,
+    "source": "https://pelilab.partners.org/papers/Light%20Field%20Decluttering.pdf#page=2",
+    "figure": "Figure 2"
+  },
+  "publication-35": {
+    "src": "assets/teasers/publication-35.webp",
+    "alt": "Micrographs of two multiplexing prism prototypes showing prism and flat elements.",
+    "width": 1200,
+    "height": 338,
+    "source": "https://pelilab.partners.org/papers/Peli%20et%20al%202017%20MxP%20.pdf#page=2",
+    "figure": "Figure 2"
+  },
+  "publication-38": {
+    "src": "assets/teasers/publication-38.webp",
+    "alt": "Original object photograph compared with binary and bipolar edge representations.",
+    "width": 1020,
+    "height": 745,
+    "source": "https://pelilab.partners.org/papers/JEI_25_6_061619.pdf#page=4",
+    "figure": "Figure 1"
+  },
+  "publication-39": {
+    "src": "assets/teasers/publication-39.webp",
+    "alt": "Mirror-based periscopic prism design showing the field of view and angular image shift.",
+    "width": 1200,
+    "height": 487,
+    "source": "https://pelilab.partners.org/papers/High_Power_Prismatic_Devices_for_Oblique.11.pdf#page=10",
+    "figure": "Figure 10"
+  },
+  "publication-40": {
+    "src": "assets/teasers/publication-40.webp",
+    "alt": "Watering-pot photograph compared with binary and bipolar edge images.",
+    "width": 1200,
+    "height": 272,
+    "source": "https://pelilab.partners.org/papers/Jung_et_al_2016_objectRec.pdf#page=2",
+    "figure": "Figure 1"
+  },
+  "publication-41": {
+    "src": "assets/teasers/publication-41.webp",
+    "alt": "Active confocal imaging isolates an object from background clutter for simulated prosthetic vision.",
+    "width": 1055,
+    "height": 285,
+    "source": "https://pelilab.partners.org/papers/Active%20confocal%20imaging%20for%20visual%20prostheses1.pdf#page=2",
+    "figure": "Figure 1"
+  },
+  "publication-43": {
+    "src": "assets/teasers/publication-43.webp",
+    "alt": "Photograph of visual distortions through a high-power prism against an angular grid.",
+    "width": 563,
+    "height": 428,
+    "source": "https://pelilab.partners.org/papers/061707_1_1389981477_1.pdf#page=3",
+    "figure": "Figure 1"
+  },
+  "publication-46": {
+    "src": "assets/teasers/publication-46.webp",
+    "alt": "Conventional and viewing-angle-enhanced depth-fused display configurations.",
+    "width": 860,
+    "height": 953,
+    "source": "https://pdfs.semanticscholar.org/eca0/d4f37abcd1a6bf27056c55d78d96d57a1dec.pdf#page=3",
+    "figure": "Figure 1"
   }
 }
