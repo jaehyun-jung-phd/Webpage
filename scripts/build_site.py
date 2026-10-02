@@ -161,7 +161,7 @@ page('publications','Publications','Publications, preprints, patents, and confer
 body=heading('Projects','Spatial intelligence, immersive systems, and technologies that connect human vision with computation.')
 body+='<section aria-labelledby="recent-projects"><h2 id="recent-projects">Recent work</h2><div class="project-grid">'
 pubs_by_id = {p['id']: p for p in pubs}
-recent_projects=[('Spatial-IQ','Hierarchical capability tests help pinpoint where multimodal models succeed or fail at spatial reasoning.','publication-1'),('Radiance fields on light field displays','Efficient rendering connects radiance field representations with interactive, glasses-free 3D displays.','publication-2'),('Natural walking in immersive VR','Studies of hemianopia and cerebral visual impairment measure pedestrian detection, avoidance, and visual scanning during natural walking.','publication-3'),('Perceptual evaluation of video artifacts','Human-observer experiments examine artifact detection across different video comparison interfaces.','publication-5')]
+recent_projects=[('Spatial-IQ','Hierarchical capability tests help pinpoint where multimodal models succeed or fail at spatial reasoning.','publication-1'),('Radiance fields on light field displays','Efficient rendering connects radiance field representations with interactive, glasses-free 3D displays.','publication-2'),('Natural walking in immersive VR','Studies of hemianopia and cerebral visual impairment measure pedestrian detection, avoidance, and visual scanning during natural walking.','publication-3')]
 for title,summary,publication_id in recent_projects:
     paper=pubs_by_id[publication_id]
     ls=paper['links']
