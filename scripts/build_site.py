@@ -73,6 +73,7 @@ def page(route, title, description, body):
 <head>
 {analytics_tag()}  <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="icon" type="image/png" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAC0lEQVR4nGNgAAIAAAUAAXpeqz8AAAAASUVORK5CYII=">
   <meta name="description" content="{e(description)}">
   <title>{e(title)} — Jae-Hyun Jung</title>
   <link rel="stylesheet" href="{prefix}assets/site.css">
