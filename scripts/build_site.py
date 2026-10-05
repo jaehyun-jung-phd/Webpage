@@ -2,6 +2,7 @@
 """Build the static site: python3 scripts/build_site.py.
 Edit content/*.json, templates/home.html, and assets/site.css; generated HTML
 is committed alongside sources and needs no server-side runtime.
+Configure Google Analytics with the Web stream's Measurement ID in content/site.json.
 """
 import json
 import re
@@ -18,6 +19,21 @@ def load(name):
     return json.loads((ROOT / 'content' / f'{name}.json').read_text())
 def e(value):
     return escape(str(value), quote=True)
+def analytics_tag():
+    measurement_id = load('site').get('google_analytics_measurement_id', '')
+    if not measurement_id:
+        return ''
+    if not isinstance(measurement_id, str) or not re.fullmatch(r'G-[A-Z0-9]+', measurement_id):
+        raise ValueError('google_analytics_measurement_id must be a GA4 Measurement ID starting with G-')
+    return f'''  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id={measurement_id}"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){{dataLayer.push(arguments);}}
+    gtag('js', new Date());
+    gtag('config', '{measurement_id}');
+  </script>
+'''
 def author_line(authors):
     return e(authors).replace('Jae-Hyun Jung', '<strong>Jae-Hyun Jung</strong>')
 def href(route, prefix):
@@ -55,7 +71,7 @@ def page(route, title, description, body):
     output = f'''<!doctype html>
 <html lang="en">
 <head>
-  <meta charset="utf-8">
+{analytics_tag()}  <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="description" content="{e(description)}">
   <title>{e(title)} — Jae-Hyun Jung</title>
