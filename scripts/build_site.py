@@ -2,6 +2,8 @@
 """Build the static site: python3 scripts/build_site.py.
 Edit content/*.json, templates/home.html, and assets/site.css; generated HTML
 is committed alongside sources and needs no server-side runtime.
+For each new publication, use publication-N with N one greater than the current
+maximum ID number. Keep existing IDs stable; year/date control display order.
 Configure Google Analytics with the Web stream's Measurement ID in content/site.json.
 """
 import json
