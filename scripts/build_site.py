@@ -4,6 +4,9 @@ Edit content/*.json, templates/home.html, and assets/site.css; generated HTML
 is committed alongside sources and needs no server-side runtime.
 For each new publication, use publication-N with N one greater than the current
 maximum ID number. Keep existing IDs stable; year/date control display order.
+Add the known publication date as YYYY-MM or YYYY-MM-DD for chronological
+placement in Publications and the five most recent Home updates. Year-only
+records sort after dated records from the same year.
 Configure Google Analytics with the Web stream's Measurement ID in content/site.json.
 """
 import json
