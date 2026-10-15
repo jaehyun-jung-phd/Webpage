@@ -26,6 +26,19 @@
   },
   {
     "year": "2026",
+    "title": "Fast light field rendering from three-dimensional (3d) representations",
+    "authors": "Jonghyun Kim, Cheng Sun, Michael Stengel, Andrew Russell, Jae-Hyun Jung, Shalini De Mello, David Patrick Luebke",
+    "venue": "US Patent Application No. US20260212591A1",
+    "type": "Patent",
+    "links": [
+      {
+        "label": "Link",
+        "url": "https://patents.google.com/patent/US20260212591A1/en"
+      }
+    ]
+  },
+  {
+    "year": "2026",
     "date": "2026-06-29",
     "title": "Real-time 3D Visualization of Radiance Fields on Light Field Displays",
     "authors": "Jonghyun Kim, Cheng Sun, Michael Stengel, Matthew Chan, Andrew Russell, Jae-Hyun Jung, Wil Braithwaite, David Luebke, Shalini De Mello",
