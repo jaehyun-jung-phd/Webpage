@@ -682,5 +682,12 @@
     "width": 1920,
     "height": 1080,
     "source": "https://fovi-dex.github.io/assets/fovi-dex-explainer.mp4?v=715f3e4e7def1f9d"
+  },
+  "publication-10": {
+    "src": "assets/teasers/publication-10.jpg",
+    "alt": "Near eye display based on multiplexed retinal projections for robust compensation of eye pupil variance.",
+    "width": 168,
+    "height": 168,
+    "source": "https://opg.optica.org/getThumbnail.cfm?uri=oe-32-2-2631&s=n&size=168"
   }
 }
