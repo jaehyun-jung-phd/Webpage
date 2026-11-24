@@ -472,5 +472,208 @@
     "height": 953,
     "source": "https://pdfs.semanticscholar.org/eca0/d4f37abcd1a6bf27056c55d78d96d57a1dec.pdf#page=3",
     "figure": "Figure 1"
+  },
+  "publication-47": {
+    "src": "assets/teasers/publication-47.webp",
+    "alt": "Experimental views and real-time 3D reconstruction of objects captured by an integral imaging system.",
+    "width": 960,
+    "height": 1107,
+    "source": "https://pdfs.semanticscholar.org/313b/b342a4982305a00f5eb594f78ed8217ce0b1.pdf#page=11",
+    "figure": "Figure 7",
+    "retrieved_on": "2026-10-15"
+  },
+  "publication-52": {
+    "src": "assets/teasers/publication-52.webp",
+    "alt": "Experimental views and optical setup of a frontal projection display using a single projector and passive optical components.",
+    "width": 1152,
+    "height": 585,
+    "source": "https://pdfs.semanticscholar.org/2c9c/00425b3832cc94d200e55fb9fb6a88a718df.pdf#page=9",
+    "figure": "Figure 8",
+    "retrieved_on": "2026-10-15"
+  },
+  "publication-53": {
+    "src": "assets/teasers/publication-53.webp",
+    "alt": "Experimental optical setups for integral imaging with color filter pinhole arrays on two LCD panel types.",
+    "width": 1140,
+    "height": 411,
+    "source": "https://pdfs.semanticscholar.org/09f8/7a0676b5864f85fb8d13a3d6fd5adeae748d.pdf#page=9",
+    "figure": "Figure 6",
+    "retrieved_on": "2026-10-15"
+  },
+  "publication-63": {
+    "src": "assets/teasers/publication-63.webp",
+    "alt": "Stereo pickup, multi-view pickup, and multi-view display geometry used to analyze depth resolution.",
+    "width": 1125,
+    "height": 921,
+    "source": "https://pdfs.semanticscholar.org/337e/4ccff57719f0dffe0f0aa9e46d9f5d5dd68c.pdf#page=7",
+    "figure": "Figure 4",
+    "retrieved_on": "2026-10-15"
+  },
+  "publication-92": {
+    "src": "assets/teasers/publication-92.webp",
+    "alt": "Object depth samples and a segmented triangular mesh reconstructed from integral images.",
+    "width": 723,
+    "height": 1020,
+    "source": "https://koreascience.or.kr/article/JAKO200912840746901.pdf#page=6",
+    "figure": "Figure 12",
+    "retrieved_on": "2026-10-15"
+  },
+  "publication-93": {
+    "src": "assets/teasers/publication-93.webp",
+    "alt": "Movie frames and their reconstructed 3D geometry using optical flow and image segmentation.",
+    "width": 702,
+    "height": 996,
+    "source": "https://koreascience.or.kr/article/JAKO200906261461346.pdf#page=6",
+    "figure": "Figure 9",
+    "retrieved_on": "2026-10-15"
+  },
+  "publication-109": {
+    "src": "assets/teasers/publication-109.webp",
+    "alt": "An integral imaging display controlled by a computer with moving pinholes on one LCD and elemental images on a second LCD.",
+    "width": 954,
+    "height": 486,
+    "source": "https://pdfs.semanticscholar.org/ed8b/bd16b023ac287de01e674a47636ea149d4f7.pdf#page=5",
+    "figure": "Figure 3",
+    "retrieved_on": "2026-10-15"
+  },
+  "publication-54": {
+    "src": "assets/teasers/publication-54.webp",
+    "alt": "Experimental comparison of a natural image reconstructed with conventional sampling and corrected subpixel sampling.",
+    "width": 653,
+    "height": 319,
+    "source": "https://oak.go.kr/central/journallist/journaldetail.do?article_seq=11489",
+    "figure": "Figure 12",
+    "retrieved_on": "2026-10-15",
+    "credit": "Kim et al. · CC BY-NC"
+  },
+  "publication-80": {
+    "src": "assets/teasers/publication-80.webp",
+    "alt": "Stereoscopic display timing and simulated motion blur for patterned retarder, active retarder, and shutter glasses displays.",
+    "width": 975,
+    "height": 618,
+    "source": "https://oak.go.kr/central/journallist/journaldetail.do?article_seq=10747",
+    "figure": "Figure 7",
+    "retrieved_on": "2026-10-15",
+    "credit": "Choi et al. · CC BY-NC"
+  },
+  "publication-42": {
+    "src": "assets/teasers/publication-42.webp",
+    "alt": "An optical setup combining light field microscopy, a microlens array, and a display for real-time 3D visualization.",
+    "width": 723,
+    "height": 963,
+    "source": "https://web.archive.org/web/20170812165720id_/http://scholar.harvard.edu/files/jaehyun_jung/files/oe-22-9-10210.pdf#page=9",
+    "original_source": "http://scholar.harvard.edu/files/jaehyun_jung/files/oe-22-9-10210.pdf",
+    "figure": "Figure 5",
+    "retrieved_on": "2026-10-15"
+  },
+  "publication-45": {
+    "src": "assets/teasers/publication-45.webp",
+    "alt": "Fabrication of 3D titanium dioxide photoanodes and electron micrographs of pillar, prism, pyramid, and inverted-pyramid structures.",
+    "width": 951,
+    "height": 552,
+    "source": "https://web.archive.org/web/20221209160703id_/https://scholar.harvard.edu/files/jaehyun_jung/files/3111_ftp.pdf#page=2",
+    "original_source": "https://scholar.harvard.edu/files/jaehyun_jung/files/3111_ftp.pdf",
+    "figure": "Figure 1",
+    "retrieved_on": "2026-10-15"
+  },
+  "publication-48": {
+    "src": "assets/teasers/publication-48.webp",
+    "alt": "Captured and converted elemental images with reconstructed views of a Rubik's cube before and after pseudoscopic correction.",
+    "width": 1467,
+    "height": 369,
+    "source": "https://web.archive.org/web/20221209160632id_/https://scholar.harvard.edu/files/jaehyun_jung/files/ol-38-1-76.pdf#page=3",
+    "original_source": "https://scholar.harvard.edu/files/jaehyun_jung/files/ol-38-1-76.pdf",
+    "figure": "Figure 4",
+    "retrieved_on": "2026-10-15"
+  },
+  "publication-51": {
+    "src": "assets/teasers/publication-51.webp",
+    "alt": "Experimental apparatus and participant measurement of accommodation while viewing real objects and integral 3D images.",
+    "width": 576,
+    "height": 852,
+    "source": "https://web.archive.org/web/20151023072445id_/http://scholar.harvard.edu/files/jaehyun_jung/files/ykim_jdt.pdf#page=4",
+    "original_source": "http://scholar.harvard.edu/files/jaehyun_jung/files/ykim_jdt.pdf",
+    "figure": "Figure 2",
+    "retrieved_on": "2026-10-15"
+  },
+  "publication-64": {
+    "src": "assets/teasers/publication-64.webp",
+    "alt": "Optical reconstructions of objects separated by 5 mm using undivided and divided phase-only holograms.",
+    "width": 534,
+    "height": 510,
+    "source": "https://web.archive.org/web/20240629151136id_/https://scholar.harvard.edu/files/jaehyun_jung/files/col201109120009_1.pdf#page=4",
+    "original_source": "https://scholar.harvard.edu/files/jaehyun_jung/files/col201109120009_1.pdf",
+    "figure": "Figure 6",
+    "retrieved_on": "2026-10-15"
+  },
+  "publication-65": {
+    "src": "assets/teasers/publication-65.webp",
+    "alt": "Reconstructed pencil-cup images and magnified details comparing rectangular and hexagonal lens-array sampling.",
+    "width": 597,
+    "height": 507,
+    "source": "https://web.archive.org/web/20170812015310id_/http://scholar.harvard.edu/files/jaehyun_jung/files/resolution_comparison_between_integral-imaging-based_hologram_synthesis_methods_using_rectangular_and_hexagonal_lens_arrays_-_2011_-_chen_et_al.pdf#page=9",
+    "original_source": "http://scholar.harvard.edu/files/jaehyun_jung/files/resolution_comparison_between_integral-imaging-based_hologram_synthesis_methods_using_rectangular_and_hexagonal_lens_arrays_-_2011_-_chen_et_al.pdf",
+    "figure": "Figure 11",
+    "retrieved_on": "2026-10-15"
+  },
+  "publication-77": {
+    "src": "assets/teasers/publication-77.webp",
+    "alt": "A cylindrical integral imaging display and its flexible display panel, barrier, and electroluminescent backlight layers.",
+    "width": 765,
+    "height": 1014,
+    "source": "https://web.archive.org/web/20170811184152id_/http://scholar.harvard.edu/files/jaehyun_jung/files/360_deg_-viewable_cylindrical_integral_imaging_system_using_a_3-d_2-d_switchable_and_flexible_backlight_-_2010_-_jung_et_al.pdf#page=2",
+    "original_source": "http://scholar.harvard.edu/files/jaehyun_jung/files/360_deg_-viewable_cylindrical_integral_imaging_system_using_a_3-d_2-d_switchable_and_flexible_backlight_-_2010_-_jung_et_al.pdf",
+    "figure": "Figure 1",
+    "retrieved_on": "2026-10-15"
+  },
+  "publication-78": {
+    "src": "assets/teasers/publication-78.webp",
+    "alt": "Experimental views of depth reconstruction with conventional and dual-depth integral imaging using polymer-dispersed liquid-crystal films.",
+    "width": 735,
+    "height": 711,
+    "source": "https://web.archive.org/web/20240629212945id_/https://scholar.harvard.edu/files/jaehyun_jung/files/films_and_a_dual-depth_configuration_-_2010_-_pham_et_al.pdf#page=2",
+    "original_source": "https://scholar.harvard.edu/files/jaehyun_jung/files/films_and_a_dual-depth_configuration_-_2010_-_pham_et_al.pdf",
+    "figure": "Figure 3",
+    "retrieved_on": "2026-10-15"
+  },
+  "publication-79": {
+    "src": "assets/teasers/publication-79.webp",
+    "alt": "Reconstructed 3D images of a textured box and a numeral before and after rectification of elemental-image distortions.",
+    "width": 1113,
+    "height": 1164,
+    "source": "https://web.archive.org/web/20240629150107id_/https://scholar.harvard.edu/files/jaehyun_jung/files/rectification_of_elemental_image_set_and_extraction_of_lens_lattice_by_projective_image_transformation_in_integral_imaging_-_2010_-_hong_et_al.pdf#page=14",
+    "original_source": "https://scholar.harvard.edu/files/jaehyun_jung/files/rectification_of_elemental_image_set_and_extraction_of_lens_lattice_by_projective_image_transformation_in_integral_imaging_-_2010_-_hong_et_al.pdf",
+    "figure": "Figure 11",
+    "retrieved_on": "2026-10-15"
+  },
+  "publication-81": {
+    "src": "assets/teasers/publication-81.webp",
+    "alt": "Views of a box and a hand before and after reconstruction of occluded regions using optical flow and triangular meshes.",
+    "width": 1128,
+    "height": 279,
+    "source": "https://web.archive.org/web/20170811050655id_/http://scholar.harvard.edu/files/jaehyun_jung/files/reconstruction_of_three-dimensional_occluded_object_using_optical_flow_and_triangular_mesh_reconstruction_in_integral_imaging._-_2010_-_jung_et_al2.pdf#page=15",
+    "original_source": "http://scholar.harvard.edu/files/jaehyun_jung/files/reconstruction_of_three-dimensional_occluded_object_using_optical_flow_and_triangular_mesh_reconstruction_in_integral_imaging._-_2010_-_jung_et_al2.pdf",
+    "figure": "Figure 17",
+    "retrieved_on": "2026-10-15"
+  },
+  "publication-94": {
+    "src": "assets/teasers/publication-94.webp",
+    "alt": "Tracked viewer positions and reconstructed 3D characters observed from multiple positions without elemental-image overlap.",
+    "width": 780,
+    "height": 804,
+    "source": "https://web.archive.org/web/20240629174031id_/https://scholar.harvard.edu/files/jaehyun_jung/files/multi-viewer_tracking_integral_imaging_system_and_its_viewing_zone_analysis._-_2009_-_park_et_al.pdf#page=13",
+    "original_source": "https://scholar.harvard.edu/files/jaehyun_jung/files/multi-viewer_tracking_integral_imaging_system_and_its_viewing_zone_analysis._-_2009_-_park_et_al.pdf",
+    "figure": "Figure 12",
+    "retrieved_on": "2026-10-15"
+  },
+  "publication-95": {
+    "src": "assets/teasers/publication-95.webp",
+    "alt": "Switching electroluminescent backlight layers between 3D integral imaging and conventional 2D display modes.",
+    "width": 551,
+    "height": 1200,
+    "source": "https://web.archive.org/web/20240630125653id_/https://scholar.harvard.edu/files/jaehyun_jung/files/integral_imaging_system_using_an_electroluminescent_film_backlight_for_three-dimensional-two-dimensional_convertibility_and_a_curved_structure._-_2009_-_jung_et_al3.pdf#page=4",
+    "original_source": "https://scholar.harvard.edu/files/jaehyun_jung/files/integral_imaging_system_using_an_electroluminescent_film_backlight_for_three-dimensional-two-dimensional_convertibility_and_a_curved_structure._-_2009_-_jung_et_al3.pdf",
+    "figure": "Figure 4",
+    "retrieved_on": "2026-10-15"
   }
 }

@@ -2,6 +2,12 @@
 """Build the static site: python3 scripts/build_site.py.
 Edit content/*.json, templates/home.html, and assets/site.css; generated HTML
 is committed alongside sources and needs no server-side runtime.
+For each new publication, use publication-N with N one greater than the current
+maximum ID number. Keep existing IDs stable; year/date control display order.
+Add the known publication date as YYYY-MM or YYYY-MM-DD for chronological
+placement in Publications and the five most recent Home updates. Year-only
+records sort after dated records from the same year.
+Configure Google Analytics with the Web stream's Measurement ID in content/site.json.
 """
 import json
 import re
@@ -18,6 +24,21 @@ def load(name):
     return json.loads((ROOT / 'content' / f'{name}.json').read_text())
 def e(value):
     return escape(str(value), quote=True)
+def analytics_tag():
+    measurement_id = load('site').get('google_analytics_measurement_id', '')
+    if not measurement_id:
+        return ''
+    if not isinstance(measurement_id, str) or not re.fullmatch(r'G-[A-Z0-9]+', measurement_id):
+        raise ValueError('google_analytics_measurement_id must be a GA4 Measurement ID starting with G-')
+    return f'''  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id={measurement_id}"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){{dataLayer.push(arguments);}}
+    gtag('js', new Date());
+    gtag('config', '{measurement_id}');
+  </script>
+'''
 def author_line(authors):
     return e(authors).replace('Jae-Hyun Jung', '<strong>Jae-Hyun Jung</strong>')
 def href(route, prefix):
@@ -55,8 +76,9 @@ def page(route, title, description, body):
     output = f'''<!doctype html>
 <html lang="en">
 <head>
-  <meta charset="utf-8">
+{analytics_tag()}  <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="icon" type="image/png" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAC0lEQVR4nGNgAAIAAAUAAXpeqz8AAAAASUVORK5CYII=">
   <meta name="description" content="{e(description)}">
   <title>{e(title)} — Jae-Hyun Jung</title>
   <link rel="stylesheet" href="{prefix}assets/site.css">

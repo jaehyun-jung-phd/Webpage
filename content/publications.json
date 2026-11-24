@@ -46,6 +46,22 @@
   },
   {
     "year": "2026",
+    "date": "2026-07-23",
+    "title": "Fast light field rendering from three-dimensional (3d) representations",
+    "authors": "Jonghyun Kim, Cheng Sun, Michael Stengel, Andrew Russell, Jae-Hyun Jung, Shalini De Mello, David Patrick Luebke",
+    "venue": "US Patent Application No. US20260212591A1",
+    "type": "Patent",
+    "links": [
+      {
+        "label": "Link",
+        "url": "https://patents.google.com/patent/US20260212591A1/en"
+      }
+    ],
+    "id": "publication-154",
+    "metadata_source": "https://patents.justia.com/patent/20260212591"
+  },
+  {
+    "year": "2026",
     "date": "2026-06-29",
     "title": "Real-time 3D Visualization of Radiance Fields on Light Field Displays",
     "authors": "Jonghyun Kim, Cheng Sun, Michael Stengel, Matthew Chan, Andrew Russell, Jae-Hyun Jung, Wil Braithwaite, David Luebke, Shalini De Mello",
@@ -785,7 +801,8 @@
     ],
     "citation": "Jonghyun Kim, Jae-Hyun Jung, Youngmo Jeong, Keehoon Hong, Byoungho Lee. (2014). Real-time integral imaging system for light field microscopy. Opt. Express, 22, 10210–10220. OSA.",
     "id": "publication-42",
-    "authors_original": "Kim, J., Jung, J. - H., Jeong, Y., Hong, K., & Lee, B"
+    "authors_original": "Kim, J., Jung, J. - H., Jeong, Y., Hong, K., & Lee, B",
+    "teaser_id": "publication-42"
   },
   {
     "year": "2014",
@@ -843,7 +860,8 @@
     ],
     "citation": "Sanghyuk Wooh, Hyunsik Yoon, Jae-Hyun Jung, Yong-Gun Lee, Jai Hyun Koh, Byoungho Lee, Yong Soo Kang, Kookheon Char. (2013). Efficient Light Harvesting with Micropatterned 3D Pyramidal Photoanodes in Dye-Sensitized Solar Cells. Advanced Materials, 25 (22), 3111–3116.",
     "id": "publication-45",
-    "authors_original": "Wooh, S., Yoon, H., Jung, J. - H., Lee, Y. - G., Koh, J. H., Lee, B., Kang, Y. S., et al"
+    "authors_original": "Wooh, S., Yoon, H., Jung, J. - H., Lee, Y. - G., Koh, J. H., Lee, B., Kang, Y. S., et al",
+    "teaser_id": "publication-45"
   },
   {
     "year": "2013",
@@ -876,7 +894,8 @@
     ],
     "citation": "Jonghyun Kim, Jae-Hyun Jung, Changwon Jang, Byoungho Lee. (2013). Real-time capturing and 3D visualization method based on integral imaging. Opt. Express, 21, 18742–18753. OSA.",
     "id": "publication-47",
-    "authors_original": "Kim, J., Jung, J. - H., Jang, C., & Lee, B"
+    "authors_original": "Kim, J., Jung, J. - H., Jang, C., & Lee, B",
+    "teaser_id": "publication-47"
   },
   {
     "year": "2013",
@@ -892,7 +911,8 @@
     ],
     "citation": "Jae-Hyun Jung, Jonghyun Kim, Byoungho Lee. (2013). Solution of pseudoscopic problem in integral imaging for real-time processing. Opt. Lett., 38, 76–78. OSA.",
     "id": "publication-48",
-    "authors_original": "Jung, J. - H., Kim, J., & Lee, B"
+    "authors_original": "Jung, J. - H., Kim, J., & Lee, B",
+    "teaser_id": "publication-48"
   },
   {
     "year": "2013",
@@ -935,7 +955,8 @@
     ],
     "citation": "Youngmin Kim, Jongshin Kim, Keehoon Hong, Hee Kyung Yang, Jae-Hyun Jung, Heejin Choi, Sung-Wook Min, Jong-Mo Seo, Jeong-Min Hwang, Byoungho Lee. (2012). Accommodative Response of Integral Imaging in Near Distance. J. Disp. Technol., 8, 70-78.",
     "id": "publication-51",
-    "authors_original": "Kim, Y., Kim, J., Hong, K., Yang, H. K., Jung, J. - H., Choi, H., Min, S. - W., et al"
+    "authors_original": "Kim, Y., Kim, J., Hong, K., Yang, H. K., Jung, J. - H., Choi, H., Min, S. - W., et al",
+    "teaser_id": "publication-51"
   },
   {
     "year": "2012",
@@ -955,7 +976,8 @@
     ],
     "citation": "Youngmin Kim, Keehoon Hong, Jiwoon Yeom, Jisoo Hong, Jae-Hyun Jung, Yong Wook Lee, Jae-Hyeung Park, Byoungho Lee. (2012). A frontal projection-type three-dimensional display. Opt. Express, 20, 20130–20138. OSA.",
     "id": "publication-52",
-    "authors_original": "Kim, Y., Hong, K., Yeom, J., Hong, J., Jung, J. - H., Lee, Y. W., Park, J. - H., et al"
+    "authors_original": "Kim, Y., Hong, K., Yeom, J., Hong, J., Jung, J. - H., Lee, Y. W., Park, J. - H., et al",
+    "teaser_id": "publication-52"
   },
   {
     "year": "2012",
@@ -971,7 +993,8 @@
     ],
     "citation": "Jae-Hyun Jung, Soon-Gi Park, Youngmin Kim, Byoungho Lee. (2012). Integral imaging using a color filter pinhole array on a display panel. Opt. Express, 20, 18744–18756. OSA.",
     "id": "publication-53",
-    "authors_original": "Jung, J. - H., Park, S. -gi, Kim, Y., & Lee, B"
+    "authors_original": "Jung, J. - H., Park, S. -gi, Kim, Y., & Lee, B",
+    "teaser_id": "publication-53"
   },
   {
     "year": "2012",
@@ -987,7 +1010,8 @@
     ],
     "citation": "Jonghyun Kim, Jae-Hyun Jung, Jisoo Hong, Jiwoon Yeom, Byoungho Lee. (2012). Elemental Image Generation Method with the Correction of Mismatch Error by Sub-pixel Sampling between Lens and Pixel in Integral Imaging. J. Opt. Soc. Korea, 16, 29–35. OSA.",
     "id": "publication-54",
-    "authors_original": "Kim, J., Jung, J. - H., Hong, J., Yeom, J., & Lee, B"
+    "authors_original": "Kim, J., Jung, J. - H., Hong, J., Yeom, J., & Lee, B",
+    "teaser_id": "publication-54"
   },
   {
     "year": "2012",
@@ -1115,7 +1139,8 @@
     ],
     "citation": "Jae-Hyun Jung, Jiwoon Yeom, Jisoo Hong, Keehoon Hong, Sung-Wook Min, Byoungho Lee. (2011). Effect of fundamental depth resolution and cardboard effect to perceived depth resolution on multi-view display. Opt. Express, 19, 20468–20482. OSA.",
     "id": "publication-63",
-    "authors_original": "Jung, J-H, Yeom, J., Hong, J., Hong, K., Min, S. - W., & Lee, B"
+    "authors_original": "Jung, J-H, Yeom, J., Hong, J., Hong, K., Min, S. - W., & Lee, B",
+    "teaser_id": "publication-63"
   },
   {
     "year": "2011",
@@ -1131,7 +1156,8 @@
     ],
     "citation": "Jiwoon Yeom, Jisoo Hong, Jae-Hyun Jung, Keehoon Hong, Jae-Hyeung Park, Byoungho Lee. (2011). Phase-only hologram generation based on integral imaging and its enhancement in depth resolution. Chin. Opt. Lett., 9, 120009. OSA.",
     "id": "publication-64",
-    "authors_original": "Yeom, J., Hong, J., Jung, J. - H., Hong, K., Park, J. - H., & Lee, B"
+    "authors_original": "Yeom, J., Hong, J., Jung, J. - H., Hong, K., Park, J. - H., & Lee, B",
+    "teaser_id": "publication-64"
   },
   {
     "year": "2011",
@@ -1147,7 +1173,8 @@
     ],
     "citation": "Ni Chen, Jiwoon Yeom, Jae-Hyun Jung, Jae-Hyeung Park, Byoungho Lee. (2011). Resolution comparison between integral-imaging-based hologram synthesis methods using rectangular and hexagonal lens arrays. Opt. Express, 19, 26917–26927. OSA.",
     "id": "publication-65",
-    "authors_original": "Chen, N., Yeom, J., Jung, J. - H., Park, J. - H., & Lee, B"
+    "authors_original": "Chen, N., Yeom, J., Jung, J. - H., Park, J. - H., & Lee, B",
+    "teaser_id": "publication-65"
   },
   {
     "year": "2011",
@@ -1318,7 +1345,8 @@
     ],
     "citation": "Jae-Hyun Jung, Keehoon Hong, Gilbae Park, Indeok Chung, Byoungho Lee. (2010). 360°-viewable cylindrical integral imaging system using a 3-D/2-D switchable and flexible backlight. J. Soc. Inf. Disp., 18, 527–534.",
     "id": "publication-77",
-    "authors_original": "Jung, J. - H., Hong, K., Park, G., Chung, I., & Lee, B"
+    "authors_original": "Jung, J. - H., Hong, K., Park, G., Chung, I., & Lee, B",
+    "teaser_id": "publication-77"
   },
   {
     "year": "2010",
@@ -1334,7 +1362,8 @@
     ],
     "citation": "Duc-Quang Pham, Nam Kim, Ki-Chul Kwon, Jae-Hyun Jung, Keehoon Hong, Byoungho Lee, Jae-Hyeung Park. (2010). Depth enhancement of integral imaging by using polymer-dispersed liquid-crystal films and a dual-depth configuration. Opt. Lett., 35, 3135–3137. OSA.",
     "id": "publication-78",
-    "authors_original": "Pham, D. - Q., Kim, N., Kwon, K. - C., Jung, J. - H., Hong, K., Lee, B., & Park, J. - H"
+    "authors_original": "Pham, D. - Q., Kim, N., Kwon, K. - C., Jung, J. - H., Hong, K., Lee, B., & Park, J. - H",
+    "teaser_id": "publication-78"
   },
   {
     "year": "2010",
@@ -1350,7 +1379,8 @@
     ],
     "citation": "Keehoon Hong, Jisoo Hong, Jae-Hyun Jung, Jae-Hyeung Park, Byoungho Lee. (2010). Rectification of elemental image set and extraction of lens lattice by projective image transformation in integral imaging. Opt. Express, 18, 12002–12016. OSA.",
     "id": "publication-79",
-    "authors_original": "Hong, K., Hong, J., Jung, J. - H., Park, J. - H., & Lee, B"
+    "authors_original": "Hong, K., Hong, J., Jung, J. - H., Park, J. - H., & Lee, B",
+    "teaser_id": "publication-79"
   },
   {
     "year": "2010",
@@ -1366,7 +1396,8 @@
     ],
     "citation": "Hee-Jin Choi, Jae-Hyun Jung, Hwi Kim, Byoungho Lee. (2010). Analysis of the Motion Picture Quality of Stereoscopic Three-dimensional Images. J. Opt. Soc. Korea, 14, 383–387. OSA.",
     "id": "publication-80",
-    "authors_original": "Choi, H. - J., Jung, J. - H., Kim, H., & Lee, B. - H"
+    "authors_original": "Choi, H. - J., Jung, J. - H., Kim, H., & Lee, B. - H",
+    "teaser_id": "publication-80"
   },
   {
     "year": "2010",
@@ -1382,7 +1413,8 @@
     ],
     "citation": "Jae-Hyun Jung, Keehoon Hong, Gilbae Park, Indeok Chung, Jae-Hyeung Park, Byoungho Lee. (2010). Reconstruction of three-dimensional occluded object using optical flow and triangular mesh reconstruction in integral imaging. Opt. Express, 18, 26373–26387. OSA.",
     "id": "publication-81",
-    "authors_original": "Jung, J. - H., Hong, K., Park, G., Chung, I., Park, J. - H., & Lee, B"
+    "authors_original": "Jung, J. - H., Hong, K., Park, G., Chung, I., Park, J. - H., & Lee, B",
+    "teaser_id": "publication-81"
   },
   {
     "year": "2010",
@@ -1538,7 +1570,8 @@
     ],
     "citation": "Jin-Mo Kang, Jae-Hyun Jung, Byoungho Lee, Jae-Hyeung Park. (2009). Object-based integral imaging depth extraction using segmentation. Korean Journal of Optics and Photonics, 20 (2), 94-101.",
     "id": "publication-92",
-    "authors_original": "Kang, J., Jung, J. - H., Lee, B., & Park, J. - H"
+    "authors_original": "Kang, J., Jung, J. - H., Lee, B., & Park, J. - H",
+    "teaser_id": "publication-92"
   },
   {
     "year": "2009",
@@ -1554,7 +1587,8 @@
     ],
     "citation": "Jae-Hyun Jung, Gilbae Park, Joohwan Kim, Jin-Mo Kang, Byoungho Lee. (2009). Three-dimensional conversion of two-dimensional movie using optical flow and normalized cut. Korean Journal of Optics and Photonics, 20 (1), 16-22.",
     "id": "publication-93",
-    "authors_original": "Jung, J. - H., Park, G., Kim, J., Kang, J., & Lee, B"
+    "authors_original": "Jung, J. - H., Park, G., Kim, J., Kang, J., & Lee, B",
+    "teaser_id": "publication-93"
   },
   {
     "year": "2009",
@@ -1570,7 +1604,8 @@
     ],
     "citation": "Gilbae Park, Jae-Hyun Jung, Keehoon Hong, Yunhee Kim, Young-Hoon Kim, Sung-Wook Min, Byoungho Lee. (2009). Multi-viewer tracking integral imaging system and its viewing zone analysis. Opt. Express, 17 (20), 17895–17908. OSA.",
     "id": "publication-94",
-    "authors_original": "Park, G., Jung, J. - H., Hong, K., Kim, Y., Kim, Y. - H., Min, S. - W., & Lee, B"
+    "authors_original": "Park, G., Jung, J. - H., Hong, K., Kim, Y., Kim, Y. - H., Min, S. - W., & Lee, B",
+    "teaser_id": "publication-94"
   },
   {
     "year": "2009",
@@ -1586,7 +1621,8 @@
     ],
     "citation": "Jae-Hyun Jung, Yunhee Kim, Youngmin Kim, Joohwan Kim, Keehoon Hong, Byoungho Lee. (2009). Integral imaging system using an electroluminescent film backlight for three-dimensional-two-dimensional convertibility and a curved structure. Appl. Opt., 48, 998–1007. OSA.",
     "id": "publication-95",
-    "authors_original": "Jung, J. - H., Kim, Y., Kim, Y., Kim, J., Hong, K., & Lee, B"
+    "authors_original": "Jung, J. - H., Kim, Y., Kim, Y., Kim, J., Hong, K., & Lee, B",
+    "teaser_id": "publication-95"
   },
   {
     "year": "2009",
@@ -1805,7 +1841,8 @@
     ],
     "citation": "Yunhee Kim, Joohwan Kim, Jin-Mo Kang, Jae-Hyun Jung, Heejin Choi, Byoungho Lee. (2007). Point light source integral imaging with improved resolution and viewing angle by the use of electrically movable pinhole array. Opt. Express, 15, 18253–18267. OSA.",
     "id": "publication-109",
-    "authors_original": "Kim, Y., Kim, J., Kang, J. - M., Jung, J. - H., Choi, H., & Lee, B"
+    "authors_original": "Kim, Y., Kim, J., Kang, J. - M., Jung, J. - H., Choi, H., & Lee, B",
+    "teaser_id": "publication-109"
   },
   {
     "year": "2007",
