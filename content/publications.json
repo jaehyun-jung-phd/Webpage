@@ -1,6 +1,26 @@
 [
   {
     "year": "2026",
+    "date": "2026-11",
+    "title": "FOVI-Dex: Foveation enables efficient perceptive learning of dexterous manipulation in simulation",
+    "authors": "Nicholas M. Blauch, Nicolas Moenne-Loccoz, Jayjun Lee, Patrick Yin, Asif Rana, Mohak Bhardwaj, Jessica Yin, Sam Mady, Marilyn Reeb, Karl Van Wyk, Nathan Ratliff, Jae-Hyun Jung, Ruth Rosenholtz, Ankur Handa, Gavriel State",
+    "venue": "Dex Manipulation Workshop · CoRL 2026)",
+    "type": "Publication",
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://fovi-dex.github.io/assets/paper.pdf?v=1f8b5946a902e371"
+      },
+      {
+        "label": "Project Page",
+        "url": "https://fovi-dex.github.io"
+      }
+    ],
+    "source": "https://fovi-dex.github.io/assets/architecture.svg?v=cf01a6026eaa7f0c",
+    "id": "publication-202611"
+  },
+  {
+    "year": "2026",
     "date": "2026-09",
     "title": "Spatial-IQ: Deconstructing Spatial Intelligence via Hierarchical Capability Tests",
     "authors": "Patrick Rim, Tom Long, Ekta Prashnani, Ruth Rosenholtz, Ben Boudaoud, Peter Xenopoulos, Alex Wong, Joohwan Kim, Jae-Hyun Jung",
