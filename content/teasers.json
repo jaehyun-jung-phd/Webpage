@@ -675,5 +675,12 @@
     "original_source": "https://scholar.harvard.edu/files/jaehyun_jung/files/integral_imaging_system_using_an_electroluminescent_film_backlight_for_three-dimensional-two-dimensional_convertibility_and_a_curved_structure._-_2009_-_jung_et_al3.pdf",
     "figure": "Figure 4",
     "retrieved_on": "2026-10-15"
+  },
+  "fovi-dex": {
+    "src": "assets/teasers/fovi-dex.webp",
+    "alt": "FOVI-Dex explainer: foveation for dexterous manipulation in simulation.",
+    "width": 1920,
+    "height": 1080,
+    "source": "https://fovi-dex.github.io/assets/fovi-dex-explainer.mp4?v=715f3e4e7def1f9d"
   }
 }
